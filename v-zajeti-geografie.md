@@ -5,7 +5,7 @@
 * Ze západu bylo Ruska mnohokrát napadeno. Např. 1812 Francouzy v čele s Napoleonem a naposledy Němci 1914 a 1941.
 * První osidlování na ruském území v 9. století v Kyjevské Rusi. Od 13. století probíhala mongolská expanze. První ruský car byl v roce 1547 Ivan Hrozný a rozšířil Rusko až po Ural. V následujícím století Rusko expandovalo až po Tichý oceán. V 18. století se Rusko za Petra Velikého a později i carevny Kateřiny Veliké rozšířilo na západ a obsadilo Ukrajinu a pobaltské země.
 * 11 časových pásem.
-* V asijských zemích žije jen 22% Rusů.
+* V asijské části žije jen 22% Rusů.
 * Rusko bylo za sovětských času v podstatě kolonialní mocností. Za hranicemi centrálního Ruska jsou lidé, kteří se necítí být etnickými Rusy, k Moskvě loajalitu necítí. V budoucnu možna východ připadne Číně.
 * V roce 1979 válka s Afgánistánem. Cílem bylo rozšířit území, než to udělá někdo jiný. Měli by přístup k Indickému oceánu a uskutečnil by se ruský sen. Místo toho nastal “ruský” Víetnam.
 * Proruské země bývalého Sovětského svazu: Kazachstán, Kyrgyzstán, Tádžikistán, Bělorusko, Arménie. Neutrální země: Uzbekistán, Ázerbájdžán a Turkmenistán (jsou energeticky soběstačné). Zbytek jsou prozápadní země: Estonsko, Gruzie, Lotyšsko, Litva, Moldavsko a Ukrajina.

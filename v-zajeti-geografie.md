@@ -3,7 +3,7 @@
 ## Rusko
 * V roce 1949 vzniklo NATO. Odpovědí byla Varšavská smlouva (všechny komunistické republiky té doby). Po rozpadu Sovětského svazu je NATO blíže a blíže.
 * Ze západu bylo Ruska mnohokrát napadeno. Např. 1812 Francouzy v čele s Napoleonem a naposledy Němci 1914 a 1941.
-* První osidlování na ruském území v 9. století v Kyjevské Rusi. Od 13. století probíhala mongolská expanze. První ruský car byl v toce 1547 Ivan Hrozný a rozšířil Rusko až po Ural. V následiujícím století Rusko expandovalo až po Tichý oceán. V 18. století se Rusko z Patra Velikého a později i carevny Kateřiny Veliké rozšířilo na západ a obsadilo Ukrajinu a pobaltské země.
+* První osidlování na ruském území v 9. století v Kyjevské Rusi. Od 13. století probíhala mongolská expanze. První ruský car byl v roce 1547 Ivan Hrozný a rozšířil Rusko až po Ural. V následiujícím století Rusko expandovalo až po Tichý oceán. V 18. století se Rusko z Patra Velikého a později i carevny Kateřiny Veliké rozšířilo na západ a obsadilo Ukrajinu a pobaltské země.
 * 11 časových pásem.
 * V asijských zemích žije jen 22% Rusů.
 * Rusko bylo za sovětských času v podstatě kolonialní mocností. Za hranicemi centrálního Ruska jsou lidé, kteří se necítí být etnickými Rusy, k Moskvě loajalitu necítí. V budoucnu možna východ připadne Číně.

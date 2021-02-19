@@ -1,5 +1,9 @@
 # Knihy
 
+## Sapiens: Stručné dějiny lidstva 
+* Yuval Noah Harari, 2015
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/sapiens.md)
+
 ## V zajetí geografie: jak lze pomocí deseti map pochopit světovou politiku
 * Tim Marshall, 2019
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/v-zajeti-geografie.md)

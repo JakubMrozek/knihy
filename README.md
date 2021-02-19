@@ -43,3 +43,7 @@
 ##  High Performance JavaScript: Build Faster Web Application Interfaces
 * Nicholas C. Zakas, 2010
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/high-performance-javaScript.md)
+
+## Dějiny evropské integrace
+* Martin Kovář, 2006
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/dejiny-evropske-integrace.md)

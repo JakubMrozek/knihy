@@ -39,3 +39,7 @@
 ## Neurovědy 
 * Klaus Bernhardt, 2018
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/neurovedy.md)
+
+##  High Performance JavaScript: Build Faster Web Application Interfaces
+* Nicholas C. Zakas, 2010
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/high-performance-javaScript.md)

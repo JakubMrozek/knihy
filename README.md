@@ -30,4 +30,4 @@
 
 ## Homo deus: Stručné dějiny zítřka
 * Harari Noah Yuval, 2017
-* * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md)
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md)

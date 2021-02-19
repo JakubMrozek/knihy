@@ -1,6 +1,6 @@
-Poznámky z knihy V zajetí geografie
-Geopolitika zkoumá, jak porozumět mezinárodnímu dění prizmatem geografických faktorů.
-Rusko
+## V zajetí geografie (Tim Marshall)
+* Geopolitika zkoumá, jak porozumět mezinárodnímu dění prizmatem geografických faktorů.
+# Rusko
 V roce 1949 vzniklo NATO. Odpovědí byla Varšavská smlouva (všechny komunistické republiky té doby). Po rozpadu Sovětského svazu je NATO blíže a blíže.
 Ze západu bylo Ruska mnohokrát napadeno. Např. 1812 Francouzy v čele s Napoleonem a naposledy Němci 1914 a 1941.
 První osidlování na ruském území v 9. století v Kyjevské Rusi. Od 13. století probíhala mongolská expanze. První ruský car byl v toce 1547 Ivan Hrozný a rozšířil Rusko až po Ural. V následiujícím století Rusko expandovalo až po Tichý oceán. V 18. století se Rusko z Patra Velikého a později i carevny Kateřiny Veliké rozšířilo na západ a obsadilo Ukrajinu a pobaltské země.
@@ -179,5 +179,9 @@ Další zásoby ropy jsou ve Falklandách, což jsou ostrovy na západě Argenti
 Arktida
 V území operuje několik zemí, dominanci mají jednoznačně Rusové. 
 První výprava zde proběhla už v roce 330 p.n.l, provedl ji Pýtheás z Massalie.
+Poprvé překonal jednu ze severních cest Roald Amundsen v roce 1905 (kolem ostrova krále Viléma). O 20 let později severní pól přeletěl.
+Probíhá masivní tání ledu. Do konce století už přes lét nebude v arktidě žádný led, pravděpodobně ale dříve. Již dnes je cesta sever určiou část roku přístupná, což významně snižuje náklady na cestu. Tání ohrožuje především Bangladéš, Maledivy a Nizozemsko.
+Probíhají četné spory o oblast. Největší náskok má Rusko, které oblast považuje za svojí sféru vlivu. Nejvíce zaostalé je USA (má jen jednoho ledoborce).
+Do budoucna je zde riziko konfliktu.
 
 

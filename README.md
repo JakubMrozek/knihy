@@ -15,3 +15,7 @@
 ## Cirkadiánní kód: Využijte přirozený rytmus těla pro zdraví, výkon a zhubnutí
 * Satchin Panda, 2018
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/cirkadianni-kod.md)
+
+## Atomové návyky: Jak si budovat dobré návyky a zbavovat se těch špatných
+* James Clear, 2018
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/atomove-navyky.md)

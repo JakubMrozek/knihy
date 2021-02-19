@@ -1,4 +1,4 @@
-# Poznámky z knihy Sapiens
+# Sapiens: Stručné dějiny lidstva (Yuval Noah Harari)
 ## Kapitola 1
 * Primáti podobní lidem se objevili před 2,5 mil let.
 * Druhy (jedinci se spolu mohou pářit - např. druhy psů); druhy se společným předkem jsou sdruženy do rodu; homo sapiens patří do druhu sapiens (moudrý) rodu homo (člověk); rody se dále seskupují do čeledí - člověk patří do stejné čeledi jako orangutani či šimpanzi; šimpanzi jsou nám nejbližší, před 6 mil. let měla jedna opice dvě dcery - jedna se stala předkem všech šimpanzů a druhá naší prababičkou.

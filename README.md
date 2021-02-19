@@ -23,3 +23,7 @@
 ## Od nuly k jedničce: Úvahy o startupech aneb jak tvořit budoucnost
 * Peter Thiel, 2014
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/od-nuly-k-jednicce.md)
+
+## Navždy plynule: Jak se rychle naučit cizí jazyk a nikdy ho nezapomenout 
+* Gabriel Wyner, 2014
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/navzdy-plynule.md)

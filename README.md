@@ -28,10 +28,6 @@
 * Gabriel Wyner, 2014
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/navzdy-plynule.md)
 
-## Homo deus: Stručné dějiny zítřka
-* Harari Noah Yuval, 2017
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md)
-
 ## Nauč se to: Jak se s pomocí vědy efektivněji učit a více si pamatovat
 * Peter Christopher Brown, 2017
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/nauc-se-to.md)
@@ -39,6 +35,10 @@
 ##  High Performance JavaScript: Build Faster Web Application Interfaces
 * Nicholas C. Zakas, 2010
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/high-performance-javaScript.md)
+
+## Homo deus: Stručné dějiny zítřka
+* Harari Noah Yuval, 2017
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md)
 
 ## Neurovědy 
 * Klaus Bernhardt, 2018

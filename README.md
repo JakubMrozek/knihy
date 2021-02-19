@@ -35,3 +35,7 @@
 ## Nauč se to: Jak se s pomocí vědy efektivněji učit a více si pamatovat
 * Peter Christopher Brown, 2017
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/nauc-se-to.md)
+
+## Neurovědy 
+* Klaus Bernhardt, 2018
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/neurovedy.md)

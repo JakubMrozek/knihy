@@ -27,3 +27,7 @@
 ## Navždy plynule: Jak se rychle naučit cizí jazyk a nikdy ho nezapomenout 
 * Gabriel Wyner, 2014
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/navzdy-plynule.md)
+
+## Homo deus: Stručné dějiny zítřka
+* Harari Noah Yuval, 2017
+* * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md)

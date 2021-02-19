@@ -1,4 +1,4 @@
-## V zajetí geografie: jak lze pomocí deseti map pochopit světovou politiku (Tim Marshall)
+## V zajetí geografie: Jak lze pomocí deseti map pochopit světovou politiku (Tim Marshall)
 * Geopolitika zkoumá, jak porozumět mezinárodnímu dění prizmatem geografických faktorů.
 # Rusko
 * V roce 1949 vzniklo NATO. Odpovědí byla Varšavská smlouva (všechny komunistické republiky té doby). Po rozpadu Sovětského svazu je NATO blíže a blíže.

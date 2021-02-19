@@ -47,3 +47,7 @@
 ## Dějiny evropské integrace
 * Martin Kovář, 2006
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/dejiny-evropske-integrace.md)
+
+## Úspěšná paměť 
+* Gunther Karsten, 2006
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/uspesna-pamet.md)

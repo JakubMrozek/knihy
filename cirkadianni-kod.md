@@ -1,4 +1,4 @@
-# Cirkadiánní kód (Satchin Panda)
+# CCirkadiánní kód: Využijte přirozený rytmus těla pro zdraví, výkon a zhubnutí (Satchin Panda)
 * Sociální jet lag - lidí chodí o víkendu spát později a vstávají také později. Platí to až pro 50% populace a není to dobré pro tělo.
 * Vstávat, snídat, večeřet, spát vždy ve stejný čas.
 * Modré světlo je problém, snažit se mu vyhnout, červené lepší. V noci aplikovat co nejméně světla.

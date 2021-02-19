@@ -19,3 +19,7 @@
 ## Atomové návyky: Jak si budovat dobré návyky a zbavovat se těch špatných
 * James Clear, 2018
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/atomove-navyky.md)
+
+## Od nuly k jedničce: Úvahy o startupech aneb jak tvořit budoucnost
+* Peter Thiel, 2014
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/od-nuly-k-jednicce.md)

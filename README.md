@@ -51,3 +51,8 @@
 ## Úspěšná paměť 
 * Gunther Karsten, 2006
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/uspesna-pamet.md)
+
+## Factfulness: Ten reasons we're wrong about the world and why things are better than you think 
+* Hans Rosling, 2018
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/factfulness.md)
+

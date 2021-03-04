@@ -56,3 +56,6 @@
 * Hans Rosling, 2018
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/factfulness.md)
 
+## Hospodářské dějiny a ekonomické teorie
+* Pavel Sirůček, 2007
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/hospodarske-dejiny-a-ekonomicke-teorie.md)

@@ -1,4 +1,4 @@
-# Hospodářské dějiny 20. století (VŠE, 2010)
+# Hospodářské dějiny a ekonomické teorie: vývoj, současnost, výhledy (Pavel Sirůček)
 
 ## První světová válka a její příčiny
 * Expanzivní politika Německa a boj velmocí o kolonie vede k růstu mezinárodního napětí, zbrojením závodům a nebezpečí globál. vojenského konfliktu.

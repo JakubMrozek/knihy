@@ -59,3 +59,7 @@
 ## Hospodářské dějiny a ekonomické teorie: vývoj, současnost, výhledy 
 * Pavel Sirůček, 2007
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/hospodarske-dejiny-a-ekonomicke-teorie.md)
+
+## Pravidlo žádných pravidel: převratná firemní kultura, díky niž Netflix dobyl svět
+* Reed Hastings, 2020
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/pravidlo-zadnych-pravidel.md)

@@ -61,7 +61,7 @@ Vývoj směřuje k univerzální kultuře, nikoliv rozdrobené. Máme tři poten
 * Peníze jsou to, co umožnilo, aby lidé, kteří se neznají, spolu mohli efektivně spolupracovat. Je to jediný systém vzájemné důvěry a systém, který nediskriminuje podle víry, pohlaví, rasy atd.
 ## Kapitola 12
 * Říše vládne mnoha národům s vlastní identitou. Bývají velmi stabilní a rychle proměňují kulturu národů, které spolknou. V několika minulých tisíciletích žila většina lidí v nějaké říši. Největší říší bylo Britské impérium, první říší Akkadská říše 2250 p.n.l.
-* Společenští savci se v průběhu evoluce vyvinuli ke xenofobii. Vždy dělíme lidi na my a oni, Sdílíme jazyk, náboženství, zvyky. Odjakživa se od nich lišíme a nic jim nedlužíme. Nechceme je na našem území. 
+* Společenští savci se v průběhu evoluce vyvinuli ke xenofobii. Vždy dělíme lidi na my a oni. Sdílíme jazyk, náboženství, zvyky. Odjakživa se od nich lišíme a nic jim nedlužíme. Nechceme je na našem území. 
 * Císařové říší většinou věřili, že přichízí podrobený národ zachránit. Dobývali barbary, aby jim přinesli civilizaci. I Američané dnes věří, že je jejich morální povinností šířit po světě demokracii a lidská práva, i když je roznášejí rakety s plouchou dráhou doletu a F-16.
 ## Kapitola 13
 * Náboženství hrálo vedle říší a peněz další významnou roli k sjednocení lidí. V tomto případě z pozice nadlidské (nebeské) autority. Náboženství je systém nadlidských norem a hodnot, který se zakládá ve víře v nadlidský řád  (nebyl stvořen člověkem). Náboženství musí být univerzální (platí pro všechny) a misionářské (snaží se získat pro svou víru každého).

@@ -14,7 +14,7 @@
     - logika 
     - lokalizace (metoda loci)
     - vizualizace (spojuje vše dohromady, to nejdůležitější)
-    - systém čísel a tvarů (hledání tvarů k deseti číslům od nuly do devítky a spojení do příběhu)
+* systém čísel a tvarů (hledání tvarů k deseti číslům od nuly do devítky a spojení do příběhu)
 * ## Master-systém 
 * nejlepší systém na zapamatování čísel, lze si tímto způsobem zapamatovat velmi dlouhá čísla i bez nutnosti opakování
 * vytvoří se stálé spojení mezi souhláskami a číslicemi (např. 0 = c, s, z; 1 = t, 2 = n, 3 = m, …), mezi souhlásky se vloží samohlásky, aby vzniklo slovo, např “team” je číslo 13, protože t = 1 a m = 3, takto se vytvoří 100 slov, které je potřeba si zapamatovat

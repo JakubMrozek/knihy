@@ -1,9 +1,9 @@
 ## Úspěšná paměť (Gunther Karsten)
 * stres je velmi negativní faktor, který ovlivňuje zapamatování
 * druhy paměti: 
-* ultrakrátkodobá (0,5 - 2s)
-* krátkodobá (do 20s, experimentálně ověřeno max. 20 minut)
-* dlouhodová (neomezené trvání, kapacita a krátký vyvolávací čas)
+    - ultrakrátkodobá (0,5 - 2s)
+    - krátkodobá (do 20s, experimentálně ověřeno max. 20 minut)
+    - dlouhodová (neomezené trvání, kapacita a krátký vyvolávací čas)
 * chunks je informační jednotka zapamatování (číslo 6378 - zapamatování po jednotlivých cifrách = 4 chunks, zapamatování jako jeden údaj (poloměr Země) = 1 chunk)
 * člověk si zapamatuje 7 +/- 2 chunks, cílem je vytváření kvalitnějších a rozsáhlejších chunks (19381945198019881989 = jako 20 chunks si číslo zapamatovat lze jen těžko, jako 5 letopočtů je to easy)
 * mentální schopnosti:

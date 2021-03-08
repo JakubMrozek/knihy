@@ -1,4 +1,4 @@
-## Úspěšná paměť (Gunther Karsten)
+# Úspěšná paměť (Gunther Karsten)
 * stres je velmi negativní faktor, který ovlivňuje zapamatování
 * druhy paměti: 
     - ultrakrátkodobá (0,5 - 2s)
@@ -15,12 +15,12 @@
     - lokalizace (metoda loci)
     - vizualizace (spojuje vše dohromady, to nejdůležitější)
 * systém čísel a tvarů (hledání tvarů k deseti číslům od nuly do devítky a spojení do příběhu)
-* ## Master-systém 
+## Master-systém 
 * nejlepší systém na zapamatování čísel, lze si tímto způsobem zapamatovat velmi dlouhá čísla i bez nutnosti opakování
 * vytvoří se stálé spojení mezi souhláskami a číslicemi (např. 0 = c, s, z; 1 = t, 2 = n, 3 = m, …), mezi souhlásky se vloží samohlásky, aby vzniklo slovo, např “team” je číslo 13, protože t = 1 a m = 3, takto se vytvoří 100 slov, které je potřeba si zapamatovat
 * dlouhé číslo se pak rozloží na dvojciferná čísla, která se přetransformují na ta slova a z nich se vytvoří příběh
 * v běžném životě se hodí na pamatování tel. čísel, hesel, PIN, významných dat, časů schůzek (kódovat do vizualizace i dny v týdnu či osobu a místo)
-* ## Metoda loci (metoda tras, metoda cílů)
+## Metoda loci (metoda tras, metoda cílů)
 * “killer feature” Cicera či Senecy
 * vytvoří se trasa v dobře známém prostředí (např. postel -> okno -> kaktus -> záchod …), na každý bod se umístí věc, kterou si chceme zapamatovat a propojíme daný bod s věcí pomocí vizualizace 
 * metoda byla krásně představena v Show Jana Krause: http://www.youtube.com/watch?v=QRD_UqLk4tk 
@@ -31,7 +31,7 @@
 * někdy je zapamatování složitých jmen a názvů velmi těžké, je potřeba hodně fantazie, hledání slov i v jiných jazycích, snažit se najít alespoň část toho slova
 * při pamatování obličejů postupovat podobně, hledat nějaké spojení mezi příjmením a obličejem člověka (pan Červinka - člověk s knírem...pod knírem mu vylézá červ)
 * pro křestní jména je to podobné, vytvářet vizualizace (Martin = nápoj Martini, Karel = Karlův most, atd).
-* ## Metoda klíčových slov
+## Metoda klíčových slov
 * vytvořeno na Stanfordské univerzitě
 * používá se pro učení cizích slovíček
 * princip spočívá v hledání slovíčka v mateřštině, které zní podobně jako cizí slovo (nebo alespoň části) a vytvoření vizualizace mezi oběma výrazy (např. angl. lizard je ještěrka = ještěrka má dlouhý jazyk a pořád si něco líže, lízá)

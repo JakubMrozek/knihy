@@ -8,7 +8,7 @@
 * Na prostředí záleží. Pro nové zvyky je ideální vytvářet nové prostředí, aby se nám onen zvyk "zažil".
 * Odstranit triggery (třeba nezdravé jídlo z dohledu). Trigger causing compulsive craving to repeat a bad habit.
 * Propojování aktivit. Co potřebuji udělat s tím, co rád dělám.
-* Kvalita vs. kvanitita. Příklad se dvěma skupinami fotografů. Jedni byli hodnocení podle množství fotek, druzí podle kvality. Lepší výsledky měli nakonec ti, kteří byli hodnoceni podle kvantity, protože se nesnažili vyumělkovat jednu fotku (netrávili čas nad teorií), ale místo toho trénovali a trénovali. Nesnažit se o perfekcionismus, důležité je začít. All or nothing je zlo!
+* Kvalita vs. kvantita. Příklad se dvěma skupinami fotografů. Jedni byli hodnocení podle množství fotek, druzí podle kvality. Lepší výsledky měli nakonec ti, kteří byli hodnoceni podle kvantity, protože se nesnažili vyumělkovat jednu fotku (netrávili čas nad teorií), ale místo toho trénovali a trénovali. Nesnažit se o perfekcionismus, důležité je začít. All or nothing je zlo!
 * Schovat telefon a žrouty času z dohledu. Když ho nevidíš, tak ho nepoužíváš.
 * Udělat návyky ze začátku co nejjednodušší, jak to jen jde. Jde hlavně o to začít.
 * Oblékání do konkrétního oblečení pro konkrétní činnost. Mozek se naučí, že teď je čas pro činnost XYZ.

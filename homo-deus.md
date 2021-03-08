@@ -4,7 +4,7 @@
 * V roce 2012 zabili zločinci 0,5 mil. lidi, války 0,12 mil. lidi, ale sebevražda 0,8 mil. a cukrovka 1,5 mil. lidi. Dnes jsme už znalostní společnst a válka nemá smysl.
 * Epikuros jako první nehledá štěstí u bohů, ale v pozemském životě. Honba za penězi, slávou a potěšením končí v pocitu marnosti. Vypracoval dlouhý seznam morálních zákazů a za nejvyšší metu považoval přátelství.
 * Jsme dnes šťastnější? V chudých zemích spáchá sebevraždu 1 člověk na 100 tis., ale v bohatých až 25. V J. Koreji pote, co zbohatla, se počet sebevražd zvýšil 3x. Spokojenost zůstává v průměru stejná, přestože se máme materiálně mnohem lépe.
-* Štěstí je dáno biochemií a evolucí? Kdyby byl člověk příliš spokojen, už by nic nedělal a vymřel. Nespokojenost nutila hledat další potravu. Reformovat školu nebo biochemii žáků? Naše cíle: nesmrtelnost, nekonečné štěstí, božské chování (úpravy genetiky ap.)
+* Štěstí je dáno biochemií a evolucí? Kdyby byl člověk příliš spokojen, už by nic nedělal a vymřel. Nespokojenost nutila hledat další potravu. Reformovat školu nebo biochemii žáků? Naše cíle: nesmrtelnost, nekonečné štěstí, božské chování (úpravy genetiky ap.).
 * Hnutí za změnu řádu začínají přepisem dějin. Prohlásí se, že situace není ani přirozená, ani udržitelná. Usilují o vysvobození z dějin.
 * Příběh trávníku. Proč ho mají lidé před domem? Dříve to byl symbol statusu. Vyžaduje čas a peníze. Sloužil také pro obřady - normálně se po něm chodit nesmělo, jen ve zvláštních příležitostech.
 * Ani dnes stále nevíme, jak vzniká a funguje vědomí. Nevíme, jak funguje v mozku zlost, láska sp.

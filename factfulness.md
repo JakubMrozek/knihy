@@ -41,7 +41,7 @@
 ## The single perspective instinct
 * Víra, že vše má jednoduché řešení. Že všechny problémy mají jednu příčinu (např. anarchokapitalismus).
 * Experti jsou experty jen v jedné oblasti. A je to těžké pro ně přiznat. “We like to feel that our special skills make us generally better.”
-* Demokracie rozhodně není vhodná pro všechny. Největší progres aktuálně nedělají demokratické země. J. Kirea se dostala ze země 1. kategorie na zemi 3. kategorie jako diktatura, až poté se stala demokracií. Mezi roky 2012 a 2016 z 9 z 10 zemí s nejrychlejším růstem mělo velmi nízké hodnocení stavu demokracie.
+* Demokracie rozhodně není vhodná pro všechny. Největší progres aktuálně nedělají demokratické země. J. Korea se dostala ze země 1. kategorie na zemi 3. kategorie jako diktatura, až poté se stala demokracií. Mezi roky 2012 a 2016 z 9 z 10 zemí s nejrychlejším růstem mělo velmi nízké hodnocení stavu demokracie.
 ## The blame instinct
 * Víra, že lze najít jednoduchý, jasný důvod, proč se něco špatného stalo. Myslíme si, že se věci dějí, protože někdo chtěl.
 * Průzkum v mediích odhaluje, že jsou na tom se znalostmi stejně jako ostatní lidi. I když o něčem referují, nemají větší přehled než obyčejní lidé. Nejsou tedy lepší než šimpanzi.

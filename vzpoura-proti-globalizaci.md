@@ -15,7 +15,7 @@
 * Globální oteplování způsobuje, že mizí korály. Voda se otepluje a je kyselejší, protože absorbuje více oxidu uhličitého ze vzduchu. Polovina australského Velkého barierového útesu je mrtvá. Od 80. let podlehla zhruba polovina všech korálových útesů na světě.
 * Globální turismus je zodpovědný za 8% skleníkových plynů.
 * Fundamentalismus (z latinského fundamentum – základ) je urputné lpění na základních principech. Je protikladem modernismu. Nejčastěji je užíván ve spojitosti s náboženstvím, kde označuje směry, vyžadující doslovný výklad základních textů a jejich aplikaci do života. Bývá spojen s přesvědčením o absolutnosti vlastní pravdy, provázeným netolerancí k odlišným názorům či bohům (monoteismus). Zatímco zvenčí jsou zastánci označováni jako fundamentalisté, sami se vnímají jako pokračovatelé tradice, kterým je cizí moderna. Často jej doprovází moralizování a xenofobie.
-* Nacinalismus. “Globalizace znamená, že přijdou imigranti a vy přijndete o práci!”
+* Nacinalismus. “Globalizace znamená, že přijdou imigranti a vy přijdete o práci!”
 * Proč se Židé bojí různých nacionalistů? Protože jsou vždy menšina.
 * Nacionalisté pochopili, že ekonomická globalizace vážně ohrožuje identitu, a tak proti ní bojují. Nacionalismus propuká v demokratické společnosti v době, kdy je občanská společnost oslabená socioekonomickými neduhy. I když odezní, nacionalistické tendence zůstavaji (V maďarsku už nejsou žádní imigranti, přesto Viktor Orbán jede stále stejnou rétoriku).
 * Vlastenectví je láska k vlastnímu národů, nacionalismus je nenávist k jiným.

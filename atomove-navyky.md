@@ -5,7 +5,7 @@
 * Dobré je určit si dopředu konkrétní místo a čas, kdy něco udělám.
 * Uspokojení máme hlavně z očekávání než ze samotného zážitku. Myslíš celou dobu na to, že chceš sníst XYZ - větší uspokojení přináší to očekávání.
 * Je dobré přemýšlet o zvycích v sérii. Po A udělám B a po B udělám C (Diderotův efekt).
-* Na prostředí záleží. Pro nové zvyky je ideální vytvářet nové prostředí, abychom se nám onen zvyk "zažil".
+* Na prostředí záleží. Pro nové zvyky je ideální vytvářet nové prostředí, aby se nám onen zvyk "zažil".
 * Odstranit triggery (třeba nezdravé jídlo z dohledu). Trigger causing compulsive craving to repeat a bad habit.
 * Propojování aktivit. Co potřebuji udělat s tím, co rád dělám.
 * Kvalita vs. kvanitita. Příklad se dvěma skupinami fotografů. Jedni byli hodnocení podle množství fotek, druzí podle kvality. Lepší výsledky měli nakonec ti, kteří byli hodnoceni podle kvantity, protože se nesnažili vyumělkovat jednu fotku (netrávili čas nad teorií), ale místo toho trénovali a trénovali. Nesnažit se o perfekcionismus, důležité je začít. All or nothing je zlo!

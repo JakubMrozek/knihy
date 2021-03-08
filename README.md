@@ -40,10 +40,6 @@
 * Nicholas C. Zakas, 2010
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/high-performance-javascript.md)
 
-## Neurovědy 
-* Klaus Bernhardt, 2018
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/neurovedy.md)
-
 ## Dějiny evropské integrace
 * Martin Kovář, 2006
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/dejiny-evropske-integrace.md)

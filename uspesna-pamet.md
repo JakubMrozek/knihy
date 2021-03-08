@@ -7,14 +7,14 @@
 * chunks je informační jednotka zapamatování (číslo 6378 - zapamatování po jednotlivých cifrách = 4 chunks, zapamatování jako jeden údaj (poloměr Země) = 1 chunk)
 * člověk si zapamatuje 7 +/- 2 chunks, cílem je vytváření kvalitnějších a rozsáhlejších chunks (19381945198019881989 = jako 20 chunks si lze číslo zapamatovat jen těžko, jako 5 letopočtů je to easy)
 * mentální schopnosti:
-* transformace (přeměna nezapamatovatelných informací do zapamatovatelného formátu)
-* asociace (propojení dvou rozdílných informací)
-* fantazie (čím šílenější, tím lepší)
-* emoce (silné pozitivní a negativní emoce vedou k lepšímu zapamatování)
-* logika 
-* lokalizace (metoda loci)
-* vizualizace (spojuje vše dohromady, to nejdůležitější)
-* systém čísel a tvarů (hledání tvarů k deseti číslům od nuly do devítky a spojení do příběhu)
+    - transformace (přeměna nezapamatovatelných informací do zapamatovatelného formátu)
+    - asociace (propojení dvou rozdílných informací)
+    - fantazie (čím šílenější, tím lepší)
+    - emoce (silné pozitivní a negativní emoce vedou k lepšímu zapamatování)
+    - logika 
+    - lokalizace (metoda loci)
+    - vizualizace (spojuje vše dohromady, to nejdůležitější)
+    - systém čísel a tvarů (hledání tvarů k deseti číslům od nuly do devítky a spojení do příběhu)
 * ## Master-systém 
 * nejlepší systém na zapamatování čísel, lze si tímto způsobem zapamatovat velmi dlouhá čísla i bez nutnosti opakování
 * vytvoří se stálé spojení mezi souhláskami a číslicemi (např. 0 = c, s, z; 1 = t, 2 = n, 3 = m, …), mezi souhlásky se vloží samohlásky, aby vzniklo slovo, např “team” je číslo 13, protože t = 1 a m = 3, takto se vytvoří 100 slov, které je potřeba si zapamatovat

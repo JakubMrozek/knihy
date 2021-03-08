@@ -63,3 +63,7 @@
 ## Pravidlo žádných pravidel: převratná firemní kultura, díky niž Netflix dobyl svět
 * Reed Hastings, 2020
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/pravidlo-zadnych-pravidel.md)
+
+## Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha
+* Henry Kissinger, 2016
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/usporadani-sveta.md)

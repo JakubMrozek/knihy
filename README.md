@@ -38,7 +38,7 @@
 
 ##  High Performance JavaScript: Build Faster Web Application Interfaces
 * Nicholas C. Zakas, 2010
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/high-performance-javaScript.md)
+* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/high-performance-javascript.md)
 
 ## Neurovědy 
 * Klaus Bernhardt, 2018

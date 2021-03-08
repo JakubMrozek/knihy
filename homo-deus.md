@@ -7,5 +7,5 @@
 * Štěstí je dáno biochemií a evolucí? Kdyby byl člověk příliš spokojen, už by nic nedělal a vymřel. Nespokojenost nutila hledat další potravu. Reformovat školu nebo biochemii žáků? Naše cíle: nesmrtelnost, nekonečné štěstí, božské chování (úpravy genetiky ap.).
 * Hnutí za změnu řádu začínají přepisem dějin. Prohlásí se, že situace není ani přirozená, ani udržitelná. Usilují o vysvobození z dějin.
 * Příběh trávníku. Proč ho mají lidé před domem? Dříve to byl symbol statusu. Vyžaduje čas a peníze. Sloužil také pro obřady - normálně se po něm chodit nesmělo, jen ve zvláštních příležitostech.
-* Ani dnes stále nevíme, jak vzniká a funguje vědomí. Nevíme, jak funguje v mozku zlost, láska sp.
+* Ani dnes stále nevíme, jak vzniká a funguje vědomí. Nevíme, jak funguje v mozku zlost, láska ap.
 * TBC.

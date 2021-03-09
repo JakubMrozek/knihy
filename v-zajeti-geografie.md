@@ -71,27 +71,27 @@
 * Španělsko má dost špatnou polohu. Na jihu má státy s malým HDP, na severu brání obchodu Pyreneje. Po 2. světové válce byla ve Španělsku diktatura pod vedením Franca. Ten v roce 1975 umírá, v roce 1986 vstupuje čerstvě demokratické Španělsko do EU.
 * Řecko je příliš daleko od bohaté části Evropy. Má málo úrodné půdy, na východě má Turecko, se kterým vedlo množství válek. Mají 6000 ostrovů, z toho 200 obydlených. To vyžaduje masivní investice do námořnictva. Dříve jim v tom pomáhalo USA, aby zabránilo vzrůstu moci Sovětů. V roce 2012 finanční pomoc krachujícímu Řecku.
 * Polsko v roce 1939 zradila Británie, která měla spolu s Francií přijít na pomoc v případě napadení. Dnes vnímají Poláci jako hlavního spojence USA.
-* Balkán je příliš členitý, proto je zde mnoho národů. Jugoslávie, pokus o sjednocení všech národů pod jednu zemi dobře nedopadl. V roce 1999 proběhlo bombardování Srbska a bylo odtrženo Kosovo.
+* Balkán je příliš členitý, proto je zde mnoho národů. Jugoslávie jako pokus o sjednocení všech národů pod jednu zemi dobře nedopadl. V roce 1999 proběhlo bombardování Srbska a bylo odtrženo Kosovo.
 * Německo má nejvíce obyvatel (cca 80 mil.) a je to 4. nejsilnější ekonomika světa. V roce 1806 byla zrušena Svatá říše římská. Na novém území vznikl v roce 1815 Německý spolek, 1871 proběhlo sjednocení Německa.
 * V roce 1951 bylo založeno Evropské sdružení uhlí a oceli.
 * Ve Velké Británii byla v roce 1215 podepsána Magna Charta, neboli Velká listina práv a svobod, což lze vnímat jako zakládající dokument demokracie. V VB tedy mnohem dříve než v jiných dnešních zemích. Poloha VB je výhodná, vyhly se jí díky tomu revoluce a střety.
-* GIUK (Grónsko, Island, Velká Británie) - skulina, kde se ovládá severní část námořních cest. Při oddělení Skotska by o kontrolu nad tímto územím přišli. 
+* GIUK (Grónsko, Island, Velká Británie) - skulina, kde se ovládá severní část námořních cest. Při oddělení Skotska od VB by o kontrolu nad tímto územím přišli. 
 * Problém Katalánska a Skotska. Obě části by se chtěly stát samostatnými, problém je však v tom, že by odešli z EU a trvalo by min. 10 let, než by se tam vrátili.
 * Proč VB odešla z EU? Problém imigrace a ztráta autonomie.
 # Afrika
 * Mercatorovy mapy zkreslují. Na našich mapách vypadá Afrika menší, než ve skutečnosti je. Je to obrovský kontinent, obeplutí kontinentu byl velký milník.
 * Sahel je oblast pod Saharou, písčité moře, vyprahlá oblast s kameny a porostem. Od oblasti od severu až sem je zcela dominantním náboženstvím islám.
-* Africké řeky jsou těžko použitelné pro přepravu. Nejsou sjízdné, je ze množství vodopádů. Hodí se spíše pro vodní elektrárny. To velmi bránilo obchou, proto zde nevznikaly obchodní centra.
+* Africké řeky jsou těžko použitelné pro přepravu. Nejsou sjízdné, je ze množství vodopádů. Hodí se spíše pro vodní elektrárny. To velmi bránilo obchodu, proto zde nevznikala obchodní centra.
 * Africe chybí linga franca jako Evropě, je zde tisíce jazyků.
-* Otroctví zde bylo dávno předtím, než přišli Evropané. Otroci se používali na převoz soli.
+* Otroctví zde bylo dávno předtím, než přišli Evropané. Otroci se používali třeba na převoz soli.
 * Hranice načrtnuté Evropany přežívají dodnes. Spojují národy kulturně nesourodé. Dodnes je zde kvůli tomu velké množství konfliktů v Sudánu, Somálsku, Angole, Keni, Demokratické epublice Kongo, Nigérii či Mali.
-* Libye bývala rozdělena na tři oblasti, přičemž každý se orientoval úplně jinak. Až Evropané načtrtli čáry a bylo vymalováno. 
+* Libye bývala rozdělena na tři oblasti, přičemž každá se orientovala úplně jinak. Až Evropané načtrtli čáry a bylo vymalováno. 
 * DR Kongo není ani republika, ani demokratická. Má druhý největší prales na světě. Je zde velké množství nerostných surovin, diamanty, kobalt, zlato, uhlí ap, což je radost i prokletí. Byla kvůli tomu často napadána všemi sousedy a evropskými kolonialisty (např. belgický král Leopold II. a jeho masakry obyvatel). Je zde přes 200 etnických skupin. 
 * V sousední Rwandě proběhl v roce 1994 masakr mezi dvěma skupinami - Tutsiové a Hutové.
 * V Burundi byla dlouho občanská válka, skončila až v roce 2005, na 300 tis. lidí zemřelo.
 * V Egyptu žije naprostá většina z 97 mil. obyvatel kolem Nilu. Dnes má Egypt nejsilnější armádu. Námořní velmoc to dříve nebyla, protože na jejich území nejsou stromy a bylo problematické stavět dřevěné lodě. Při vypuknutí Arabského jara byl svržen prezident Mubarak.
 * Etiopie má 2. největší armádu v Africe. Mezi Etiopií a Egyptem bylo v minulosti množství konfliktů kvůli Nilu. Staví velké množství vodních děl, přehrad, hydroelektráren.
-* Nigérie je nejlidnatější země Afriky, téměř 200 mil. lidí. Jih je výrazně lépe rozvinut díky ropě. Sever z toho moc netěží. Na severu řádí Boko Haram, islamistická skupina, jejiž cílem je vytvořit chalífát.
+* Nigérie je nejlidnatější země Afriky, téměř 200 mil. lidí. Jih je výrazně lépe rozvinut díky ropě. Sever z toho moc netěží. Na severu řádí Boko Haram, islamistická skupina, její cílem je vytvořit chalífát.
 * Angola má významné naleziště ropy, je to 2. největší dovozce ropy do Číny.
 * Čína podniká v Africe množství investic. Stále dominuje USA a Evropa, ale Čína to rychle dohání. Staví infrastrukturu, přístavy, letiště ap. V angolské Luandě je na 200 tis. čínských dělníků. Číňané po Africe chtějí jen ropu, nerosty, drahé kovy a odbytiště zboží. Nic víc.
 * Největší obchodní partner Číny je Jihoafrická republika. Působí zde velké množství činských firem. Je to 2. největší ekonomika po Nigérii. Má silnou armádu, dobrou polohu a spojení se světěm. Je to tahnout africké ekonomiky.
@@ -104,27 +104,27 @@
 * V roce 1990 Saddám zaútočil na Kuvajt. Na konci této válce Kurdové proti slábnoucí írácké armádě povstali. Spojenci po válce vytvořili kolem Kurdistánu bezpečnou zónu, kam vojska Íráku nesměla. V roce 2003 proběhla americká invaze, která Saddáma svrhla. Kurdové se ani poté a ani po válčení proti Islámskémi státu vlastního státu nedočkali.
 * V 1. světové válce pomáhalo Britům několik arabských kmenů, dva byly významné. Z prvního kmenu se stali obavytelé Saudské Arábie a z druhého kmenu se stalo Jordánsko.
 * V Jordánsku byli především beduíini, dnes tvoří většinu Palestinci, kteří tam uprchli po obsazení Západního břehu Izraelem v roce 1967. V zemi je velké množství uprchlíků.
-* Libanon byl dříve Sýrie. Francie se však rozhodla z něj udělat vlastní stát pro křesťanské araby. Křesťané měli málo potomlů, místní muslimové tak rychle převážili. Navíc se přidali uprchlíci z Palestiny a nastala občanská válka. Bejrůt ovládají šiité v čele s Hizballáhem, naopak Tripolis ovládají sunité. Mnoho skupin znamená též mnoho konfliktů.
+* Libanon byl dříve Sýrie. Francie se však rozhodla z něj udělat vlastní stát pro křesťanské araby. Křesťané měli málo potomků, místní muslimové tak rychle převážili. Navíc se přidali uprchlíci z Palestiny a nastala občanská válka. Bejrůt ovládají šiité v čele s Hizballáhem, naopak Tripolis ovládají sunité. Mnoho skupin znamená též mnoho konfliktů.
 * I v Sýrii je velké množství náboženských skupin. V roce 2011 tam vypukla občanská válka. Sunité tvoří 70%, Alavisté 12%. Mezi Altavisty patří i Bashar al-Assad, což vyvolává mnoho napětí, malá skupina vládne většině. Basharův otec začal vládnout státním převratem 1970, masivně také potlačil Muslimské bratrstvo, které se pak začalo mstít v roce 1970. Kvůli podpoře Ruska i Iránů si Assad moc udržel, porazili Islámský stát i povstalce.
 * Kvůli zapojení Kurdů do občanské války se zapojilo do konfliktu i Turecko, které za žádnou cenu nechtělo, aby Kurdové získali vlastní stát.
-* Rusko, Irán, libanonský Hizballáh podporovali jednotky syrské vlády, arabské země včetně Saudů a Kataru zase podporovali opozici.
+* Rusko, Irán, libanonský Hizballáh podporovaly jednotky syrské vlády, arabské země včetně Saudů a Kataru zase podporovali opozici.
 * Islámský stát vzešel z Irácké Al-kaidy, oddělil se od ní a na úžemí Sýrie vyhlásil vlastní stát ISIL. Později se mu začalo říkat Daeš, což bylo slovo podobné slovu pro “tuplovaný osel”, což džihádisté nenáviděli.
 * Bombardování Islámského státu v Sýrii a Iráku 2014 probíhalo pod vedením USA, později se připojily evropské státy. Bylo dobyto zpět město Ramadi a v roce 2017 i Mosul. Po rozbití Islámského státu v Sýrii se jeho zbytky přesunuly do Libye.
-* Izrael byl dříve součástí Sýrie (v Osmanské říši). Po 1. světové válce Britové zřídili Palestinu. V roce 1948 území Izraele tvořilo naprostou většinu arabští muslimové a křesťané. Po pogromech 2. světové války zde začali přicházet Židé ze všech částí světa. Brité je v tom podporovali. Británie se pak Izraele vzdala, v roce 1948 přešel Izrael pod OSN, kde bylo odhlasováno rozdělení regionu na dvě části: Izrael a Palestinu. Židé souhlasili, Arabové ne. A tak nastala válka. Západní část od řeky Jordán byla obsazena Jordánskem, pásmo Gazy pak Egyptem. 
+* Izrael byl dříve součástí Sýrie (v Osmanské říši). Po 1. světové válce Britové zřídili Palestinu. V roce 1948 území Izraele tvořilo naprostou většinu arabští muslimové a křesťané. Po pogromech 2. světové války zde začali přicházet Židé ze všech částí světa. Britové je v tom podporovali. Británie se pak Izraele vzdala, v roce 1948 přešel Izrael pod OSN, kde bylo odhlasováno rozdělení regionu na dvě části: Izrael a Palestinu. Židé souhlasili, Arabové ne. A tak nastala válka. Západní část od řeky Jordán byla obsazena Jordánskem, pásmo Gazy pak Egyptem. 
 * V roce 1967 proběhla šestidenní válka, Izrael obsadil Jeruzalém, Gazu i Západní břeh Jordánu. Z Gazy se 2005 stáhli, na západě od řeky Jordán stále zůstávají. Město Jeruzalém je pro Palestinu i Izrael svaté. USA uznává Jeruzalém za hlavní město Izraele, ostatní země váhají.
-* Gaza je oblast 40x12 km, městský stát, velmi zbídačený, žije zde 1,8 mil. lidí na území obehnaném ploty.
+* Gaza je oblast 40x12 km, městský stát, velmi zbídačený, žije zde 1,8 mil. lidí žijí na území obehnaném ploty.
 * Existence Izraele nyní není ohrožena, nicméně útok by mohl přijít z Libanonu z Hizballahu, který má k dispozici 150 tis. raket. Na jeho útok by však Izrael odpověděl drtivě.
 * V Iranu žije 81 mil. obyvatel, většina v horách. U hranic s Irákem je 4. největší naleziště ropy na světě.
 * Irán je těžké dobýt, obvykle všichni ztroskotají na horách. Poslední, komu se to podařilo, byli Mongolové (1219 - 1221). V roce 1980 proběhla válka s Irákem. Trvala 8 let a zanechala milion mrtvých. Ale ani Irák se nedostal přes hory do vnitrozemí Iranu. 
 * V Iranu je mnoho národnostních skupin obvyvatel, dominantní jsou peršané. Perštinu ovládá 60% obyvatel. 
-* Irán vyvolává v ostatních strach díky svému jadernému programu. Pokud by se mu jadernou zbraň podařilo získat, hrozilo by mohutné jaderné zbrojení okolních zemí.
+* Irán vyvolává obavy díky svému jadernému programu. Pokud by se mu jadernou zbraň podařilo získat, hrozilo by mohutné jaderné zbrojení okolních zemí.
 * Irán má v ruce jedno velké eso. Může kdykoliv zavřít Hormuzský průliv, kterým směřuje ropa z Perského zálivu. Cena ropy by pak vystřelila vzhůru.
 * Perská říše existovala v období 6 až 4 st. před našim letopočtem. A rozkládala se od Egypta až po Indii.
 * Hlavním soupeřem Iránu je Saudská Arábie. Obě země usilují o to, aby se staly regionálním lídrem. Zástupná válka mezi nimi probíhá v Jemenu od roku 2011. Zemřelo min. 7000 civilistů, většinou pod nálety koalice v čele se Saudskou Arábií. SA podporuje jemenskou vládů, Irán naopak podporuje vzbouřence.
 * V roce 2016 Saudové popravili 47 šiítských vězňů, což vyvolalo v šiítských státech velké demonstrace.
 * Turecko je regionální mocností. Jediný uznávaný generál po 1. světové válce byl Mustafa Kemal. Po 1. světové válce začal přibližovat Turecko Evropě. Přijal západní právní systém, gregoriánský kalendář, arabské písmo nahradila latinka, volební právo získaly ženy (dříve než ve Francii či Španělsku). Od roku 1934 měli Turci povinné přijímení, on přijal jménu Atatürk (“otec všech Turků”).
 * Od roku 1989 nastává v Turecku obrat, prezident Özal a dnes i Recep Tayyip Erdoğan chtějí směřovat Turecko k samostatné velmoci bez vlivu Evropy. 
-* Turci mají špatné vztahy s Iránem i Egyptem a špatné vztahy jsou zejména z Ruskem kvůli poslední válce se Sýrií. Turci byli proti Kurdům a usilovali o svržení Assada a vládu sunitů, kdežto Rusové Assada podporovali. Erdoğan směřuje Turecko k nacionalismu a islamizaci.
+* Turci mají špatné vztahy s Iránem i Egyptem a špatné vztahy jsou i s Ruskem zejména kvůli poslední válce se Sýrií. Turci byli proti Kurdům a usilovali o svržení Assada a vládu sunitů, kdežto Rusové Assada podporovali. Erdoğan směřuje Turecko k nacionalismu a islamizaci.
 * V roce 2011 odstartovalo “arabské jaro”. Nepodařilo se však přetavit v demokracii, místo toho byly v oblasti jen občanské války. Demokracie na Blízkém východě prostě nefunguje.
 # Indie a Pákistán
 * Země mají mezi sebou hranici o délce 3000 km. 

@@ -36,10 +36,6 @@
 * Harari Noah Yuval, 2017
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md)
 
-##  High Performance JavaScript: Build Faster Web Application Interfaces
-* Nicholas C. Zakas, 2010
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/high-performance-javascript.md)
-
 ## Dějiny evropské integrace
 * Martin Kovář, 2006
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/dejiny-evropske-integrace.md)

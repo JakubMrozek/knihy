@@ -18,7 +18,7 @@
 
 ## Do konce 2. světové války
 
-* první myšlenky kolem 16. století; vznikají projekty, jejichž cílem nejsou dobyvačné představy, nýbrž udržení evropského míru; např. Pierre Dubois vymyslel projekt, shromáždění, na kterém budou přední světští i církevní představitelé, cílem měl být zákaz válek mezi křesťany a uvolnit veškerou moc křesťanstva pro boj proti muslimům o ovládnutí Svaté země;
+* první myšlenky na evropskou integraci kolem 16. století; vznikají projekty, jejichž cílem nejsou dobyvačné představy, nýbrž udržení evropského míru; např. Pierre Dubois vymyslel projekt, shromáždění, na kterém budou přední světští i církevní představitelé, cílem měl být zákaz válek mezi křesťany a uvolnit veškerou moc křesťanstva pro boj proti muslimům o ovládnutí Svaté země;
 * od té doby vznikalo mnoho dalších projektů evropské myšlenky, např. projekty vévody de Sully, Williama Penna, myšlenkou se zabýval i třeba Immanuel Kant; vlivní politikové však četné návrhy nebraly vážně;
 * přesto integrace přeci jen pokročila, a to v hospodářské sféře; úvahy o celosvětové měně, o hospodářském prostoru v německých zemích ap. vedly až v roce 1834 k vytvoření Německého celního spolku;
 * v roce 1909 se z iniciativy britského průmyslníka Maxe Waechtera koná mezinárodní kongres, jehož účastníci diskutují o případném vytvoření Evropské federace; 

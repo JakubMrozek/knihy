@@ -21,5 +21,4 @@
 * Metafora firmy jako rodiny není dobrá. Rodina drží své členy vždy. V práci se ale musí propouštět. Lepší je dívat se na společnost jako na tým sportovců, kteří se občas musí vyměnit.
 * Test koho si nechat. Polož si otázku u každého svého podřízeného: byla by na tom společnost lépe, kdyby byl XYZ propuštěn? Pokud by vám člen vašeho týmu oznámil, že zítra končí, snažili byste se ho ještě přesvědčit? A nebo byste jeho výpověď přijali a ulevilo se vám? Pokud platí druhá varianta - propustit.
 * Platí to i pro dotaz zaměstnance vůči šéfovi. “Co bys dělal, kdybych řekl, že chci přejít k jiné společnosti?”
-* TBC 
 

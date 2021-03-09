@@ -5,26 +5,26 @@
 * Ze západu bylo Ruska mnohokrát napadeno. Např. 1812 Francouzy v čele s Napoleonem a naposledy Němci 1914 a 1941.
 * První osidlování na ruském území v 9. století v Kyjevské Rusi. Od 13. století probíhala mongolská expanze. První ruský car byl v toce 1547 Ivan Hrozný a rozšířil Rusko až po Ural. V následiujícím století Rusko expandovalo až po Tichý oceán. V 18. století se Rusko z Patra Velikého a později i carevny Kateřiny Veliké rozšířilo na západ a obsadilo Ukrajinu a pobaltské země.
 * 11 časových pásem.
-* V asijských zemích žije jen 22% Rusů.
+* V asijské části země žije jen 22% Rusů.
 * Rusko bylo za sovětských času v podstatě kolonialní mocností. Za hranicemi centrálního Ruska jsou lidé, kteří se necítí být etnickými Rusy, k Moskvě loajalitu necítí. V budoucnu možna východ připadne Číně.
 * V roce 1979 válka s Afgánistánem. Cílem bylo rozšířit území, než to udělá někdo jiný. Měli by přístup k Indickému oceánu a uskutečnil by se ruský sen. Místo toho nastal “ruský” Víetnam.
 * Proruské země bývalého Sovětského svazu: Kazachstán, Kyrgyzstán, Tádžikistán, Bělorusko, Arménie. Neutrální země: Uzbekistán, Ázerbájdžán a Turkmenistán (jsou energeticky soběstačné). Zbytek jsou prozápadní země: Estonsko, Gruzie, Lotyšsko, Litva, Moldavsko a Ukrajina.
 * Vojenskou přítomnost má Rusko v Kyrgystánu, Tádžikistánu a Arménii.
-* Proč Rusové zabrali část Ukrajiny? Ukrajina se začala přiklánět čím dál tím více na stranu Západu. Hrozil vstup Ukrajiny do EU a NATO, Rusové by mohli také přijít o přístup důležitému přístavu v Černém moři, Západ by byl příliš blízko ruským hranicím. 
+* Proč Rusové zabrali část Ukrajiny? Ukrajina se začala přiklánět čím dál tím více na stranu Západu. Hrozil vstup Ukrajiny do EU a NATO, Rusové by mohli také přijít o přístup k důležitému přístavu v Černém moři, Západ by byl příliš blízko ruským hranicím. 
 * Stejný scénář by nejspíš hrozil i Gruzii a Moldavsku, pokud by se začaly příliš přiklánět na stranu Západu.
 * V té době hrála Ukrajina v čele s Janukovyčem na obě strany. Později se kvůli nabídce od Putina prezident začal více orientovat na Rusko, což vyvolalo velké demonstrace v Kyjevě. Prezident uprchl a vlády se ujaly protiruské frakce. Putin neměl moc na výběr a obsadil Krym.
-* Jakmile se vlády zmocinly protiruské síly, přemýšleli i o zákazu ruštiny. Na Ukrajině jsou velké etnické skupiny Rusů a Kreml je vázán zákonem, který mu nařizuje chránit etnické Rusy. Na Krymu je 60% Rusů, to bylo zdůvodnění k jeho zabrání.
+* Jakmile se vlády zmocnily protiruské síly, přemýšlely i o zákazu ruštiny. Na Ukrajině jsou velké etnické skupiny Rusů a Kreml je vázán zákonem, který mu nařizuje chránit etnické Rusy. Na Krymu je 60% Rusů, to bylo zdůvodnění k jeho zabrání.
 * Krym byl po dvě století ruský, teprve Chruščev ho předal Ukrajině, protože se rozpad nepředpokládal.
 * Západ odpověděl omezenými sankcemi. Mnoho evropskýc zemí je závislých na ruském ropovodě. Rusko od té doby vyvolává nepokoje na východě (Donbas) a drží Kyjev v šachu kvůli plynu. 
 * V roce 2018 zabrali Rusové ukrajinské lodě při cestě do Oděsy.
 * Rusové mají i menší základnu u Sýrie, což je jeden z důvodů podpory syrské vládě v roce 2011.
-* V pobaltských zemích je velká ruská menšina, někde až 25%. To dává Putinovi možnost dalšího útoku poobnému tomu na Ukrajině. Momentálně je to ale nepravděpodobné, tyto státy jsou totiž členy NATO a EU.
+* V pobaltských zemích je velká ruská menšina, někde až 25%. To dává Putinovi možnost dalšího útoku podobnému tomu na Ukrajině. Momentálně je to ale nepravděpodobné, tyto státy jsou totiž členy NATO a EU.
 * Podněstří je pás v Moldavsku na hranicích s Ukrajinou, kde žije velká ruská komunita. Je to separatistická republika, která vznikla po rozpadu Sovětského svazu. 
-* V roce 2008 vypulka rusko-gruzínská válka. Vyprovokoval ji prezident Gruzie Mikheil Saakashvili, který doufal v pomoc Američanů. Výsledkem války jsou území Abcházie a J. Osetie, které jsou v držení ruských vojáků.
+* V roce 2008 vypulka rusko-gruzínská válka. Vyprovokoval ji prezident Gruzie Mikheil Saakashvili, který naivně doufal v pomoc Američanů. Výsledkem války jsou území Abcházie a J. Osetie, které jsou v držení ruských vojáků.
 * Největší zbraní Rusů je určitě ropa a zemní plyn. Evropa je závislá z 25% na ruském plynu i ropě. Evropa se to snaží vyřešit dávkami zkapalněného plynu z USA, ale nejspíš to nebude nikdy stačit na úplné nahrazení Rusů.
 * Velkým problémem Ruska je nízký přírůstek a nízký věk dožití, jen 65 let. V Rusku žije nyní cca 144 mil. lidí.
 # Čína
-* Dějiny začaly před cca 4000 roky v oblasti mezi řekou Jang-c'-ťiang a Žlutou řekou v severočínské nížině (Číňané jí říkají centrální). Zde se také 1500 p.n.l zformovala první dynastie a sahají zde kočeny rodu Chan.
+* Dějiny začaly před cca 4000 roky v oblasti mezi řekou Jang-c'-ťiang a Žlutou řekou v severočínské nížině (Číňané jí říkají centrální). Zde se také 1500 p.n.l zformovala první dynastie a sahají zde kořeny rodu Chan.
 * Konfucius žil v období kolem 500 p.n.l.
 * Kolem roku 200 p.n.l probíhala expanze až k Tibetu, dobýt se ho ale ještě nepodařilo. Dále k Jihočínskému moři a na sever. 
 * Kolem roku 200 p.n.l se začala stavět Velká čínská zeď.
@@ -35,14 +35,14 @@
 * V roce 1951 proběhlo zabrání Tibetu.
 * Vietnam Čína okupovala 1000 let do roku 938 n.l a znova 1979 vypukla krátká přeshraniční válka.
 * Tibet je pro Čínu velmi důležitý. Chrání ji před Indií. Mezi hranicemi je pás Himaláje. Kdyby Čína Tibet nezabrala, mohli by to udělat Indové a měli by Čínu jako na dlani. Plus by Indie získala kontrolu nad prameništěm Žluté řeky, Jang-c'-ťiang i Mekongu.
-* V roce 2009 propukly velké nepokoje v Xinjiangu, na které musela vláda tvrdě reagovat. Xinjiang má hranici s 8 státy, je to nárazníková zóna i množství ropy. Tudy povede trasa projektu Jeden pás, jedna cesta (nová Hedvábná stezka). Ve velkých městech Xinjiangu už dnes převládají Chánové.
+* V roce 2009 propukly velké nepokoje v Xinjiangu, na které musela vláda tvrdě reagovat. Xinjiang má hranici s 8 státy, je to nárazníková zóna s množstvím ropy. Tudy povede trasa projektu Jeden pás, jedna cesta (nová Hedvábná stezka). Ve velkých městech Xinjiangu už dnes převládají Chánové.
 * Hnutí za osvobození je především nacionální a až v druhé řadě islamistické. Probíhalo zde mnoho útoků na civilní cíle, proto tam Čína takto tvrdě zakročila.
 * Každý den v Číně proběhne cca 500 nepokojů.
 * Číňané byli dříve mořeplavci, v 15. století se dostali až do Keni. Území však nekolonizovali.
 * Loďstvo je dnes pro Čínu slabinou. První letadlová loď byla Liao-ning z ukrajinského šrotu. Dnes mají Číňané dvě letadlové lodi a 3. by měla být k dispozici v roce 2021.
 * Mezí Čínou a Pacifikem je “devítičárková linie” (od roku 2013 je navíc součástí Taiwan). Je to hranice, která podle Číny vymezuje jejich území. Uvnitř je mnoho ostrůvků, o které se vedou územní spory. 
 * Čína se snaží získat přístup k Indickému oceánu přes Myanmar, Bangladéš, Pakistán a Srí Lanku. Zde všude má Čína své zájmy, udržuje se zeměmi dobré vztahy a buduje zde hloubkové přístavy. 
-* Další přístavy staví v Keni, železnice v Angole a vodní elektrárny v Etiopii.
+* Další přístavy staví v Keni, železnice v Angole a vodní elektrárny v Etiopii ap.
 # USA
 * Od 17. století se Evropané usazují. Zjistili, že jde o panenské území s množstvím orné půdy a kotvišť v přírodních zátokách.
 * V roce 1732 byla založena poslední ze 13 původních republik Georgie. Následně proběhla mezi roky 1775-1783 Velká americká revoluce a USA se osvobodilo od vlivu Velké Británe.

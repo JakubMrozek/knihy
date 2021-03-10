@@ -3,6 +3,7 @@
 | Kniha  | Autor | Rok | Poznámky | Recenze | Hodnocení |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Sapiens: Stručné dějiny lidstva | Yuval Noah Harari  | 2015 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/sapiens.md) | | 95% |
+| Faktomluva: Deset důvodů, proč se mýlíme v pohledu na svět – a proč jsou věci lepší, než vypadají | Hans Rosling | 2018 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/factfulness.md) | | 95% |
 | Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu | Nadav Eyal | 2020 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/vzpoura-proti-globalizaci.md) | | 90% |
 | V zajetí geografie: Jak lze pomocí deseti map pochopit světovou politiku | Tim Marshall  | 2019 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/v-zajeti-geografie.md) | | 70% |
 | Atomové návyky: Jak si budovat dobré návyky a zbavovat se těch špatných | James Clear  | 2018 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/atomove-navyky.md) | | 70% |
@@ -31,10 +32,6 @@
 ## Úspěšná paměť 
 * Gunther Karsten, 2006
 * [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/uspesna-pamet.md)
-
-## Faktomluva: Deset důvodů, proč se mýlíme v pohledu na svět – a proč jsou věci lepší, než vypadají
-* Hans Rosling, 2018
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/factfulness.md)
 
 ## Hospodářské dějiny a ekonomické teorie: vývoj, současnost, výhledy 
 * Pavel Sirůček, 2007

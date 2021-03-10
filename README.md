@@ -3,20 +3,10 @@
 | Kniha  | Autor | Rok | Poznámky | Recenze | Hodnocení |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Sapiens: Stručné dějiny lidstva | Yuval Noah Harari  | 2015 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/sapiens.md) | | 95% |
+| Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu | Nadav Eyal | 2020 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/vzpoura-proti-globalizaci.md) | | 90% |
 | V zajetí geografie: Jak lze pomocí deseti map pochopit světovou politiku | Tim Marshall  | 2019 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/v-zajeti-geografie.md) | | 70% |
-
-
-## Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu
-* Nadav Eyal, 2020
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/vzpoura-proti-globalizaci.md)
-
-## Cirkadiánní kód: Využijte přirozený rytmus těla pro zdraví, výkon a zhubnutí
-* Satchin Panda, 2018
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/cirkadianni-kod.md)
-
-## Atomové návyky: Jak si budovat dobré návyky a zbavovat se těch špatných
-* James Clear, 2018
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/atomove-navyky.md)
+| Atomové návyky: Jak si budovat dobré návyky a zbavovat se těch špatných | James Clear  | 2018 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/atomove-navyky.md) | | 70% |
+| Cirkadiánní kód: Využijte přirozený rytmus těla pro zdraví, výkon a zhubnutí | Satchin Panda | 2018 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/cirkadianni-kod.md) | | 60% |
 
 ## Od nuly k jedničce: Úvahy o startupech aneb jak tvořit budoucnost
 * Peter Thiel, 2014

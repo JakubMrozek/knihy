@@ -42,6 +42,8 @@
 
 ## Plánované
 
+Seznam knih, které plánuji přečíst v nejbližší době.
+
 - Proč spíme, M. Walker
 - Příběh lidského těla, D. Lieberman
 - Z Izrastiny s láskou, J. Szántó

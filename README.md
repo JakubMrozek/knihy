@@ -1,7 +1,7 @@
 # Knihy
 
 | Kniha  | Autor | Rok | Poznámky | Recenze | Hodnocení |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Sapiens: Stručné dějiny lidstva | Yuval Noah Harari  | 2015 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/sapiens.md) | | 95% |
 | V zajetí geografie: Jak lze pomocí deseti map pochopit světovou politiku | Tim Marshall  | 2019 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/v-zajeti-geografie.md) | | 70% |
 

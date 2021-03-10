@@ -1,4 +1,4 @@
-# Factfulness: Ten reasons we're wrong about the world and why things are better than you think (Hans Rosling)
+# Faktomluva: Deset důvodů, proč se mýlíme v pohledu na svět – a proč jsou věci lepší, než vypadají. (Hans Rosling)
 ## The gap instinct
 * Tendence rozedělovat věci do dvou protichůdných skupin, mezi kterými je propast. Tendence vidět věci černobíle, buď jsou jednoznačně dobré, nebo jednoznačně špatné a nic mezi tím. Binární vidění světa.
 * Tohle vidění světa milují novináři. Ideální je postavit miliardáře proti naprosto chudému člověku, tyhle příběhy prodávají. 

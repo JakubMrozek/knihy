@@ -15,6 +15,8 @@
 | V zajetí geografie: Jak lze pomocí deseti map pochopit světovou politiku | Tim Marshall  | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/v-zajeti-geografie.md) | 70% |
 | Atomové návyky: Jak si budovat dobré návyky a zbavovat se těch špatných | James Clear  | 2020 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/atomove-navyky.md) | 70% |
 | Můj příběh | Michelle Obama | 2021 | | 70% |
+| Jací jsou? - Číňané | Zhu Song | 2020 | | 70% |
+| Jací jsou? - Japonci | Sahoko Kadži | 2020 | | 65% |
 | Dějiny Čínské lidové republiky (1949–2018) | Ivana Bakešová | 2020 | | 65% |
 | Pravidlo žádných pravidel: převratná firemní kultura, díky niž Netflix dobyl svět | Reed Hastings | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/pravidlo-zadnych-pravidel.md) | 60% |
 | Cirkadiánní kód: Využijte přirozený rytmus těla pro zdraví, výkon a zhubnutí | Satchin Panda | 2020 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/cirkadianni-kod.md) | 60% |

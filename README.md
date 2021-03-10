@@ -1,6 +1,6 @@
 # Knihy
 
-| Kniha  | Autor | Rok | Poznámky | Recenze | Hodnocení |
+| Název  | Autor | Rok | Poznámky | Recenze | Hodnocení |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Sapiens: Stručné dějiny lidstva | Yuval Noah Harari  | 2015 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/sapiens.md) | | 95% |
 | Faktomluva: Deset důvodů, proč se mýlíme v pohledu na svět – a proč jsou věci lepší, než vypadají | Hans Rosling | 2018 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/faktomluva.md) | | 95% |
@@ -15,15 +15,11 @@
 | Úspěšná paměť | Gunther Karsten | 2006 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/uspesna-pamet.md) | | |
 | Hospodářské dějiny a ekonomické teorie: vývoj, současnost, výhledy | Pavel Sirůček | 2007 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/hospodarske-dejiny-a-ekonomicke-teorie.md) | | |
 
+## Rozečtené
 
-## Nauč se to: Jak se s pomocí vědy efektivněji učit a více si pamatovat
-* Peter Christopher Brown, 2017
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/nauc-se-to.md)
+| Název  | Autor | Rok | Poznámky | 
+| ------------- | ------------- | ------------- | ------------- | 
+| Nauč se to: Jak se s pomocí vědy efektivněji učit a více si pamatovat | Peter Christopher Brown | 2017 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/nauc-se-to.md) | 
+| Homo deus: Stručné dějiny zítřka | Harari Noah Yuval | 2017 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md) | 
+| Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha | Henry Kissinger | 2016 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/usporadani-sveta.md) | 
 
-## Homo deus: Stručné dějiny zítřka
-* Harari Noah Yuval, 2017
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md)
-
-## Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha
-* Henry Kissinger, 2016
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/usporadani-sveta.md)

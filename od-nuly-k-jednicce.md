@@ -10,8 +10,8 @@
 * Boj s konkurencí stojí spoustu energie a zdrojů. Někdy je lepší fúzovat a pořád se netrápit.
 * Hodnota firmy je součtem všech peněz, které vydělá v budoucnu. Proto i Twitter ve ztrátě má vysokou hodnotu, je to monopol ve svém oboru a za pár let peníze vydělá. 
 * Jak vypadá podnik, který bude mít v budoucnu vysoký cash flow?
-  - proprietární technologie (mít výrazně lepší technologii než konkurence; musí jít o řádový rozdíl); 
-  - síťový efekt; 
-  - úspory z rozsahu a 
-  - budování značky.
+  - proprietární technologie (mít výrazně lepší technologii než konkurence; musí jít o řádový rozdíl) 
+  - síťový efekt
+  - úspory z rozsahu
+  - budování značky
 * Začít na malém, nepatrném trhu. Raději začít na příliš malém trhu než na příliš velkém trhu. Ideálním cílovým trhem pro začínající firmu je prostě malá soustředěná skupina lidí, kde je málo nebo žádný konkurent. Poté pozvolna rozšiřovat do dalších oblastí.

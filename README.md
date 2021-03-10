@@ -1,12 +1,10 @@
 # Knihy
 
-## Sapiens: Stručné dějiny lidstva 
-* Yuval Noah Harari, 2015
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/sapiens.md)
+| Kniha  | Autor | Rok | Poznámky | Recenze | Hodnocení |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Sapiens: Stručné dějiny lidstva | Yuval Noah Harari  | 2015 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/sapiens.md) | | 95% |
+| V zajetí geografie: Jak lze pomocí deseti map pochopit světovou politiku | Tim Marshall  | 2019 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/v-zajeti-geografie.md) | | 70% |
 
-## V zajetí geografie: Jak lze pomocí deseti map pochopit světovou politiku
-* Tim Marshall, 2019
-* [Moje poznámky](https://github.com/JakubMrozek/knihy/blob/main/v-zajeti-geografie.md)
 
 ## Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu
 * Nadav Eyal, 2020

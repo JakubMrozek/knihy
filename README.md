@@ -22,6 +22,7 @@
 | Velká čínská kapitalistická revoluce | Ronald Coase, Ning Wang | 2020 | | 50% |
 | Dark web: Sex, drogy a bitcoiny | Dominik Stroukal | 2021 | | 50% |
 | Navždy plynule: Jak se rychle naučit cizí jazyk a nikdy ho nezapomenout  | Gabriel Wyner | 2020 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/navzdy-plynule.md) | 45% |
+| Hitler | François Kersaudy | 2021 | | 35% |
 | Od nuly k jedničce: Úvahy o startupech aneb jak tvořit budoucnost | Peter Thiel | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/od-nuly-k-jednicce.md) | 30% |
 | Důmyslné umění, jak mít všechno u prdele | Mark Manson | 2020 | | 10% |
 | Dějiny evropské integrace | Martin Kovář | 2012 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/dejiny-evropske-integrace.md) | |

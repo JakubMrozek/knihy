@@ -9,7 +9,7 @@
 | Svědectví o životě v KLDR | Nina Špitálníková | 2020 | | 90% |
 | Umění války | Sun Tzu | 2021 | | 90% |
 | 1986 | George Orwell | 2020 | | 85% |
-| Dětská Nevěsta | Xiao Hong | 2021 | | 85% |
+| Dětská nevěsta | Xiao Hong | 2021 | | 85% |
 | Zlá krev: Jak majitelka startupu ze Silicon Valley oklamala svět |  John Carreyrou | 2021 | | 80% |
 | Superveľmoc? Všetko čo potrebujete vedieť o súčasnej Číne | Kristina Kironska, Richard Turcsányi | 2020 | | 75% |
 | V zajetí geografie: Jak lze pomocí deseti map pochopit světovou politiku | Tim Marshall  | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/v-zajeti-geografie.md) | 70% |

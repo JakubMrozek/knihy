@@ -47,11 +47,17 @@
 - Z Izrastiny s láskou, J. Szántó
 - Ticho, S. Cain
 - Hluboká práce, C. Newport
+- Kompletní průvodce půstem, J. Fung
 - Zamrzlá evoluce, J. Flegr
 - Stručná historie času, S. W. Hawking
 - Stručná historie téměř všeho, B. Bryson
+- Havel, M. Žantovský
 - Hory shora, R. Jaroš
 - Bohatý táta, chudý táta, R. Kiyosaki
+- Čtyřhodinové tělo, T. Ferriss
+- Sobecký gen, R. Dawkins
+- Země zaslíbená, B. Obama
+- Zvráceý osud, Tung Si
 - Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu, N. Eyal (ještě jednou)
 - Superveľmoc? Všetko čo potrebujete vedieť o súčasnej Číne, K. Kironska a R. Turcsányi (ještě jednou)
 - Dějiny Čínské lidové republiky (1949–2018), I. Bakešová (ještě jednou)

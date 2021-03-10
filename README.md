@@ -64,3 +64,4 @@ Seznam knih, které plánuji přečíst v nejbližší době.
 - Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu, N. Eyal (ještě jednou)
 - Superveľmoc? Všetko čo potrebujete vedieť o súčasnej Číne, K. Kironska a R. Turcsányi (ještě jednou)
 - Dějiny Čínské lidové republiky (1949–2018), I. Bakešová (ještě jednou)
+- Čína v deseti slovech, Jü Chua (ještě jednou, tentokrát v češtině)

@@ -42,9 +42,9 @@
 
 ## Plánované
 
-* Stručná historie času, S. W. Hawking
-* Stručná historie téměř všeho, B. Bryson
-* Hory shora, R. Jaroš
-* Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu, N. Eyal (ještě jednou)
-* Superveľmoc? Všetko čo potrebujete vedieť o súčasnej Číne, K. Kironska a R. Turcsányi (ještě jednou)
-* Dějiny Čínské lidové republiky (1949–2018), I. Bakešová (ještě jednou)
+- Stručná historie času, S. W. Hawking
+- Stručná historie téměř všeho, B. Bryson
+- Hory shora, R. Jaroš
+- Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu, N. Eyal (ještě jednou)
+- Superveľmoc? Všetko čo potrebujete vedieť o súčasnej Číne, K. Kironska a R. Turcsányi (ještě jednou)
+- Dějiny Čínské lidové republiky (1949–2018), I. Bakešová (ještě jednou)

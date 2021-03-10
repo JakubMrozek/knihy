@@ -40,3 +40,11 @@
 | Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha | Henry Kissinger | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/usporadani-sveta.md) | 
 | Opuštěná společnost. Česká cesta od Masaryka po Babiše| Erik Tabery | | 
 
+## Plánované
+
+* Stručná historie času, S. W. Hawking
+* Stručná historie téměř všeho, B. Bryson
+* Hory shora, R. Jaroš
+* Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu, N. Eyal (ještě jednou)
+* Superveľmoc? Všetko čo potrebujete vedieť o súčasnej Číne, K. Kironska a R. Turcsányi (ještě jednou)
+* Dějiny Čínské lidové republiky (1949–2018), I. Bakešová (ještě jednou)

@@ -42,6 +42,8 @@
 
 ## Plánované
 
+- Proč spíme, M. Walker
+- Z Izrastiny s láskou, J. Szántó
 - Stručná historie času, S. W. Hawking
 - Stručná historie téměř všeho, B. Bryson
 - Hory shora, R. Jaroš

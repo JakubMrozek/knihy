@@ -6,6 +6,7 @@
 | Faktomluva: Deset důvodů, proč se mýlíme v pohledu na svět – a proč jsou věci lepší, než vypadají | Hans Rosling | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/faktomluva.md) | 95% |
 | Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu | Nadav Eyal | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/vzpoura-proti-globalizaci.md) | 90% |
 | Svědectví o životě v KLDR | Nina Špitálníková | 2020 | | 90% |
+| 1986 | George Orwell | 2020 | | 85% |
 | Zlá krev: Jak majitelka startupu ze Silicon Valley oklamala svět |  John Carreyrou | 2021 | | 80% |
 | Superveľmoc? Všetko čo potrebujete vedieť o súčasnej Číne | Kristina Kironska, Richard Turcsányi | 2020 | | 75% |
 | V zajetí geografie: Jak lze pomocí deseti map pochopit světovou politiku | Tim Marshall  | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/v-zajeti-geografie.md) | 70% |

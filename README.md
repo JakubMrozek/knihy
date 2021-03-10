@@ -14,6 +14,7 @@
 | Můj příběh | Michelle Obama | 2021 | | 70% |
 | Pravidlo žádných pravidel: převratná firemní kultura, díky niž Netflix dobyl svět | Reed Hastings | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/pravidlo-zadnych-pravidel.md) | 60% |
 | Cirkadiánní kód: Využijte přirozený rytmus těla pro zdraví, výkon a zhubnutí | Satchin Panda | 2020 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/cirkadianni-kod.md) | 60% |
+| Šest historií venkovského života | Yang Jiang | 2020 | | 60% |
 | Velká čínská kapitalistická revoluce | Ronald Coase, Ning Wang | 2020 | | 50% |
 | Dark web: Sex, drogy a bitcoiny | Dominik Stroukal | 2021 | | 50% |
 | Navždy plynule: Jak se rychle naučit cizí jazyk a nikdy ho nezapomenout  | Gabriel Wyner | 2020 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/navzdy-plynule.md) | 45% |

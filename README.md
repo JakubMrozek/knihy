@@ -1,5 +1,7 @@
 # Knihy
 
+Seznam knih, které jsem četl během českého "třítýdenního" lockdownu (v letech 2020 až 2021). 
+
 | Název  | Autor | Rok | Poznámky | Hodnocení |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Sapiens: Stručné dějiny lidstva | Yuval Noah Harari  | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/sapiens.md) | 95% |

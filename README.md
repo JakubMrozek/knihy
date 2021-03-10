@@ -22,4 +22,5 @@
 | Nauč se to: Jak se s pomocí vědy efektivněji učit a více si pamatovat | Peter Christopher Brown | 2017 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/nauc-se-to.md) | 
 | Homo deus: Stručné dějiny zítřka | Harari Noah Yuval | 2017 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md) | 
 | Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha | Henry Kissinger | 2016 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/usporadani-sveta.md) | 
+| Opuštěná společnost. Česká cesta od Masaryka po Babiše| Erik Tabery | 2017 | | 
 

@@ -44,7 +44,7 @@ Seznam knih, které jsem četl během českého "třítýdenního" lockdownu (v 
 
 ## Plánované
 
-Seznam knih, které plánuji přečíst v nejbližší době.
+Seznam knih, které plánuji přečíst v nejbližší době (během "třítýdenních" lockdownů v následujících letech).
 
 - Proč spíme, M. Walker
 - Příběh lidského těla, D. Lieberman

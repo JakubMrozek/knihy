@@ -56,6 +56,7 @@
 - Bohatý táta, chudý táta, R. Kiyosaki
 - Čtyřhodinové tělo, T. Ferriss
 - Sobecký gen, R. Dawkins
+- Jak na sítě, M. Losekoot
 - Země zaslíbená, B. Obama
 - Zvráceý osud, Tung Si
 - Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu, N. Eyal (ještě jednou)

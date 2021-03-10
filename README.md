@@ -4,6 +4,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Sapiens: Stručné dějiny lidstva | Yuval Noah Harari  | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/sapiens.md) | 95% |
 | Faktomluva: Deset důvodů, proč se mýlíme v pohledu na svět – a proč jsou věci lepší, než vypadají | Hans Rosling | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/faktomluva.md) | 95% |
+| Čína v deseti slovech | Jü Chua | 2020 | | 95% |
 | Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu | Nadav Eyal | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/vzpoura-proti-globalizaci.md) | 90% |
 | Svědectví o životě v KLDR | Nina Špitálníková | 2020 | | 90% |
 | 1986 | George Orwell | 2020 | | 85% |

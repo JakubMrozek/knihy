@@ -10,7 +10,7 @@ Seznam knih, které jsem četl během českého "třítýdenního" lockdownu (v 
 | Vzpoura proti globalizaci: Proč lidé revoltují proti dnešnímu světu | Nadav Eyal | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/vzpoura-proti-globalizaci.md) | 90% |
 | Svědectví o životě v KLDR | Nina Špitálníková | 2020 | | 90% |
 | Umění války | Sun Tzu | 2021 | | 90% |
-| 1986 | George Orwell | 2020 | | 85% |
+| 1984 | George Orwell | 2020 | | 85% |
 | Dětská nevěsta | Xiao Hong | 2021 | | 85% |
 | Zlá krev: Jak majitelka startupu ze Silicon Valley oklamala svět |  John Carreyrou | 2021 | | 80% |
 | Superveľmoc? Všetko čo potrebujete vedieť o súčasnej Číne | Kristina Kironska, Richard Turcsányi | 2020 | | 75% |

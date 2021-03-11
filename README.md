@@ -40,7 +40,7 @@ Seznam knih, které jsem četl během českého "třítýdenního" lockdownu (v 
 | Nauč se to: Jak se s pomocí vědy efektivněji učit a více si pamatovat | Peter Christopher Brown | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/nauc-se-to.md) | 
 | Homo deus: Stručné dějiny zítřka | Harari Noah Yuval | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md) | 
 | Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha | Henry Kissinger | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/usporadani-sveta.md) | 
-| Opuštěná společnost. Česká cesta od Masaryka po Babiše| Erik Tabery | | 
+| Opuštěná společnost. Česká cesta od Masaryka po Babiše| Erik Tabery | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/opustena-spolecnost.md) | 
 
 ## Plánované
 

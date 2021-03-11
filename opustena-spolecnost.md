@@ -13,4 +13,4 @@
 * Jedna z chyb během transformace byla představa, že klíčem ke všemu je pouze ekonomika (“O vše se postará neviditelná ruka trhu” - V. Klaus) a vše ostatní je jen nádstaba. Chyběla pravidla, proto byla část majetku rozkradena.
 * První problémy transformace přišly v roce 1996. Opět hrálo svojí roli i to, že politici nebyli kontrolováni a lidé se příliš o politiku nezajímali. Pocit ukradené revoluce V. Havel pojmenoval jako “blbá nálada”.
 * V roce 1997 tzv. “sarajevský atentát”. Problémy s financováním stran vyvrcholily v pád vlády. V. Klaus viní Havla a odpadlíky z ODS (I. Pilip, J. Ruml, později založí Unii svobody). Po volbách následuje opoziční smlouva ČSSD a ODS. Spojení dvou hlavních stran znamenalo zastavení řady kauz, přípravy změn volebního systému, omezí pravomocí různých institucí ap. Snažili se také získat kontrolu nad veřejnoprávními médii. Řada změn však neprošla, lidé se ozvali, byl to první významný test polistopadové společnosti.
-
+* TBC

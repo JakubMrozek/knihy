@@ -12,6 +12,7 @@ Seznam knih, které jsem četl během českého "třítýdenního" lockdownu (v 
 | Umění války | Sun Tzu | 2021 | | 90% |
 | 1984 | George Orwell | 2020 | | 85% |
 | Dětská nevěsta | Xiao Hong | 2021 | | 85% |
+| Opuštěná společnost. Česká cesta od Masaryka po Babiše | Erik Tabery | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/opustena-spolecnost.md) | 85% |
 | Zlá krev: Jak majitelka startupu ze Silicon Valley oklamala svět |  John Carreyrou | 2021 | | 80% |
 | Superveľmoc? Všetko čo potrebujete vedieť o súčasnej Číne | Kristina Kironska, Richard Turcsányi | 2020 | | 75% |
 | V zajetí geografie: Jak lze pomocí deseti map pochopit světovou politiku | Tim Marshall  | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/v-zajeti-geografie.md) | 70% |
@@ -40,7 +41,6 @@ Seznam knih, které jsem četl během českého "třítýdenního" lockdownu (v 
 | Nauč se to: Jak se s pomocí vědy efektivněji učit a více si pamatovat | Peter Christopher Brown | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/nauc-se-to.md) | 
 | Homo deus: Stručné dějiny zítřka | Harari Noah Yuval | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md) | 
 | Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha | Henry Kissinger | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/usporadani-sveta.md) | 
-| Opuštěná společnost. Česká cesta od Masaryka po Babiše| Erik Tabery | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/opustena-spolecnost.md) | 
 
 ## Plánované
 
@@ -57,7 +57,6 @@ Seznam knih, které plánuji přečíst v nejbližší době (během lockdownů 
 - Stručná historie téměř všeho, B. Bryson
 - Havel, M. Žantovský
 - Hory shora, R. Jaroš
-- Bohatý táta, chudý táta, R. Kiyosaki
 - Čtyřhodinové tělo, T. Ferriss
 - Sobecký gen, R. Dawkins
 - Jak na sítě, M. Losekoot

@@ -42,6 +42,7 @@ Seznam knih, které jsem četl během českého "třítýdenního" lockdownu (v 
 | Homo deus: Stručné dějiny zítřka | Harari Noah Yuval | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md) | 
 | Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha | Henry Kissinger | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/usporadani-sveta.md) | 
 | Proč spíme: Odhalte sílu spánku a snění | Matthew Walker | | 
+| Bohatý táta, chudý táta: Co bohatí učí svoje děti a chudí a střední vrstvy ne | Robert T. Kiyosaki,  Sharon L. Lechter | | 
 
 ## Plánované
 

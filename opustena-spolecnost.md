@@ -19,20 +19,20 @@
 * Jaký je rozdíl mezi sociální sítí a komunitou? Jednotlivec patří ke komunitě, ale sociální síť patří jednotlivci.
 * Média mají umožnit, aby se z lidé stali občané.
 * Jak se bránit před nástupem totality? Máme několik bodů.
-1) Necouvat předem. Lidé dopředu domýšlejí, co by po nich represivní režim mohl chtít a začnou se podle toho chovat ještě dřív, než pro to existuje důvod. Preventivní poslušnost urychluje nástup nesvobody.
-2) Obrana institucí. Samy se neochrání.
-3) Pracovat poctivě. Že se politici chovají špatně neznamená, že jejich chování máme kopírovat.
-4) Pozor na slovník politiků. Verbální patriotismus, hovory o vyjimkach ap.
-5) Zachovat klid. Na události vyvolávající emoce politici čekají.
-6) Neopakovat klišé. Mluvte vlastními slovy.
-7) Vystoupit z řady. Někdo musí začít.
-8) Ochrana pravdy.
-9) Zvídavost. Podpora investigativních novinářů.
-10) Nesedět doma, schvázejt se, diskutovat.
-11) Přijmout odpovědnost za okolní svět. Týká se to nás všech.
-12) Pozor na vládu jedné strany. Choďte k volbám.
-13) Pomáhat. Vytvářet občanskou společnost. 
-14) Dát si do pořádku vlastní život. Kdo trpí, je snažší k manipulaci.
-15) Učit se od přátel v zahraničí.
-16) Pozor na ozbrojence. To je poslední krok před katastrofou.
+  1) Necouvat předem. Lidé dopředu domýšlejí, co by po nich represivní režim mohl chtít a začnou se podle toho chovat ještě dřív, než pro to existuje důvod. Preventivní poslušnost urychluje nástup nesvobody.
+  2) Obrana institucí. Samy se neochrání.
+  3) Pracovat poctivě. Že se politici chovají špatně neznamená, že jejich chování máme kopírovat.
+  4) Pozor na slovník politiků. Verbální patriotismus, hovory o vyjimkach ap.
+  5) Zachovat klid. Na události vyvolávající emoce politici čekají.
+  6) Neopakovat klišé. Mluvte vlastními slovy.
+  7) Vystoupit z řady. Někdo musí začít.
+  8) Ochrana pravdy.
+  9) Zvídavost. Podpora investigativních novinářů.
+  10) Nesedět doma, schvázejt se, diskutovat.
+  11) Přijmout odpovědnost za okolní svět. Týká se to nás všech.
+  12) Pozor na vládu jedné strany. Choďte k volbám.
+  13) Pomáhat. Vytvářet občanskou společnost. 
+  14) Dát si do pořádku vlastní život. Kdo trpí, je snažší k manipulaci.
+  15) Učit se od přátel v zahraničí.
+  16) Pozor na ozbrojence. To je poslední krok před katastrofou.
 

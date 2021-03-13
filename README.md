@@ -41,12 +41,12 @@ Seznam knih, které jsem četl během českého "třítýdenního" lockdownu (v 
 | Nauč se to: Jak se s pomocí vědy efektivněji učit a více si pamatovat | Peter Christopher Brown | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/nauc-se-to.md) | 
 | Homo deus: Stručné dějiny zítřka | Harari Noah Yuval | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md) | 
 | Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha | Henry Kissinger | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/usporadani-sveta.md) | 
+| Proč spíme: Odhalte sílu spánku a snění | Matthew Walker | | 
 
 ## Plánované
 
 Seznam knih, které plánuji přečíst v nejbližší době (během lockdownů v následujících letech).
 
-- Proč spíme, M. Walker
 - Příběh lidského těla, D. Lieberman
 - Z Izrastiny s láskou, J. Szántó
 - Ticho, S. Cain

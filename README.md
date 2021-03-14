@@ -15,6 +15,7 @@ Seznam knih, které jsem četl během českého "třítýdenního" lockdownu (v 
 | Opuštěná společnost. Česká cesta od Masaryka po Babiše | Erik Tabery | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/opustena-spolecnost.md) | 85% |
 | Zlá krev: Jak majitelka startupu ze Silicon Valley oklamala svět |  John Carreyrou | 2021 | | 80% |
 | Superveľmoc? Všetko čo potrebujete vedieť o súčasnej Číne | Kristina Kironska, Richard Turcsányi | 2020 | | 75% |
+| Bohatý táta, chudý táta: Co bohatí učí svoje děti a chudí a střední vrstvy ne | Robert T. Kiyosaki,  Sharon L. Lechter | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/bohaty-tata-chudy-tata.md) | 75% |
 | V zajetí geografie: Jak lze pomocí deseti map pochopit světovou politiku | Tim Marshall  | 2021 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/v-zajeti-geografie.md) | 70% |
 | Atomové návyky: Jak si budovat dobré návyky a zbavovat se těch špatných | James Clear  | 2020 | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/atomove-navyky.md) | 70% |
 | Můj příběh | Michelle Obama | 2021 | | 70% |
@@ -42,7 +43,6 @@ Seznam knih, které jsem četl během českého "třítýdenního" lockdownu (v 
 | Homo deus: Stručné dějiny zítřka | Harari Noah Yuval | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md) | 
 | Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha | Henry Kissinger | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/usporadani-sveta.md) | 
 | Proč spíme: Odhalte sílu spánku a snění | Matthew Walker | | 
-| Bohatý táta, chudý táta: Co bohatí učí svoje děti a chudí a střední vrstvy ne | Robert T. Kiyosaki,  Sharon L. Lechter | | 
 
 ## Plánované
 

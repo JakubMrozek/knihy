@@ -43,6 +43,7 @@ Seznam knih, které jsem četl během českého "třítýdenního" lockdownu (v 
 | Homo deus: Stručné dějiny zítřka | Harari Noah Yuval | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/homo-deus.md) | 
 | Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha | Henry Kissinger | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/usporadani-sveta.md) | 
 | Proč spíme: Odhalte sílu spánku a snění | Matthew Walker | [Poznámky](https://github.com/JakubMrozek/knihy/blob/main/proc-spime.md) | 
+| Hory shora | Radek Jaroš | | 
 
 ## Plánované
 
@@ -57,7 +58,6 @@ Seznam knih, které plánuji přečíst v nejbližší době (během lockdownů 
 - Stručná historie času, S. W. Hawking
 - Stručná historie téměř všeho, B. Bryson
 - Havel, M. Žantovský
-- Hory shora, R. Jaroš
 - Čtyřhodinové tělo, T. Ferriss
 - Sobecký gen, R. Dawkins
 - Jak na sítě, M. Losekoot

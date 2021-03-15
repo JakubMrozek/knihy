@@ -11,3 +11,11 @@
 * **ROR** (Rate of Return) - rentabilita, míra návratnosti za nějaké období. Výpočet: ((současná hodnota investice – původní hodnota investice) / původní hodnota investice) x 100.
 * **Interest rate** (úroková míra) - částka, kterou si věřitel účtuje za použití aktiv.
 * **Capital expenditures** (CapEx, kapitálové výdaje) - investice do stálých aktiv (hmotný investiční majetek, nehmotný ap.).
+* **Equity** (vlastní kapitál) - vklady zakladatelů, peněžité a nepeněžité vklady majetku do firmy, kapitálové fondy (kapitál z vnějšku), hospodářské výsledky z minulých účetních období i z období současného a fondy tvořené ze zisku (rezervní fond).
+* **Net equity** (čistá hodnota vlastního kapitálu) - reálná tržní hodnota aktiv podniku minus jeho závazky.
+* **Shareholders adjusted net equity** - vlastní kapitál náležící vlastníkům.
+* **LTV** (loan to value) - poměr mezi hypotečním úvěrem a zástavní hodnotou nemovitosti.
+* **Interest cover ratio** (úrokové krytí) - EBIT / nákladové úroky. Kolikrát celkový efekt reprodukce převyšuje úrokové platby.
+* **Interest income** (úrokový výnos) - částka zaplacená účetní jednotce za půjčení jejích peněz nebo za to, že její účetní jednotka použila své finanční prostředky.
+* **Interest expense** (úrokový náklad) - úroková míra * zbývající částka jistiny dluhu.
+* **Preferenční akcie** - mají předem stanovenou výši dividend, která je fixní nebo stanovena na základě nějakého vzorce. Mají také preferenci ve výplatě před kmenovými akcimi. V případě bankrotu jsou nejprve uspokojeni vlastníci dluhopisu, pak vlastníci preferenčních akcií a pak vlastníci kmenových akcií.

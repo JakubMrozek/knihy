@@ -16,5 +16,8 @@
 * Iluze plynulosti. Zaměňujeme plynulost čtení s ovládáním textu. Při čtení získáme pocit, že je to jednoduché, ale praktická aplikace nás vyvede z omylu.
 * Sociální nákaza vzpomínek. Někdo řekne nové detaily společné události a my si je zapamatujeme, jakože se opravdu staly.
 * Efekt falešného konsenzu. Očekáváme, že ostatní budou mít stejné poznatky a názory jako my.
+* Dunning-Krugeruv efekt. Lidí nadhodnotí své schopnosti, nedokáží vnímat rozdíl mezi svým výkonem a chtěným výkonem. Výsledkem je, že se člověk nechce učit, má pocit, že to nepotřebuje. Řešením je zpřesnit metakognici, tedy uvažování o sobě samém. Třeba když si děti v tělocviku vybírají do svých týmů ostatní děti, tyto děti mají ihned zpětnou vazbu, co si o jejich výkonu myslí ostatní. Kdo zůstane poslední, je toho schopnosti jsou vnímány jako nejhorší. V běžném životě jinak takovou zpětnou vazbu nemáme.
+* Unschooling = teorie, že co žáka zaujme, bude pro něj nejlepší zdroj učení. Teorie učení řízené studenty = studenti si sami vybírají, co se chtějí učit, jakým tempem a metodami. U naprosté většiny studentů to efektivní není, učit se neumí, přecení své schopnosti.
 * TBC
+
 

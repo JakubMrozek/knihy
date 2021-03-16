@@ -1,4 +1,6 @@
 # Investování
+
+## Pojmy
 * **EBITDA** (Earnings Before Interest, Taxes, Depreciation and Amortization) - zisk před úroky, daněmi, odpisy a amortizací. Tedy hrubý zisk před odečtením režijních nákladů. Výpočet: čistý zisk + úrokové náklady + zaplacené daně + odpisy + amortizace.
 * **EBIT** (Earnings Before Interest, Taxes) - zisk před úroky a daněmi. Výpočet: čistý zisk + úrokové náklady + zaplacené daně.
 * **P/E ratio** (Price–earnings ratio) - tržní cena akcie / roční zisk na akcii. Neboli tržní kapitalizace / čistý zisk.
@@ -19,3 +21,8 @@
 * **Interest income** (úrokový výnos) - částka zaplacená účetní jednotce za půjčení jejích peněz nebo za to, že její účetní jednotka použila své finanční prostředky.
 * **Interest expense** (úrokový náklad) - úroková míra * zbývající částka jistiny dluhu.
 * **Preferenční akcie** - mají předem stanovenou výši dividend, která je fixní nebo stanovena na základě nějakého vzorce. Mají také preferenci ve výplatě před kmenovými akcimi. V případě bankrotu jsou nejprve uspokojeni vlastníci dluhopisu, pak vlastníci preferenčních akcií a pak vlastníci kmenových akcií.
+
+## Teze
+* Pokud by šla cena dolů a já začal prodávat, měl bych prodat již nyní.
+* Pokud nejsem ochotný přikoupit, pokud cena poklesne o 30 či 50 %, pravděpodobně bych neměl ani začít nakupovat.
+* Zisk se vytváří, když se kupuje, nikoliv, když se prodává.

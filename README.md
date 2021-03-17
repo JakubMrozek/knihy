@@ -1,3 +1,3 @@
 # Knihy
 
-[Seznam knih](https://jakubmrozek.cz/knihy.html])
+[Seznam knih s poznámkami](https://jakubmrozek.cz/knihy.html)

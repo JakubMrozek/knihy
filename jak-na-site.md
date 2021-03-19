@@ -101,5 +101,65 @@
   - Po čem tajně touží?
   - Mluví vlastním jazykem?
 * Vytvoří se cílové skupiny (např. muži 20-40 z Prahy), které se poté dále dělí na segmenty (studenti VŠ, kteří piji naši kávu před zkouškou). A ze segmentů se vytvoří persony, vzorové zástupce daného segmentu (vytvořit fiktivní jméno, přiřadit fotku, přidat popis atd.). Projít sociální sítě konkurentů a vytvořit persony.
-Prozkoumat hashtagy používané v našem oboru.
+* Prozkoumat hashtagy používané v našem oboru.
+* Propagace formou příběhu. Příkladem BMW, když chtěli prodat svoji novou motorku. Vytvořili instagramový profil, který vyplňovali dva lidé, kteří tu motorku používali a lidé sledovali jejich příběhy.
+* Stanovení cílů kampaně. Např. zvýšit povědomí o značce, budování komunity, zvýšení prodeje (“chci zvýšit prodej o 3% do konce roku”), zvýšení návštěvnosti ap. Cíle by měly být SMART. Tedy konkrétní (specific), měřitelné (measurable), dosažitelné (achievable), relevatní (relevant) a časově vymezené (time framed).
+* Otestovat kampaň nejprve na malém vzorku lidí pro ověření, že to funguje jak předpokládáme.
+* Plánování strategie pro sítě
+  - Jaké sítě budeme používat?
+  - Jaký obsah tam budeme dávat?
+  - Kdo ho bude vytvářet?
+  - Jak vyřešíme zabezpečení?
+  - Kdo za ně bude zodpovědný?
+  - Jak bude řešena krizová komunikace?
+  - Kdo bude schvalovat příspěvky?
+  - Kolík máme na sociální sítě vyčleněno času a peněz?
+* U Facebooku se snažit rozproudit diskusi pod příspěvky. Donutit uživatele sdílet příspěvky v messengeru. FB čím dál tím preferuje skupiny, vytvořit ke stránce ideálně uzavřenou (více exkluzivní) skupinu (vstupní otázky). 
+* U Instagramu se trendy mění strašně rychle. Důležité je tady sledovat i konkurenci, nové hashtagy.
+* Linkedin je založen na kontaktech, firemní profily jsou mnohem méně důležitější. Lepší je mít vymazelený osobní profil, přes který budu sdílet příspěvky.
+* U Youtube je důležité vyhledávání, lidé se zde často učí, vyhledávání typu “how to … návody”. Youtube je velmi těžký, je potřeba mít hodně followerů, kvalitní vizuální obsah a pravidelnost.
+* Při tvorbě kvalitního obsahu je nutné si klást 3 otázky:
+  1) Dá to Karel (náš znuděný, otrávený, nevrhlý imaginární fanoušek)?
+  2) Proč by to mělo moji cílovku zajímat?
+  3) Čeho chci dosáhnout?
+* Uživatelsky generovaný obsah (UGC). Můžeme postovat to, co mí zákazníci vytvořili nebo nějak se stránkou interagovali. Představují důvěryhodnější obsah.
+* Jaký obsah na stránku tvořit? Máme 5 kategorií:
+  1) Zábava (nejžádanější; je to i obsah, který vyvolává údiv a překvapení, důležité je ale to, aby obsah souvisel se značkou, jinak nalákáme fans, které zajímá jen zábava a ne značka).
+  2) Vzdělání a inspirace
+  3) Zákulisí (info o podnikání, historie ap., info o členech týmů, statistiky, příběhy ap.)
+  4) Pomoc s produktem (jak udělat XYZ)
+  5) Prodej (nové produkty jsou na skladě, juchů!)
+* Při vymýšlení obsahu mohou pomoci tyto otázky:
+  - Na co se zákazníci často ptají?
+  - S čím mají zákazníci často problém?
+  - S čím mohu zákazníkům pomoci?
+  - Na jaké překážky zákazníci naráří, když používají náš produkt?
+  - Jaká související témata zákazníky zajímají?
+  - Mám nějaké znalosti, které jsou důležité pro moji cílovku?
+  - Co zákazníci nenajdou jinde než u nás?
+  - Mají zákazníci nějaké specifické potřeby?
+  - Objevilo se v oboru něco nového, co by mohlo zákazníky zajímat?
+  - Mohu zákazníkům nějak pomoci být lepší?
+  - Mohu sdílet nějaké užitečné know-how?
+  - Co bych chtěl vědět, kdybych v této oblasti začínal?
+* Sestaví se nejprve tématické okruhy, k nim se vytvoří konkrétní témata a u každého téma se určí forma.
+* Formy publikace: návody, studie, grafy, e-booky, ilustrace, komiks, shrnutí, recenze, soutěž, faq, Q&A, webinář, průvodce, infografika, rozhovor, mindmapa, memy, články, aplikace, hry, firemní novinky, oborové novinky, fotky, videa, výzkum, podcast, kvíz, citát, anketa, vlog, událost, prezentace, guest post, názor, seznam, galerie fotografií, gify, šablony, tipy a triky, upoutávka.
+* Proč lidé přestávají značku na soc. sítích sledovat?
+  - Špatná zákaznická podpora (56%).
+  - Irelevantní obsah (51%).
+  - Příliš mnoho reklamy (43%).
+  - Příliš mnoho promo postů (35%).
+  - Značka mluví o politice či sociálních tématech (34%).
+  - Ignorování příspěvků a zmínek od uživatelů (29%).
+  - Využívání influencerů k prodeji (14%).
+* Proč lidé sledují značky na sítích?
+  - Přehled o nových produktech a službách (50%).
+  - Zábava (48%).
+  - Firemní novinky (40%).
+  - Slevy a akce (38%).
+  - Styk s podobnými lidmi (36%).
+  - Inspirace (36%).
+  - Vzdělávání (35%).
+  - Styk s odlišnými lidmi (20%).
+  - Komunikace se značkou (20%).
 * TBC

@@ -162,4 +162,26 @@
   - Vzdělávání (35%).
   - Styk s odlišnými lidmi (20%).
   - Komunikace se značkou (20%).
-* TBC
+* Jak psát? 
+  - Ideálně bez metafor, přirovnání. Bez cizích a odborných slov. Pokud možno používat krátká slova. Lze nějaká slova či věty vynechat? Co má čtenář udělat po dočtení textu?
+  - Nemá smysl lidi přesvědčovat. Raději s nimi souznit a utvrzovat je v jejich názoru. Značky na sítích nejsou od toho, aby měnili názory lidí. 
+  - Zdůrazňovat benefity, nikoliv vlastnosti produktu (nový iPod má 5G paměti = vlastnost, do nového iPodu se vám vejde 1000 písniček = benefit).
+  - Prezentovat vždy jen jednu informaci. Zkusit si text zašeptat, prý bude mozek sám některé části chtít vypustit. Nepoužívat reklamní bláboly.
+  - Při čtení textu by si měl člověk schopen danou věc vizualizovat, zosobnit.
+  - Řekl bych danou věc v kavárně či hospodě? Pokud ne, nepsat ji ani na sítě. 
+  - Čechrat ego. Lidé sdílejí věci ne podle toho, co si myslí, ale podle toho, co chtějí, aby si o nich ostatní mysleli.
+  - Vyprávět příběhy, vytvářet emoce.
+* V username instagramu nesmí být podle podmínek název domény.
+* Používat stories. Dávat tam zákulisí, tým.
+* Plánovat content na sociální sítě dopředu, třeba i měsíc.
+* Canva.com pro tvorbu obrázků pro sociální sítě. Další zajímavé nástroje: Afterlight, Adobe Lightroom, Snapseed, VSCO, Planoly, Preview, Mosaico, Squarelovin, Piktochart, Infogram, MadeWithOver, Unfold, Giphy, Sproutsocial.
+* Engagement rate. Různé výpočky, když stoupá, dělám to dobře. Počet fanoušků, nejoblíbenější metrika, je ta nejhorší. 
+* Co sledovat? socialmediaexaminer.com, socialmediatoday.com, marketingland.com, getrevue.co, newsfeed.cz, m-journal.cz, markething.cz, lupa.cz.
+* Nástroje pro metriky. FB Analytics, Audience Insights, Google Data Studiu, Socialbakers, Zoomshere, Geneeam, Google Analytics.
+* Remarketing (retargeting) - jak oslovit konkrétní cílovou skupinu lidí, kteří již jednou přišli na webové stránky zadavatele remarketingu. Objevuje se jim reklama na stejný produkt všude jinde. Je to velmi účinné.
+* Používat okruhy uživatelů z podobných zákazníků (umí Facebook). 
+* Ideální začátek s placenou reklamou je zesílit dosah příspěvku, který dobře funguje u mé komunity.
+* CPC - cena za proklik, CPM - cena za 1000 zobrazení, CTR - míra prokliku.
+* Odlišné cíle marketérů. Budovat povědomí o značce (obtížně měřitelné, důležité je hlavně v začátcích, kdy o sobě musí firma dát vědět, cílem je co největší viditelnost) vs. měřitelné cíle (třeba prodej knihy ap.).
+* ROI (return on investment) = (čisté výnosy / čisté náklady) * 100.
+

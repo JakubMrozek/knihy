@@ -13,6 +13,16 @@
 * V brainstromingové skupině dominantní jedinec dokáže změnit názory ostatních. Problém ega. Dokonce magnetická rezonance odhalí, že lidé pod vlivem dominantního leadera skutečně začnou svůj nápad považovat za chybný, přestože to tak není.
 * Temperament můžeme vnímat jako “základ”, osobnost jako “budovu”.
 * Amygdala funguje jako emoční mozek. To ona vydává signály do zbytku těla v případě nebezpečí.
+* Zkoumání dětí krátce po narození. Některé reagovaly intenzivně na podněty (= vysoce reaktivní) a některé podněty nevnímaly. Z těch vysoce reaktivních se stanou pravděpodobně introverti a z těch méně reaktivních extroverti.
+* Introverze a extroverze je z 40-50% dědičná.
+* Proč se bojíme mluvit na veřejnosti? Jedna teorie má evoluční základ. Když jsme vystavili v otevřeném prostředí, byli jsme snadno napadnutelní predátory, takže bylo v našem zájmu nevyčnívat. 
+* Osobnost lze přetvářet, modifikovat, ale jen do určité míry. Určité biologické limity jsou nepřekročitelné.
+* Extroverti mají nižší senzitivitu, potřebuji proto silnější stimul. Co extroverty aktivuje, co je jim příjemné, to je pro interoverty už příliš.
+* Polygrafy (detektory lži) jsou založeny na vodivosti kůže. Když člověk lže, potí se a přístroj dokáže tohle mikropocení zaznamenat.
+* U sociopatů je amygdala poškozená.
+* Kdyby měl člověk položit jedinou otázku nastávající partnerce, byla by to: “Jaká je tvoje poslední trapná zkušenost?”
+* Introverti jsou obvykle lepší při příprave a dodržovaní plánů. Jsou disciplinovanější. Zejména na Wall Street to je docela problém, extroverti jsou více směřování k riziku. Velké investiční společnosti často vedou extroverti, na rozvážné introverty se nedbá, občas to končí krachem.
+* Introverti vydrží déle u úkolů a méně se vzdávají. Statisticky jsou úspěšnější na VŠ, i když rozdíl v inteligenci není žádný.
 * TBC
 
 

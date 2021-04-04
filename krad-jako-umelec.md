@@ -15,4 +15,4 @@
 * Vytvářet deník. Velmi krátce v bodech popsat den. Co jsem jedl, jaký den byl (awesome, ordinary … etc.).
 * Dobrovolně si vytvářet hranice, omezení. Někoho u umělce zajímá vždy to, jaké měl hranice. Třeba napiš povídku o max. 200 slovech.
 * Vytvoř si zlodějský pytel, kam vkládáš ukradné nápady a myšlenky.
-
+* Dělat co umím vs. dělat co opravdu chci.

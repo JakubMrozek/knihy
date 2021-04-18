@@ -65,4 +65,21 @@
 * Pro spánek je dobré udržovat mistnost chladnou. Ideální tepolota je 18,3 stupně.
 * Horká koupel umí navodit spánek. Horká koupel žene krev k povrchu kůže, po koupeli teplota rychle lesne, tělo se stane chladnější a rychleji usneme.
 * Vstávání s budíkem je katastrofa.
+* Nebrat rozhodně tablety na spaní. Žádné nenavodí skutečný spánek, člověk se spíše pohybuje ve stavu bezvědomí. Urychlují jen usnutí. Způsobují zapomnětlivost, vyšší riziko rakoviny a umrtí. I příležitostné braní je problém (3,6x vyšší riziko smrti) kvůli oslabené imunitě během “nespánku”.
+* Min. 2-3 hodiny před spánkem bez fyzické aktivity. 
+* Brzské vstávání kvůli škole je šílenost. V USA posunutí vstávání o hodinu a čtvrt snížil počet automobilových nehod mladistvých o 70%.
+* První otázka na lékaře by měla být: spal jste dnes hodně? Pochybení lékař je 3. nejčastější příčinou smrti po infarktu a rakovině. Pokud lékař spí méně než 6 hodin, je u něj o 170% vyšší riziko pochybení vedoucí k poškození orgánů a vnitřního krvácení.
+* 12 tipů jak spát:
+  - Pravidelný spánek.
+  - Cvičení ne později než 2-3 hodiny před usnutím.
+  - Bez kofeinu a nikotinu.
+  - Bez alkoholu.
+  - Bez velkých porcí jídla.
+  - Bez léků na spaní.
+  - Nespat po 3. hodině odpoledne.
+  - Odpočinek před spánkem.
+  - Horká koupel před spaním.
+  - Tmavá, chladná ložnice.
+  - Bez intenzivního světla před spaním.
+  - Neležet bdělý v posteli.
 

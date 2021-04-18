@@ -37,4 +37,21 @@
 * Krátký spánek, šlofík (power nap) je vhodné udělat předtím, než nastane spánková deprivace.
 * Emoce a spánek. Máme dvě skupiny, jedna noc spala, druhá ne. Ta, která nespala, měla o 60% silnější emocionální reakce v amygdale. Při spánku je prefrontální kortex (centrum pro logiku, racionalitu) silně propojen s amygdalou, takže dokážeme brzdit negativní emoce. Bez spánku budeme více podrážděnější, depresivnější, narůstá počet sebevražd, máme nepřesné úvahy (třeba na investice), risujeme, vyhledáváme senzace. Lidé jsou agresivnější, častěji šikanují. 
 * Alzheimerova choroba. Trpí ji na světě 4 mil. lidí. Souvisí přímo s nedostatkem spánku.
+* Nemoci srdce. Pokud má člověk 6 a méně hodin spánku, zvyšuje pravděpodobnost infarktu o 400 - 500%.
+* Posun času má velký vliv na člověka. Po přesunu narůstá počet dopravních nehod i infarktů.
+* Diabetes, obezita. Když nespíme, tělo nezpracovavá efektivně kalorie (cukry) v krvi. Následkem toho člověk tloustne. Dva hormony ovlivňující chuť k jídlu: leptin (člověku dodává pocit sytosti) a ghrelin (spouští pocit silného hladu). Když neáme dostatečný spánek, máme v krvi více ghrelinu a méně leptinu. 
+* Jestli je člověk vzhůru nebo spí není z pohledu enerického výdaje takový rozdíl. V průběhu noci mozek pracuje a jeho výdej energie není malý.
+* Bez spánku spánku člověk ztrácí při dietě svaly a ne tuk. Tělo si tuk nechává.
+* Spánek ovlivňuje i reprodukci. Bez spánku má člověk éně hormonů, u mužů méně spermií a menší varlata, u žen o 80% horší schopnost otěhotnět. Klesá i přitažlivost pro ostatní.
+* Spánek ovlivňuje imunitu. Člověk má více rakovinových buňek. Nedostatek spánku vede k větším a agresivnějším nádorům.
+* Magnetická rezonance dokázala dešifrovat sny. Zatím nahrubo (vědci viděli, že člověk viděl ve snu auto, ale už nedokázali zjistit jaké).
+* Sigmund Freud. Jeho psychoanalýza je blbost, sny nevycházejí z nesplněných přání. 
+* Sny jsou propojeny s bdělostí přes emoce. Jejich funkcí je a) péče o emocionální a duševní zdaví a b) kreativita.
+* Během snů se nevylučuje látka, která způsobuje úzkost, sny tedy působí jako tlumič negativních zážitků. Díky tomu můžeme vidět těžké zážitky z minulosti už bez emocí. 
+* U lidí s posttraumatickým syndromem se během snění vylušuje noradrenalin. Ten brání oddělení emocí od vzpomínky a lidem se vrací noční můry. Když se jeho produkce sníží, můry ustanou.
+* Dále díky snům umíme dekódovat mnohem lépe emoce ostatních lidí. Spánkově deprimovaní lidé hůře emoce detekovali. 
+* Kreativita v REM při snění. Děti si díky ní dokážou osvojovat jazyk, gramatická pravidla, i když o nich nic neví. Spánek má vliv na analytické funkce.
+* “ráno moudřejší večera” je rčení v mnoha jazycích napříč kulturami.
+* Na obsahu snu velmi záleží. Mozek se ptá: “které z mých předchozích zkušeností by se mohly hodit pro řešení tohoto problému?”
+* Lucidní snění. Pár procent ludí je schopno sny kontrolovat a ovlivňovat. 
 

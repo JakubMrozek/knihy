@@ -54,4 +54,15 @@
 * “ráno moudřejší večera” je rčení v mnoha jazycích napříč kulturami.
 * Na obsahu snu velmi záleží. Mozek se ptá: “které z mých předchozích zkušeností by se mohly hodit pro řešení tohoto problému?”
 * Lucidní snění. Pár procent ludí je schopno sny kontrolovat a ovlivňovat. 
+* Somnambulismus je náměsičnost. Probíhá v NREM části, nikoluv v REM.
+* Insomnie je nespavost. Potíže usnout či zůstat ve spánku. Je 2x častější u žen. Hlavní příčinou je stres. Řeší se už psychologií, nikoliv léky.
+* Narkolepsie je nadměrná spavost (náhlé usnutí). Spojena je se spánkovou paralýzou (tělo se stane nehybným, mozek vyhodnotí, že jsme v REM fázi) a kataplexií (náhlá ztráta kontroly svalů, které nejčastěji vyvolají intenzivní emoce).
+* Fatální familiární insomnie. Člověk nemůže usnout vůbec, do 10 měsíců umírá. Příčinou je to, že je thalamus celou dobu otevřen.
+* Tlumené světlo způsobuje odsun spánku. Modré LED žárovky potlačují příliv melatoninu 2x rychleji než lampička vedle postele.
+* Pokud čteme knihu na iPadu, melatoninu bylo po čtení o 50% méně než v případě papírové knihy. Člověk usínal později a měl méně REM spánku. I pokud se iPad nepoužívá několik dní, nárůst melatoninu je stále znát.
+* Alkohol omezuje REM spánek, alkoholici ho vlastně vůbec nemají. Tělo se ho snaží dohnat během dne, proto mají alkoholici vidiny (delirium tremens).
+* Alkohol výrazně ovlivňuje učení. Tři skupiny, jedna nepila alkohol vůbec, druhá se napila po učení a třetí se napila alkoholu až po několika dnech od učení. Po týdnu test a ukázalo se, že alkoholici v obou skupinách znali jen 50%. Mozek tedy zpracovává informace i několik dní po učení.
+* Pro spánek je dobré udržovat mistnost chladnou. Ideální tepolota je 18,3 stupně.
+* Horká koupel umí navodit spánek. Horká koupel žene krev k povrchu kůže, po koupeli teplota rychle lesne, tělo se stane chladnější a rychleji usneme.
+* Vstávání s budíkem je katastrofa.
 

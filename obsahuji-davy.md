@@ -9,4 +9,11 @@
 * Eukaryotické buňky se začaly shlukovat a vznikly mnohobuněčné organismy.
 * Patogen je infekční mikrob. Většina mikrobů člověku neuškodí, infekční nemoci způsobuje jen 100 druhů bakterií.
 * Jaká je funkce mikrobů v těle? Třeba produkují vitamíny a minerály, pokud je člověk nedostane ze strany, rozkládají chemické látky, trénují imunitní systém ap.
-* TBC
+* Někteří mikrobi: staphylococca (v kůži), streptococus (v ústech), bacteroides (ve střevě).
+* Mikrobiom dítěte dospívá během 1-3 let (vývoji mikrobiomu se říká sukcese).
+* Mikrobi výrazně ovlivňují náš živit. Známe souvislosti s astmatem, karciomem tlustého střeva, diabetes, obezitou.
+* Metabolity jsou chemické látky, které produkují mikrobi.
+* Antoni van Leeuwenhoek, čalouník z Nizozemska, byl první člověk, který viděl mikrosvět v mikroskopu. Byl schopný vytvořit mikroskop lepší než měla tehdejší věděcká obec.
+* Louis Pasteur byl chemik, který dokázal, že bakterie jsou odpovědné za kvašení nápojů a hnití masa. Odtud teorie o tom, že mikroby mohou za nemoci.
+* Robert Koch zjistil, že bakterie mohou za tyfus, kapavku, tuberkulozu, choleru, mor a mnoho dalších nemocí.
+

@@ -16,4 +16,5 @@
 * Antoni van Leeuwenhoek, čalouník z Nizozemska, byl první člověk, který viděl mikrosvět v mikroskopu. Byl schopný vytvořit mikroskop lepší než měla tehdejší věděcká obec.
 * Louis Pasteur byl chemik, který dokázal, že bakterie jsou odpovědné za kvašení nápojů a hnití masa. Odtud teorie o tom, že mikroby mohou za nemoci.
 * Robert Koch zjistil, že bakterie mohou za tyfus, kapavku, tuberkulozu, choleru, mor a mnoho dalších nemocí.
-
+* Symbioza (soužití). Pokud měl jeden z mikrobů užittek z druhého mikroba, označíme ho za parazita. Pokud způsobil nemoc, označuje se jako patogen.
+* Nizozemsko (Deifu). Muzeum mikrobů Micropie.

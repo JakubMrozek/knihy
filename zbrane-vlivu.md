@@ -5,5 +5,10 @@
 * Slevové kupóny. V jedné firmě omylem odeslali slevové kupóny s 0% slevou a lidé je využívali stejně, jako kdyby nějakou slevu měly.
 * Princip kontrastu. Porovnáváme dva produkty, jeden slouží pro nastavení kotvy. Například budeme porovnávat obrázky atraktivních žen a poté ukázeme obrázek méně atraktivní ženy. Bude se jevit jako výrazně ošlivější, standard nastavily ty hezké.
 * Příklady principu kontrastu. Prodejci oděvů nejprve ukážou to nejdražší oblečení a až poté levnější doplňky. Když už zákazník koupí drahé oblečení, drahé doplňky se tak drahé nejeví. Podobně je to pří koupi auta, nejprve nákup velké položky a pak velmi drahé doplňky. V realitce zase mohou ukázat zbořeniny a až poté krásný byt.
-* Pravidlo reciprocity. Očekává se oplacení laskavosti.
+* Pravidlo reciprocity. Očekává se oplacení laskavosti. Lidé dokonce udělají laskavost recipročně, i když jim není druhý člověk sympatický.
+* Vzorky či dárek zdarma. Druhý člověk se cítí zavázán, a tak je vyšší pravděpodobnost, že si pak ode mě něco koupí. Např. Hare Krišna dá nejprve člověku dárek a pak je požádají o příspěvěk na organizaci.
+* Příklad s odesláním žádosti charitativní organizace. Pokud poslali jen žádost, měli 18% pravděpodobnost, že jim člověk vyhoví. Pokud však přidali dárek, bylo to až 35%.
+* Strategie “odmítnutí a následný ústupek”. Nasadíme laďku vysoko a poté ji snížíme. Vypadá to, že jsme se obětovali, že děláme kompromis a druhý člověk nám bude chtít recipročně vyhovět. Např. chlapec, který prodával lístky do cirkusu za 5 USD. Když ho lidé odmítli, nabídl alespoň čokoládu za 1 USD. Cílem bylo pravděpodobně prodávat čokolády, nepočtalo se s tím, že by si někdo lístek do cirkusu kupoval.
+* Podobný případ je obcházení cenzury. V první verzi se použije konstrukce, u které je veliká pravděpodobnost odmítnutí, poté se přidá konstrukce, kterou jsme chtěli původně použít. Tentokrát ji už povolí, vypadá to, že jsme udělali ústupek. Podobně je to s podomovním prodejem. Když se nepodaří prodat, obchodník se zeptá alespoň na kontakty a lidé jim vyhoví. Oběť se cítí zavázaná, cítí odpovědnost za dohodu a také uspokojení z vyjednání.
 * TBC
+

@@ -25,3 +25,19 @@
 * Studie s dětmi, kteří měli strach ze psů. Stačilo jim dát dokument, kde viděli ostatní děti, jak si se psy hrají a oni pak začali také. Podobně je to se sociálním odloučením, stačil 23 minut dlouhý dokument, kde se děti dívaly, jak jsou ostatní šťastní, když se odměřené dítě zapojí do kolektivu a stali se z nich sociálně nejaktivnější děti.
 * Člověk, který se díval k nebi. Pokud tam byl jen jeden člověk, ostatní kolem něj prošli. Ale když tam bylo více lidí a všichni se dívali směrem k obloze, další lidi se také zastavovali a dělali to samé.
 * Zásada sociálního schválení. Čím více lidí věří, že je nějaká věc správná, tím více bude správnější.
+* Nečinnost lidí. Vraždě v New Yorku přihlíželo 38 lidí a nikdo nic neudělal. Kdyby bylo svědků méně, pravděpodobně by to dopadlo jinak. Pokud byl při experimentu v okolí situace, kdy člověk potřeboval pomoci, jen jeden člověk, v 85% případů pomohl. Pokud tam bylo 5 lidí, pomoc přišla jen v 35% případů. Proč lidé nepomohou? Ve městech je nižší pravděpodobnost zásahu, je tam větší zmatečnost, velké množství lidí a málo známých. Často také není jasné, že jde o nouzovou situaci.
+* Co dělat, když potřebuji pomoc? Ukázat na jednoho konkrétního člověka: “vy pane v té modré košili, potřebuji pomoc, zavolejte sanitku, mám infarkt”.
+* Podobnost hraje důležitou roli. V reklamách jsou proto lidé jako my. Dokážeme se s nimi identifikovat. 
+* Wertherův efekt - sevebražda v noviných vyvolá vlnu dalších sebevražd. Lidé se identifikují s danou obětí. Dokonce může vzrůst počet autonehod či (v 80. letech USA leteckých katastrof), které vypadají jako nehoda, ale jsou sebevraždy.
+* Sociální schválení. V operách jsou třeba placení herci, kteří vyvolávají potlesk.
+* Prodejci hrnců a kamarádi. Zvláštní firma, která zaměstnávala ženy, aby prodávali svým kamarádkám. Protože to prodává kamarádka, spoustu lidí si to koupí.
+* Vzhled hraje velkou roli, větší, než si myslíme. Hezkým lidem přisuzujeme vlastosti jako talent, laskavost ap. Vzhled může rozhodovat volby (tel. debata Nixon vs. Kennedy - Nixon prý prohrál kvůli své maskérce). U soudu dostávají hezcí lidé nižší tresty (dokonce existují důkazy, že plastická operace škaredým vězňům pomohla). Větší pravděpodobnost přijetí do zaměstnání mají hezcí lidé častěji jsou voleni hezcí politici ap.
+* Podobnost. Student, který požádal dalšího studenta i čtvrťák byl úspěšnější, když vypadal jako daný student.
+* Prodejci aut. Zrdcadlení, napodobování. Používají se věty typu “Takže vy jste z Kalifornie? Moje žena je odtud.”
+* Lichotky působí, i když víme, že jsou neupřímné. Nejlepší prodejce aut, Joe Girard, posílal pohlednice svým klientům 12x ročně a psal v nich “mám vás rád”.
+* Experiment k desegregaci. Byli dvě skupiny dětí na táboře, mezi kterými byla vytvořena rivalita. Jejich nevraživost rostla, prali se, dělali si naschvály. Změnilo se to až začali dostávat úkoly, které je nutily ke spolupráci místo soupeření. Podobné to může být v amerických školách. Když se děti hlásí, soupeří o pozornost učitele, jedné z nejdůležitějších osob v jejich životě. Vzniká konkurenční prostředí. Když naopak děti musí spolupracovat, dařilo se zapojovat efektivně děti z dalších etnických skupin.
+* Asociace. Modelka, krásná žena, v autě. Lidé pak auto hodnotili lépe, i když byli přesvědčeni, že žena jejich pohled neovlivnila. Zprávaři o počasí dostávali až výhružné zprávy, když vyšla jejich předpověď. 
+* Spojení s olympiádou. Až ⅓ lidí si koupí výrobek, který je spojený s OH.
+* Politici žádají o příspěvek během nebo po jídle na svých rautech, nikdy ne předem. Po jídle je člověku lépe a jsou ochotní více politika podpořit.
+* I. P .Pavlov a studium reflexů. Pes začne slintat už jen tehdy, když slyší zvonek u dveří, jidlo ještě ani nemusí vidět. V rádiích se vkládá znělka po úspěšném hitu, abychom si znělku propojili s dobrým pocitem z poslechu.
+* Asociace se sportovními týmy. “My” vyhráli, ale “oni” prohráli.

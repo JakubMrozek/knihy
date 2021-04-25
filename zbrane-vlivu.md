@@ -41,3 +41,4 @@
 * Politici žádají o příspěvek během nebo po jídle na svých rautech, nikdy ne předem. Po jídle je člověku lépe a jsou ochotní více politika podpořit.
 * I. P .Pavlov a studium reflexů. Pes začne slintat už jen tehdy, když slyší zvonek u dveří, jidlo ještě ani nemusí vidět. V rádiích se vkládá znělka po úspěšném hitu, abychom si znělku propojili s dobrým pocitem z poslechu.
 * Asociace se sportovními týmy. “My” vyhráli, ale “oni” prohráli.
+* Vliv autority. Experiment s generátory šoku. Dva protagonsté, jeden byl žák (herec) a druhý učitel (člověk naverbovaný pro výzkum). Žák se měl naučit slova. Když nějaké neuměl, učitel mu měl dát elektrický šok. Na začátku byly malé, postupně se zvyšovali. Zhruba 65% učitelů došli až na maximální bolest. Herec je prosil, aby toho nechali, ale oni dále pokračovali. Chtěli s tím přestat, ale výzkumníci jim říkali, ať pokračují. Vliv autority výzkumníků byl zásadní. Přestože lidé prosili, ať přestanou, výzkumníci pokračovali.

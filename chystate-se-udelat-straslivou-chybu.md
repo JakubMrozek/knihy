@@ -10,3 +10,6 @@
 * Vhodnost intuice je nutné posuzovat pro každé rozhodnutí zvlášť. Obecně lze říct, že čím strategičtější rozhodnutí je, tím horší je spolehat se na intuici. Ke strategickým rozhodnutím dochází vzácně, jde o nejisté prostředí a s nejednoznačnou zpětnou vazbou.
 * Heuristika je objevování nových poznatků, přístupů ap. s pomocí kreativity, bez přesně stanovených logických pravidel.
 * Zkoumání předpovědi tří set expertů a cca 82 tis. jejich výroků na ekonomickou a politickou budoucnost. Dospěl k tomu, že předpovědi jsou horší, než kdyby odpovídali zcela náhodně a horší než prognózy laiků.
+* Nadměrná sebedůvěra se projeví a) přeceněním vlastních schopností (90% řidičů si myslí, že patří k 50% těch nejlepších), b) příliš optimistickými plány (klám plánování - 86% megaprojektů končí překročením původního harmonogramu i náklady), c) nadměrnou přesností úsudku (příliš důvěřujeme svým odhadům) d) podceněním konkurence (jak zareaguje konkurence na můj úspěch?).
+* Optimismus je k úspěchu zapotřebí. Racionální pesimisté budou postupovat klidně, ale dlouhodobě, lídři jsou ale optimisté, kteří měli štěstí a uspěli.
+* Přistupovat s optimismem k tomu, co mám pod kontrolou. A naopak k tomu ostatnímu se snažit být maximálně realistický.

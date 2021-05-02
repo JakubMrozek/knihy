@@ -19,3 +19,7 @@
 * Firmy málo riskují, může za to a) averze k ztrátě (více prožíváme ztrátu nějaké částky než její získání), b) averze k nejistotě (volíme raději vyčíslené riziko než neznámé riziko), c) zkreslení zpětného pohledu (lidé mají pocit, že “to celou dobu věděli” a potom kritizují manažery za nějaké rozhodnutí).
 * Kvůli averzi k ztrátě je výhodnější upozornit zákazníka na možnou ztrátu než mu nabídnout zisk (“tato nabídka bude trvat ještě 3 dny”).
 * Proč je někdy problém s averzí k riziku a jindy s přílišným optimismem? Nadměrná sebedůvěra se projevuje v odhadech a naopak velká ustrašenost v rozhodnutí.
+* Veřejně obchodované společnosti kótované na burze jsou orientované na krátkodobý zisk (2x) více než společnosti, které na burze kótované nejsou.
+* Zkreslení přítomnosti. Pokud si má člověk vybrat 100 euro dnes nebo 101 euro zítra, pak většina lidé bude brát první možnost. Ale pokud se bude rozhodovat, zda si vezme 100 euro za rok nebo 101 euro za rok a jeden den, tak si vybere druhou možnost. Diskontní míra není konstantní v čase.
+* Skupinové myšlení (group think, stádní myšlení). Studie s čárami. Pozorovaný člověk byl ve skupině, kde měl každý říct, zda jsou jedna čára větší než druhá. Ostatní říkali záměrně špatný výsledek, pozorovaný člověk pak přizpůsobil svůj názor skupině. Přes 75% lidí se alespoň v jednom případě přizpůsobilo skupině.
+* Nebezpečná je zejména informační kaskáda, tedy kolečko po názorech lidí ve skupině, kdy má každý říct svůj názor. Další v pořadí často přizpůsobí názor předchozímu členovi. Dochází k polarizaci skupiny.

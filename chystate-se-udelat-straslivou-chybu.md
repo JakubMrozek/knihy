@@ -28,3 +28,7 @@
 * Nevidět zkreslení všude. Často jde jen o chybu, nekompetenci ap. Chorobné hledání kognitivních zkreslení všude.
 * Jak se zkreslení vyhnout? Vědomé přeprogramování nefunguje. Zkreslení se budeme dopouštět neustále, ať chceme nebo ne. Nejlepší obranou je vytvořit prostředí, ve kterém se biasy maximálně omezí. Když je maximální snaha neudělat chybu, tak to jde, jako to umí třeba NASA. Ideální je zavést checklisty, kontrolní seznamy.
 * Kognitivní zkreslení u ostatních najdeme snadno, ale u sebe ho často neuvidíme (kognitivní slepá skvrna).
+* V Amazonu je nutné před jednáním připravit cca 6 stránek memoranda, které si každý přečte, aby se mohli připravit předem.
+* Zkušenosti s prezentací před venture kapitalisty. Vyslechnou si startupistu, poděkují a začnou o tom jednat až další den s chladnou hlavou.
+* Premortem - “pitva v předstihu” - přesuneme se o pár let dále a položíme si otázku “Proč tento projekt nakonec nevyšel?”
+

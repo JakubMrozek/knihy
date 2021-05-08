@@ -5,4 +5,4 @@
 * Evoluce nás tlačí k optimu, ale optima nikdy nedosáhneme, protože se podmínky, ve kterých žijeme, neustále mění. Musíme se tedy neustále vyvíjet.
 * Proč máme bílou pokožku? Nechrání nás před splálením na ostrém slunci, ale v mírném pásu pomáhá syntetizovat nedostatek vitamínu D v prostředí s nedostatkem slunečního záření jako je mírný podnebný pás.
 * Cukrovka 2. typu. Tělo přestane reagovat na inzulín, (hormon, který zpracovává cukr a ukládá ho jako tuk), díky tomu roste množství cukru v těle, na to reaguje slinivka, která vyrábí více a více inzulínu, toto množství ale již nestačí a hladina cukru zůstává v krvi vysoká. Musíme se léčit, jinak by mohlo dojít až ke smrti.
-
+* TBC

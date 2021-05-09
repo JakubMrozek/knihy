@@ -14,7 +14,7 @@
 * Evoluce výrazně zvýhodňovala ty, kteří dokáží přežít v nouzových podmínkách a živit se nouzovou stravou. Australopitekus se třeba naučil vyhrabávat potravu v zemi (brambory ap.).
 * Zuby byly pro ně nesmírně důležité. Jejich ztráta znamenala často smrt. Potrava byla tvrdá a ztráta zubů znamenala nemožnost je rozžvýkat.
 * Homo erectus se objevil v Africe poprvé před 1,9 mil. let a odtud se rozšířil do celého světa. Patří mezi první lidi, má moderní lidské proporce.
-* Možní předchůdci homo erectus byl homo habilis (čl. zručný) či homo rudolfinus).
+* Možní předchůdci homo erectus byl homo habilis (čl. zručný) či homo rudolfinus.
 * Strava homo erectus byla ze 70% rostlinného typu. Sběr byl velmi složitý, nutričně bohaté potraviny jsou zakopané v zemi a jejich vykopání zabralo i 20 min. Matka pro sebe a pro své potomky potřebovala až 4500 kcal denně, nicméně z rostlinné stravy dokázala získat jen 2000 kcal. Zbylou část jídelníčku tedy tvořilo maso. 
 * Maso bylo však velmi těžké získat, proto přišla na řadu první dělba práce. Ženy byly obvykle sběračky, muži lovili. Spolupráce ve skupině byla velmi důležitá a před 2 mil. let byla otázkou přežití.
 * Mezi první nástroje patřil kámen opracovaný do ostřejší podoby, který se používal k úpravě masa. Bez toho by žvýkání zabralo velmi mnoho času a energie.

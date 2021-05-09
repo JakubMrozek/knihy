@@ -12,7 +12,7 @@
 * Bipedalismus je označení chůze po dvou.
 * Australopithecus (“jižní opice”) byl dlouho považován za nejstaršího předka člověka (než byly objeveni Sahelanthropus, Orrorin a Ardipithecus). Žil přibližně před 4,1 až 1,3 mil. let a máme mnoho jeho pozůstatků ke zkoumání. Samice měla cca 28 až 35 kg, samec byl 2x větší.Živili se kořínky, zrním, stonky, méně už ovocem. Měli mohutné čelisti, byli to “lidské krávy”. Zhruba ½ dne trávili žvýkáním.
 * Evoluce výrazně zvýhodňovala ty, kteří dokáží přežít v nouzových podmínkách a živit se nouzovou stravou. Australopitekus se třeba naučil vyhrabávat potravu v zemi (brambory ap.).
-* Zbyly byly pro ně nesmírně důležité. Jejich ztráta znamenala často smrt. Potrava byla tvrdá a ztráta zubů znamenala nemožnost je rozžvýkat.
+* Zuby byly pro ně nesmírně důležité. Jejich ztráta znamenala často smrt. Potrava byla tvrdá a ztráta zubů znamenala nemožnost je rozžvýkat.
 * Homo erectus se objevil v Africe poprvé před 1,9 mil. let a odtud se rozšířil do celého světa. Patří mezi první lidi, má moderní lidské proporce.
 * Možní předchůdci homo erectus byl homo habilis (čl. zručný) či homo rudolfinus).
 * Strava homo erectus byla ze 70% rostlinného typu. Sběr byl velmi složitý, nutričně bohaté potraviny jsou zakopané v zemi a jejich vykopání zabralo i 20 min. Matka pro sebe a pro své potomky potřebovala až 4500 kcal denně, nicméně z rostlinné stravy dokázala získat jen 2000 kcal. Zbylou část jídelníčku tedy tvořilo maso. 

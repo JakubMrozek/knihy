@@ -5,4 +5,9 @@
 * Evoluce nás tlačí k optimu, ale optima nikdy nedosáhneme, protože se podmínky, ve kterých žijeme, neustále mění. Musíme se tedy neustále vyvíjet.
 * Proč máme bílou pokožku? Nechrání nás před splálením na ostrém slunci, ale v mírném pásu pomáhá syntetizovat nedostatek vitamínu D v prostředí s nedostatkem slunečního záření jako je mírný podnebný pás.
 * Cukrovka 2. typu. Tělo přestane reagovat na inzulín, (hormon, který zpracovává cukr a ukládá ho jako tuk), díky tomu roste množství cukru v těle, na to reaguje slinivka, která vyrábí více a více inzulínu, toto množství ale již nestačí a hladina cukru zůstává v krvi vysoká. Musíme se léčit, jinak by mohlo dojít až ke smrti.
-* TBC
+* Adaptace na vzpřímenou chůzi uvolnila lidem ruce, to umožnilo vytvářet nástroje, což zase posilovalo vývoj mozku. Pravděpodobně tedy právě vzpřímená chůze umožnila rozvoj člověka do dnešní doby (na druhou stranu třeba klukani jsou také vzpřímení a žádný další vývoj nenastal).
+* Poslední společný předek člověka a šimpanze žil někdy před 5 až 8 mil. let, nemáme však žádné fosílie. Nejblíže mu jsou Sahelanthropus v Čadu a o něco mladší Orrorin v Keni. Musí vykazovat znaky vzpřímené chůze.
+* Hominini je skupina (jednotka mezi čeledí a rodem), kam patří šimpanz, člověk a všichni předci člověka až po posledního společného předka lidí a šimpanzů.
+* Vzpřímená chůze byla v některých ohledech výhodnější. Člověk mohl snázeji dosáhnout na ovoce na stromech a hlavně ušetřil množství energie při chůzi. Šimpanz ujde denně cca 3 km a přitom má stejný výdej energie jako člověk, který ujde 12 km (především díky tvaru pánve). Ve chvíli, kdy probíhaly změny klimatu, podnebí se ochlazovalo a plocha vhodná pro život se posouvala, bylo výhodné spotřebovat méně energie na pohyb a hledání potravy. 
+* Bipedalismus je označení chůze po dvou.
+* Australopithecus (“jižní opice”) byl dlouho považován za nejstaršího předka člověka (než byly objeveni Sahelanthropus, Orrorin a Ardipithecus). Žil přibližně před 4,1 až 1,3 mil. let a máme mnoho jeho pozůstatků ke zkoumání.

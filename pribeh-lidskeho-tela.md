@@ -20,3 +20,23 @@
 * Mezi první nástroje patřil kámen opracovaný do ostřejší podoby, který se používal k úpravě masa. Bez toho by žvýkání zabralo velmi mnoho času a energie.
 * První zbraně byly ostré klacky, dýky a kameny. První oštěpy se objevily až před 500 tis. roky a první luky a šípy před 100 tis. roky. 
 * Jak tehdejší lidé lovili? Homo erectus byl schopen tělo chladit pocením, díky tomu dokázal běhat na dlouhou vzdálenost. Oproti tomu zvířata se chladí dýcháním. Dokáží běžet rychle, ale pak potřebují pauzu. Člověk tedy lovil zvířata tak, že je uštval. Nenechával je vydechnout, až zvíře zkolabovalo a nebylo schopné se bránit. Pak ho člověk zabil kameny či ostrými klacky. Schopnost chlazení pocením byla klíčová.
+* Zvětšení mozku nastalo, když člověk začal lovit. Jeho strava byla výživnější, lov mu zabral méně času. Střeva, která jsou energeticky velmi náročná, se začala zmenšovat a evoluce se tedy zaměřila na mozek.
+* Dvě rozdílné strategie přežití. Jeden živočišný druh (třeba myši) mají co nejvíce potomků, protože jen malá část se dožije dospělosti. Naopak pro lidi (a třeba šimpanzi či sloni) mají mláďat málo, ale investují do jejich výchovy hodně času. Protože jsou pak chytřejší, jsou i lepší lovci a mají vyšší šanci na přežití.
+* Homo erectus žil obvykle ve skupině až 8 rodin a tyto rodiny žily na ploše 250 až 500 km.
+* Jak se mohly jiné druhy dostat na místa, která jsou dnes oddělená moři a oceány? Dostali se tam díky globálním změnám klimatu. V době tepla byla hladina oceánů velmi nízko, bylo možné třeba dojít z Francie do Anglie či z Vietnamu do Indonésie. V okolí Temže žili třeba hroši.
+* Co je archaický člověk? Jsou to poddruhy homo erectus. 
+* Používali již kamenné hroty, které umožnily lepší techniku lovu. Oheň člověk ovládl už ořes 1 mil. let (víme to podle ohořelých kostí) a člověk archaický už dokázal vařit.
+* V západní Evropě se vyvninul neandrtálec, žil přibližně přes 200 000 až 30 000 roky.
+* Mozek homo sapiens spotřebuje 20 až 25% energie, až 400 kcal kcal každý den.
+* Lovci a zběrači museli znát až 100 druhů rostlin, bylo kriticky důležité, aby věděli, jak s nimi nakládat.
+* Fáze lidského vývoje jsou kojenec (zcela závislý na mléku od matky), mládě (již je na matce nezávislé, probíhá rozvoj těla), adolescence (začátek puberty až konec kosterního růstu). Současný člověk má navíc fázi dětství, kdy matka dítě již nekojí, ale dítě je stále na matce závislé.
+* U člověka je výrazně pomalejší vývoj mozku. Trvá to 6 let, než se mozek vyvine.
+* Tuk má víc funkcí, mj. je to zásobárna energie. V posledním trimestru těhotenství se u dítěte zvětší jeho množství až 100x. Lovci muži měli 10% tuku v těle, ženy 15%.
+* BMR (rychlost bazálního metabolismu) znamená, kolik tělo spotřebuje, když je v úplném klidu. U člověka je to asi 1500 kcal na den.
+* Archaičtí lidé a h. erectus měli energetický příjem asi o 1000 až 2500 kcal vyšší než výdej. Přebytečnou energii pak mohli investovat do růstu (u dětí), ukládání tuku, vyšší aktivitě či k více plození. 
+* Na uzavřených ostrovech obvykle prosperují malí živočichové, protože mají méně konkurence a predátorů. Jejich tělo se zvětšuje. A naopak pro veké živočichy to dobré prostředí není, trpí nedostatek potravy a jejich tělo se zmenšuje. Na ostrově Flores žili hobiti (vážili 25 až 30 kg) a na ostrov se dostali už přes 800 tis. lety. 
+* H. sapiens se rozvinul před 200 tis. roky z Afriky, všichni jsme potomky z 14 000 předků ze subsaharské Afriky.
+* Všichni neafričané mají 2-5% genů z neandrtálců (afričané nemají skoro žádné). Další křížení probíhalo s denisovany, lidé v Oceánii s nimi mají 3-5% genů společných.
+* Moderní lidé se dostali do Evropy před 40 tis. lety, do Asie před 60 tis. lety, před 30 tis. až 15 tis. roky přešli do Ameriky. Jakmile se moderní člověk rozšířil po světě, ostatní druhy rychle vymíraly.
+* Z afrických nalezišť před 70 000 roky je patrné, že již probíhal obchod na delší vzdálenosti a máme důkazy o počítečním umění.
+* V mladém paleolitu v době před 50 tis. lety nastala velká revoluce. Především kulturní a technická. Začaly se vyrábět jehly na šití oděvů, svítidla, háčky na ryby, flétny, nástroje na vaření, máme známky obývání i míst jako je Sibiř.

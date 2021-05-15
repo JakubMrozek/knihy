@@ -40,3 +40,23 @@
 * Moderní lidé se dostali do Evropy před 40 tis. lety, do Asie před 60 tis. lety, před 30 tis. až 15 tis. roky přešli do Ameriky. Jakmile se moderní člověk rozšířil po světě, ostatní druhy rychle vymíraly.
 * Z afrických nalezišť před 70 000 roky je patrné, že již probíhal obchod na delší vzdálenosti a máme důkazy o počítečním umění.
 * V mladém paleolitu v době před 50 tis. lety nastala velká revoluce. Především kulturní a technická. Začaly se vyrábět jehly na šití oděvů, svítidla, háčky na ryby, flétny, nástroje na vaření, máme známky obývání i míst jako je Sibiř.
+* Pouze člověk má společný prostor pro dýchání i trávení, takže pouze člověk se může udusit spolknutím velkého sousta (4. nejčastější příčina umrtí v USA).
+* Průměrný lovec z Tanzánie nachodí 15 km denně a váží 51 kg, jeho energetický výdej je 2600 kcal. Oproti tomu průměrný Evropan váží o 50% více a fyzicky pracuje o 75% méně. Průměrný Američan je dnes o 7 cm vyšší a žije o 30 let véce než před 100 lety.
+* Nevyvinuli jsme se k tomu, abychom byli zdraví. Evoluce prosadila nezvladatelnou chuť na sladké a snahu odpočívat, kdy je to možné. 
+* Nemoci z nesouladu. Třeba zubní kaz vzniká díky zemědělství a vyšší spotřebě cukru a škrobu. 
+* Důkazy o přerodu mezi sběrači a lovci. Tábořiště Ohalo II blízko Galijského jezera, žilo zde 20 až 40 lidí, používali již nástroje typu mlecích kamenů na mouku, srpy pro sečení trávy ap.
+* Proč vlastně lidé přešli k zemědělství? Patrně kvůli přechodu klimatu. Počasí bylo teplejší, to nahrávalo usazení a pěstování a chovu dobytka. Lidé začali mít více dětí a ty bylo potřeba živit. V případě lovu a sběru je velmi těžké získat dostatek potravy pro početnější rodinu. Jakmile se už lidé usadili, nebyla cesta zpět, dětí bylo už hodně a nebylo by možné je uživit.
+* První město Jericho. Zhruba 50 domů, žilo zde asi 500 lidí, velikost jako Václavské náměstí. Při zemědělství ještě lovili gazely, poté domestifikovali zvířata, vynalezli třeba keramiku. Rýže a proso bylo v údolí čínských řek před 9000 roky.
+* Psy jsme si vysšlechtili z vlků před 12 000 roky.
+* Děti byly nutnou investicí. Mohly pracovat, případně pomáhat s hlídáním mladších potomků a tak se populace rozrůstala.
+* Jak se první zemědělcí stravovali? Chleba, obilí, hrách, čočka, mléčné výrobky, občas maso, v sezóně i ovoce. 
+* Původní zemědělec dokázal vyprodukovat až 12 800 kcal za den.
+* Zemědělství však přineslo celou řadu problémů. Strava byla nevyvážená, občas přicházely hladomory, vznikly zubní kazy (u lovců a sběračů téměř nejsou, u zemědělců jsou naopak často).
+* PAL je poměr vydané energie ku BMR. Pro sedavé zamětnání je kolem 1,6, pro zemědělce 2,1 pro muže a 1,9 pro ženy. Naproti tomu lovec měl o 0,2 nižší hodnoy.
+* Se vznikem zemědělství se začaly objevovat epidemie, protože lidé žili ve věších skupinách. Před 7 tis. roky první malá města, před 5 tis. roky už metropole Ur či Mohendžodaro s 10 tis. lidmi.
+* Zemědělci měli v dobrých obdobích přebytky, které se pak snažili prodat. To vedlo k dalším kontaktům a šíření nemocí. Další problém byl hromadění odpadu, což znamenalo další šíření chorob (přenášení pomocí myší). Udržování parazitů na oblečení. Další zdroj nákaz byl kontakt se zvířaty. 
+* Chřipka vzniká z vodního ptactva, které ji přenese na domácí zvířata a odtud se dostane na člověka. 
+* Mezi plusy zemědělství patří radikální zvětšení popuace, vytváření přebytků, které umožnily vznik umění, škol ap. Mezi mínusy patřily války, ultačování, epidemie, otročení.
+* Proč byly dříve děti menšího vzrůstu? Musely věnovat energii na práci a boj s chorobami a přebytek energie nebylo možné použít na rozvoj a růst.
+* Co nám dala evoluce za posledních 300-500 generací? Třeba lepší adaptaci na různé choroby, např. na malarii máme dnes lepší imunitu. Dříve také člověk nepil mléko, když ho matka přestala kojit. Naopak zemědělci mléko pili, takže se i člověk lépe adaptoval na jeho konzumaci.
+

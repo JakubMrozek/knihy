@@ -21,5 +21,5 @@
 * Polygrafy (detektory lži) jsou založeny na vodivosti kůže. Když člověk lže, potí se a přístroj dokáže tohle mikropocení zaznamenat.
 * U sociopatů je amygdala poškozená.
 * Kdyby měl člověk položit jedinou otázku nastávající partnerce, byla by to: “Jaká je tvoje poslední trapná zkušenost?”
-* Introverti jsou obvykle lepší při příprave a dodržovaní plánů. Jsou disciplinovanější. Zejména na Wall Street to je docela problém, extroverti jsou více směřování k riziku. Velké investiční společnosti často vedou extroverti, na rozvážné introverty se nedbá, občas to končí krachem.
+* Introverti jsou obvykle lepší při přípravě a dodržovaní plánů. Jsou disciplinovanější. Zejména na Wall Street to je docela problém, extroverti jsou více směřování k riziku. Velké investiční společnosti často vedou extroverti, na rozvážné introverty se nedbá, občas to končí krachem.
 * Introverti vydrží déle u úkolů a méně se vzdávají. Statisticky jsou úspěšnější na VŠ, i když rozdíl v inteligenci není žádný.

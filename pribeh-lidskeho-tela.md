@@ -59,4 +59,62 @@
 * Mezi plusy zemědělství patří radikální zvětšení popuace, vytváření přebytků, které umožnily vznik umění, škol ap. Mezi mínusy patřily války, ultačování, epidemie, otročení.
 * Proč byly dříve děti menšího vzrůstu? Musely věnovat energii na práci a boj s chorobami a přebytek energie nebylo možné použít na rozvoj a růst.
 * Co nám dala evoluce za posledních 300-500 generací? Třeba lepší adaptaci na různé choroby, např. na malarii máme dnes lepší imunitu. Dříve také člověk nepil mléko, když ho matka přestala kojit. Naopak zemědělci mléko pili, takže se i člověk lépe adaptoval na jeho konzumaci.
-
+* V roce 1802 vydala Velká Británie zákon o továrnách. Od té doby děti mladší 13 let mohly pracovat max. 8 hodin a děti do 18 let mohly pracovat max. 12 hodin. Dětská práce byla ve VB zrušena až v roce 1901.
+* Průměrný Američan spotřebuje 45 kg cukru ročně.
+* Ekologický problém. Na každou snězenou kalorii připadá 10 kalorií fosilního paliva.
+* Střeva zpracovávají potravu pomocí enzymů, což jsou katalyzátory a umožňují tělu zpracovávat potravu rychleji.
+* Potraviny s vysokým glykemickým indexem. Když má potravina málo vlákniny (třeba bílá mouka a bílá rýže) a dost cukru, trávení vyžaduje méně času a hladina cukru v krvi rychle vystoupá. Na velké množství cukru se snaží reagovat slinivka produkcí inzulínu, dojde k přepálení její reakce a v krvi se objeví nadměrná hladina inzulínu. Množství cukru v krvi se rychle propadne a člověk se cítí hned zase hladový. Následkem toho vzniká obezita a cukrovka 2. typu.
+* Jak došlo k objevu vakcíny? V roce 1796 Edward Jenner pokapal kůži chlapce hnisem od farmářovy dcery, která byla nakažena planými neštovicemi. Po několika týdnech byl stejný chlapec vystaven pravým neštovicím a nenakazil se. 
+* V roce 1856 L. Pasteur zjistil, že zahřátí vína na 60% zničí bakterie. Tomu procesu se říká pasterizace. Postupně objevil vakcíny na řadu nemocí, mj. proti vzteklině.
+* Viry byly objeveny v roce 1915 a penicilín (antibiotikum) až v roce 1928, zachránil stovky milionů lidí.
+* Po průmyslové revoluci máme více dětí, větší těla a delší život. Spíme o 2 až 3 hodiny méně.
+* Vzestup neinfekčních chorob. Nejčastější příčina umrtví v Americe v roce 1935 byly nemoci dýchacích cest (zápal plic a chřipka) a infekční průjem. V roce 2007 to byly srdeční choroby a rakovina.
+* Největší problémy, které pomohou k zdravotním problémům: vysoký krevní tlak, kouření, nadužívání alkoholu, znečištění, strava chudá na ovoce, vysoké BMI, vysoká hladina glukózy v krvi na lačno, fyzická nečinnost, vysoká hladina sodíku (soli), strava chudá na ořechy a semena a vysoká hladina cholesterolu.
+* Veškerá energie se ukládá v ATP (adenosintrifosfát). Jsou to molekuly v buňkách, které podle potřeby vydávají energii.
+* Energetická bilance je rozdíl příjmu a výdaje energie. Negativní bilance je velmi nežádoucí a evoluce se ji snaží omezit.
+* Trávicí soustava rozloží tělo na bílkoviny (aminokyseliny), sacharidy (řetězce molekul cukru) a tuky (tři molekuly mastných kyselin, které drží pohromadě jedna molekula glycerolu, chemický název zní triglyceridy). 
+* Bílkoviny se jako energie používá výjímečně.
+* Energetická hodnota cukru a tuku: 1 gram cukru jsou 4 kilokaorie, 1 gram tuku je 9 kilokalorií.
+* Přebytečný tuk uloží tělo jako glykogen. 
+* Jídlo se rozloží na tuky a sacharidy, které směřují do krevního řečiště. Nejvíce se přesune do speciálních tukových buněk (adipositů). Mnohé z těchto buňek jsou pod kůží a vytváří (tzv. podkožní tuk). Další obklobí orgány jako viscerální tuk (tzv. břišní tuk). Nadměrný břišní tuk je mnohem větší problém než nadváha.
+* Cukry rozloží enzymy v jazyce a pak ve střevech. Rozlišujeme především fruktózu a glukózu. Glukóza je třeba v mouce, ve stolním cukru (sacharóze) a mléčném cukru (laktóze, ½ je glukóza).
+* Střeva glukózu pošlou hned do krevního oběhu (tělo potřebuje stabilní příjem glukózy). Nadbytek glukózy je ale silně toxický. Na to právě reaguje slinivka produkcí inzulinu, který způsobí, že přebytek glukózy absorbují tukové buňky a uloží se jako tuk. 
+* Fruktóza je v ovoci a medu. Téměř výhradně ji zpracují játra. Nadbytek fruktózy se uloží v játrech jako tuk nebo se odkládá do krve.
+* Když cvičíme, pálíme energii, glukóza v krvi klesá, slinivka vyloučí hormon glukagon a ten způsobí přeměnu tuků na cukry, které použijeme jako energii.
+* Zároveň nadledvinky vylučují kortizol, který blokuje inzulín, stimuluje spalování glykogenu a uvolňuje triglyceridy do krevního řečiště. 
+* Jídlo je silně zpracované, obsahuje minimum vlákniny. To způsobí, že jídlo absorbujeme rychleji, než játra a slinivka zvládnou. Většina přebytečného tuku se tak uloží do viscerálního tuku a nadbytek způsobí metabolický syndrom, což je pojem pro vysoký krevní tlak, vysoká hladina triglyceridů a glukózy, nedostatek bílkoviny zvané HDL (dobrý cholesterol) a nadbytek LDL (špatný cholesterol). Výskyt těcho tří nebo více symptomů prudce zvýší riziko mnoha nemocí jako cukrovka, rakovina ap.
+* Člověk s BMI vyšším než 35 má 40x vyšší riziko cukrovky 2. typu a 70% větší riziko onemocnění srdce.
+* Přirozený výběr dal ženám 5-10% tuku více než mužům. Je důležité pro početí. Pokud žena shodí 0,5 kg, výrazně pak klesá možnost otěhotnění.
+* Hypotéza šetrného fenotypu. U dětí s nízkou porodní váhou (třeba narozené v období hladomoru) je pozorována vyšší míra zdravotních problémů jako nemoci srdce, diabetu 2. typu ap. Dítě se totiž přizpůsobí na období nedostatku, ale poté v dospělosti má potravy dostatek a protože má třeba vyvinuté schopnosti pro lepší ukládání tuku, tak v období hojnosti trpí problémy.
+* Hlavní funkcí inzulínu je předat energii ze stráveného jídla buňkám. Inzulín stoupá v krvi jen když se do ní dostává více glukózy. Tedy více cukrovinek znamená více inzulínu a tedy i více tuku v buňkách (ať již pocházejí ze sacharidů či tuků). 
+* Příklad trávení jablka (100g) a jablečné rolky (50g), které dříve byla také jablkem, ale průmyslově do ní byl přidán cukr a odebrána vláknina, aby měla delší trvanlivost. V jablku je 13g cukru, v rolce 21g. V jablku je 30% obsah glukózy, v rolce 50%. Tedy v obou potravinách je cca stejné množství fruktózy, ale v ovocné rolce je 2x glukózy. Jablko má navíc slupku a cukerný obsah je uložen v dužině a obě složky obsahují vlákninu. Ta je nestravitelná, dodá pocit sytosti a umožňuje cukr pomalu vkládat do krevního řečiště. Jablko dodá tedy méně cukru, více člověka zasytí a bude pouštět cukr do krve pomalu. Oproti tomu rolka bude označena jako potravina s vysokým glykemickým indexem, protože rychle a razantně zvýší hladinu cukru v krvi (říká se tomu hypoglykémie). 
+* Více kalorií z bílkovin a tuků znamená také delší nasycení. 
+* Více vláknin znamená, že jídlo zůstane v žaludku déle a máme méně chti na další jídlo. Kvůli trvanlivosti se vláknina odstraňuje a navíc se do ovoce doplňuje další cukr, aby bylo sladší.
+* Fruktóza je nebezpečná v rychlých va velkých dávkách. Dříve člověk měl jen med, dnes je zdrojů hodně. Bez vlákniny se tráví velmi rychle, dostane se do jater, játra se přehltí a fruktóza se přemění na tuk. Část tuku v játrech způsobí zánět a zablokuje v nich inzulín. Následně játra uvolní své zásoby glukózy do krevního řešičtě, slinivka posílá další inzulín a glukóza se přesune do buněk. 
+* Kortizol se uvolňuje u stresu, uvolní glukózu z jater a tukových buněk do krevního řečiště, zvýší tep, krevní tlak, posílí pozornost a zabrání spánku. 
+* Hodně stresu znamená hodně kortizolu a více ukládání viscerálního tuku, který je 4x citlivější na kortizol než podkožní tuk. Kortizol působí také na mozek, tlumí reakci na leptim, jeho vyměšováním tukové buňky signalizují sytost. 
+* Nedostatek spánku způsobí, že se hormon ghrelin dostává do krve, produkuje ho slinivka i žaludek a stimuluje chuť k jídlu a vzniká nadváha. 
+* Fyzická aktivita funguje patrně jen s hladem. Nesmíme jíst víc, jinak hubnutí nebude mít smysl.
+* Více fyzické aktivity také znamená více mitochondrií, které spílí tuk a cukry a proto sportovci mohou více jíst.
+* Cukrovka 1. typu vzniká v dětství. Imunitní systém ničí buňky slinivky břišní.
+* Do buněk se palivo (glukóza) dostává pomocí glukózových transportérů. Jednoduše nechají proniknout glukózu do buňky, ale jen tehdy, když je u glukózy i inzulín. Jakmile se glukóza dostane do buňky, tak se buď spálí, a nebo uloží jako tuk.
+* Inzulínová rezistence je spojena s viscerálním tukem, takže lidé typu jablko jsou ohroženi cukrovkou více.
+* Fyzická aktivita do těla přivede hormony typu glukagon, kortizol ap., které částečně omezují inzulín až na 16h po fyzické aktivitě a zvýší se tak u buněk citlivost na inzulín. Existuje tak možnost vyléčit cukrovku 2. typu v ranné fázi.
+* Na cévní choroby umírá ⅓ lidí po celém světě. Cévy se ucpou a lidé umřou na mrtvici či infakrt.
+* Ateroskleróza je kornatění cév. Dochází k tomu jak prochází cévami cholesterol a triglyceridy. 
+* Cholesterol se přenáší lipoproteiny. Existují dva druhy. LDL je špatný cholesterol, lipoproteiny mají nízkou hustotu a přenášejí cholesterol a triglycerity z jater do dalších orgánů. Druhý typ je HDL, dobrý cholesterol, má vyšší hustotu a přenáší naopak tryglycerity zpět do jater. LDL může uvíznout na stěnách cév a spolu s kyslíkem začne vytvářet plak. Plak zvyšuje riziko zablkování cévy nebo uvolnění sraženiny, která pak může v užších cévách zablokovat tok krve a vzniká infarkt či mrtvice. Problém je jak velký počet LDL, tak nízký počet HDL.
+* Snížení průchodu způsobí, že je potřeba na přenos stejného objemu vyšší tlak (hypertenze). Srdce musí více zabrat a tím stoupá riziko sraženiny či prasknutí.
+* Pohyb zvyšuje hladinu HDL a snižuje triglyceridy v krvi, což sníží riziko nemoci. 
+* Tuky obsahují molekuly mastných kyselin s dlouhými řetězci atomu vodíku a uhlíku. Mastné kyseliny s menším obsahem atomů vodíku jsou nenasycené tuky a jsou kapalné při pokojové teplotě. Mastné kyseliny s větším počtem atomů vodíků jsou nasycené tuky a jsou tuhé. Nasycené mastné kyseliny stimulují játra k produkci LDL. Tedy strava bohatá na nasycené kyseliny přispěje k srdečnímu onemocnění. 
+* Naopak nenasycené omega-3 tuky jsou dobré (rybí tuk, lněné semínko či ořechy).
+* Nejhorší jsou transtuky (nenasycené tuky přeměněné na nasycené). Používají se v trvanlivých potravinách.
+* Volně žijící zvířata, která se pasou a nekrmí kukuřicí mají výrazně lepší maso.
+* Démonizace HDL, s sterosklerózou souvisí spíše nízká hladina HDL než vysoká hladina LDL. 
+* Nekvalitní potraviny, které vnášejí velké množství glukózy do krevního oběhu jsou nejnebezpečnější.
+* Příliš mnoho soli je také problém. Přebytek končí v krvi, kam odvádí vodu ze zbytku těla. Zvyšuje se krevní tlak v tepnách, zátěž srdce je vyšší a opět to vede k ateroskleróze. Lovci jedli 1-2 gramy denně, dnes jíme 3-5 gramů.
+* Další problém je nedostatek vlákniny, která udržuje nízkou hladinu LDL, protože rychlejší průchod potravy střevy a absorbuje nasycené tuky.
+* Rakovinou dnes onemocní má cca 40% Američanů a ⅓ z nich zemře. Je i u jiných savců, dnes je však rakovina nesporně častější než dřív.
+* Každá rakovina začíná náhodnými mutacemi pochybené buňky. Většina z nich je latentní, ale někdy v jedné buňce dojde k mutacím, vznikne nespoutané klonování a nádor. Šíří se z jedné tkáně do druhé a spotřebují zdroje určené pro jiné buňky až nakonec zasažený orgán selže.
+* Různé příčiny rakoviny. Jednou je stárnutí, což znamená i vyšší pravděpodobnost mutacé. Někdy pomáhá dědičnost, dědíme gen, který naruší schopnost buněk napravit mutace či zastavit replikace.
+* Rakoviny způsobené pozitivní energetickou bilancí a obezitou, Nejčastěji v reprodukčních orgánech - prsou, děloze, vaječníků a prostatě. 
+* Pozorování jeptišek (proto tzv. nemoc jeptišek). Zjistilo se, že rakovina úsce souvisí s počtem menstruačních cyklů. Souvisí s hromaděním estrogenu, během menstruace se zvyšuje jeho hladina, buňky lemující stěny dělohy množí a připravují se na usazení embrya. Tyto nárusty také stimulují dělení prsních buněk. Při každém cyklu tak vzniká pravděpodobnost vzniku rakovinových buněk. Když žena otěhotní a kojí, klesá expozice reprodukčními hormony. Další souvislost pak s obezitou. Obézní ženy mají až 40% vyšší hladinu estrogenu. 

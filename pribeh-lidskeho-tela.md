@@ -126,4 +126,17 @@
 * Možné řešení je podávat estrogen, ten ale zase může způsobit vznik rakoviny (např. prstu). Účinná léčba bez vedlejších příznaků není. Prevencí je však dostatečný pohyb a zátěž kostí v dospívání, dříve osteoporóza nebyla. 
 * Další problém je nedostatek vápníku. Hormony stimulují osteoblasty, aby vápník vyrobily v případě jeho nedostatku v těle. Když se však tkáň nedoplní, proces výroby vápníků způsobí oslabení kosti.
 * Zuby moudrosti jsou 3. stoličky. Občas začnou tlačit na další zuby a snaží se je vytlačit. Nutnost operativního zákroku, jinak může dojít k infekci. Řešení je stejné jako u osteoporózy, zatěžovat zuby v době mládí zejména žvýkáním žvýkaček bez cukru. Zuby se pak vyvinou silné a rovné. Zuby lovců jsou zdravé, protože jejich strava byla mnohem více tuhá. 
-* TBC
+* Trochu špíny je potřeba, aby se imunitní systém adaptoval. Dítě si významně vylepšuje svůj imunitní systém během kojení.
+* Co je autoimunitní reakce? Tělo reaguje přehnaně a zabíjí vlastní buňky, které pokládá za buňky nebezpečné.
+* Jak funguje imunita? Do těla vstoupí cizí látky. Speciální buňky narušitele pozřou a na svém povrchu vystaví antigeny (jejich útržky). Jiné buňky (T-lymfocyty) to přiláká a některé z nich se rozhodnou, že je antigen škodlivý. Pak následuje jedna ze dvojích reakcí. V prvním případě T-lymfocyty povolají bílé krvinky, které stráví vše s tímto antigenem. Druhá možnost je, že T-lymfocyty aktivují jiné buňky, které vytvoří protilátky. Nastává totální útok na vše, co vykazuje daný antigen. Vznikají záněty, vyrážky, svalové křeče, průjmy, kašel, zvracení, tělo se snaží dostat škodlivou látku z těla pryč.
+* Někdy se takto imunitní systém zaměří na neškodné látky. Tím vzniká alergie.
+* Když začne člověk chodit naboso, objeví se mozoly (s obsahem keratinu). Je to přirozená ochrana chodidel. 
+* Ploché nohy byly dříve raritou, dnes je má 25% Američanů. Chůze naboso ploché nohy eliminuje.
+* Krátkozrakostí trpí ⅓ dětí. Vidí dobře na blízko, ale dále než 2 m vidí rozmazaně. Pokud děti hodně čtou, mají vyšší pravděpodobnost krátkozrakosti. Ale pokud tráví hodně času venku, kde oči neustále zaostřují vzdálenější předměty, tak krátkozrakosti netrpí (zatím jen hypotéza). Krátkozrakým lidem hrozí další choroby, např. zelený či šedý zákal.
+* Když člověk sedí a nestojí, ušetří 20 kcal. Za 8 hodin je to už 160 kcal, což je ekvivalent půlhodinové procházky.
+* Mnoho času v posteli znamená degenerativní změny jako oslabování svalů, oslabení srdce. 
+* Bolesti v zadní části zad postihne během života až 90% lidí a je to nejčastější příčina invalidy.
+* V roce 2004 vidělo průměrné dít ve věku 2-7 let 4400 tel. reklam na dětské potraviny, ale jen 164 oznámení, které se týkají tělesné kondice.
+* Mě by stát zakazovat kouření? Jsme svobodní, takže dokud kouření neohrožuje mě nebo se nemusím podílet na léčbě rakoviny tohoto člověka, tak ne. Nechováme se však způsobem, který je v našem nejlepším zájmu. Nemáme dostatek informací, nemáme své prostředí pod kontrolou, neférově s námi manipulují jiní a především jsme špatně adaptováni k ovládání k hluboko zakořeněné touhy po pohodlí a kaloriích, které bývaly vzácné. Proto určitá pomoc potřeba je. Vláda se má starat především o to, abychom měli k dispozici dobré informace a bránit nekalým praktikám. Třeba by nemělo být bráněno zákazníkům v přístupu k informacím o škodlivých chemikáliích v jídle. Kouření by mělo být tvrdě zdaněno, aby pak z těchto daní byla hrazena zdravotní péče kuřáků.
+* Paternalismus označuje vztah mezi dvěma subjekty (osobami, ale i státy, oblastmi či ekonomickými subjekty), z nichž jeden přistupuje ke druhému z nadřazené, ale současně otcovské a chránící pozice.
+* Evoluce vede k přežití zdatnějšího, nikoliv přežití silnějšího.

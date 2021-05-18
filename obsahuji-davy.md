@@ -1,5 +1,5 @@
 # Obsahuji davy: O mikrobech v nás, kolem nás a o jejich fascinujícím vlivu na náš život (Ed Yong)
-* Mikrob (mikroorganismus) je jednobuněčný, jen mikroskpem pozorovatelný organismus.
+* Mikrob (mikroorganismus) je jednobuněčný, jen mikroskopem pozorovatelný organismus.
 * Patří zde především prokaryota (baktérie, archea), ale také plísně, řasy, prvoci, viry. 
 * Mikrobiom (mikrobiota) je “náš mikroskopický zvěřinec”.
 * Mikrobi dlouho žily na planetě samy bez dalších organismů. Dali nám kyslík a dodnes zajišťují přbibližně 50% fotosyntézy.

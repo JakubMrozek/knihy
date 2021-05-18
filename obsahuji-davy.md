@@ -22,4 +22,11 @@
 * Mikrobi v podpaží. Každý člověk má svou vůni/zápach. Dobrovolníci umí rozpoznat konkrétní lidi podle zápachu trička (dokonce poznají i dvojčata). 
 * Sepse (reakce organismu na infekci). Patogeny vytvoří ve střevě otvory a dostanou se do krevního oběhu, kde jsou nebezpečné.
 * Mikrobi na těle. Jejich pach může přitahovat či odpuzovat komáry. Proto na některé lidi nejdou vůbec a na jiné hodně.
-* TBC 
+* Imunitní systém je spíše o řízení vztahu s mikrobi než o jejich cílené likvidaci.
+* Po narození speciální třída buněk potlačuje zbytek imunitního systému, aby se první mikrobi usadili. Proto jsou děti po narození náchylnější k nemocem.
+* Jak dítě zjistí, že je nějaký mikrob pro něj dobrý a jiný nikoliv? Zjistí to z mateřského mléka. 
+* Oligosacharidy v mateřském mléce. Jsou vyjímečně výživné. Jenže dítě je nedokáže strávit. Nejsou určené pro dítě, ale pro jeho mikroby (b. infantis) ve střevech. Ti pak vyživují samotné dítě.
+* Oligosacharidy fungují jako návnada pro patogeny jako je salmonela, cholera ap. Zabrání pak vstupu těchto virů do buňěk. Funguje to dokonce i u viru HIV. Proto se dítě nenakazí od kojící matky, která je HIV pozitivní.
+* Když onemocníme, přestaneme mít chuť na jídlo. Tělo musí věnovat energii rekonvalescenci. 
+* Střevní mikrobi dostávají stravu z cukru fukózy. Pestrost stravy je důležitá, různí mikrobi přijímají různé látky. Vytvářejí konkurenci a udržují se v rovnováze.
+* TBC

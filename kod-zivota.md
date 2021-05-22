@@ -12,4 +12,8 @@
 * Personální genomika je obor pro předpovídání budoucnosti podle genetiky. Genetici dokážou zjistit budoucí psychologický profil člověka.
 * Genetika má vliv i na reakce na stresové události či na rozvody. Dědivost rozvodů je kolem 40%.
 * Genetické vlivy s růstem času nabývají na významu. Třeba u inteligence je dědivost v adolescenci 40%, ae v 65 letech už 80%. 
+* U 50% lidí bude alespoň jednou v životě diagnostikován nějaký psychologický problém.
+* Deprese či sklon k alkoholismu ve skutečnosti nejsou poruchy, nelze je léčit, nelze objevit a vymýtit gen alkoholismu. Lidé, kteří tímto trpí, jsou na chovostu normálního rozdělení. Podobné je to u autismu či schizofrenie. Pohybujeme se na nějaké škále, v určité chvíli člověka nediagnostikovali jako schizfrenika a po mírném pusunu na křivce už takto diagnostikován být může.
+* Zděděné rozdíly v DNA významně přispívají k vzniku úzkosti či deprese, ale zda se dále rozvine deprese či úzkost záleží na vlivu prostředí. 
+* Sdílené prostředí přispívá k inteligenci z 25% ve věku kolem 8 let, v pozdějším věku už žádný vliv nemá.
 * TBC

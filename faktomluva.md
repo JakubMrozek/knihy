@@ -16,8 +16,8 @@
 * Extrémní chudobou (2 USD/den) trpělo 50% populace ještě v roce 1966. Nyní je to méně než 9%.
 * Jeste v roce 1997 42% lidí v Číně žilo v extrémní chudobě. V roce 2017 to bylo už jen 0,7%.
 * Varovné signály: 
-* a) Selektivní pamatování. Zapomínání toho špatného a pamatování si jen dobrých věcí.
-* b) Selektivní výběr médií. Novináři nám servírují ty věci, které v nás vyvolají emoce. Dobré věci v médiích nejsou tak zastoupeny, jako ty špatné. 
+  a) Selektivní pamatování. Zapomínání toho špatného a pamatování si jen dobrých věcí.
+  b) Selektivní výběr médií. Novináři nám servírují ty věci, které v nás vyvolají emoce. Dobré věci v médiích nejsou tak zastoupeny, jako ty špatné. 
 ## The straight line instinct
 * Tendence předpokládat linární vývoj věcí. Ignorujeme jine tvary křivek (S, dvojtá, exponenciála ap.). Předpokládáme, že vývoj půjde stále stejně lineárně.
 * Např. počet lidí rychle vzrostl. Můžeme předpokládat, že i nadále poroste stejně rychle. Ale není tomu tak. Země z 1. kategrie mají mnoho dětí, protože musí přežít. Jakmile jsou bohatší, děti nechtějí a rovnováha nastane kolem 2 dětí na pár. Tedy nyní je na světě 2 mld dětí a i za 100 let jich bude podle prognóz přibližně stejný počet. Zvýší se naopak počet dospělých.

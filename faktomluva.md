@@ -24,7 +24,7 @@
 ## The fear instinct
 * Risk = nebezpečí * pravděpodobnost události.
 ## The size instinct
-* Porovnávejme čísla. Jedno samotné číslo toho obvykle moc neřekne. Požívat poměry, srování.
+* Porovnávejme čísla. Jedno samotné číslo toho obvykle moc neřekne. Používat poměry, srovnání.
 * Používat pravidlo 80/20.
 * Proč se snížila dětská úmrtnost? Je to hlavně prevencí. Matky se naučily číst, dokážou přečíst letáky na lécích, lokání porodní asistenky jsou lépe znalostně vybavené, lidi více dbají na hygienu, myjí si ruce ap.
 * V budoucnu bude žít 1 mld lidí v Evropě, 1 mld lidí v Americe, 3 mld lidí v Africe a 4 mld lidí v Asii. 

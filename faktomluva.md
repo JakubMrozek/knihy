@@ -8,9 +8,9 @@
   * méně než 32 USD na den: 2 mld lidí,
   * více než 32 USD na den: 1 mld lidí.
 * Varovné signály:
- * Porovnávání průměrů. Uděláme průměr jedné a druhé skupiny a porovnáváme dvě čísla a nevidíme nic mezi tím. Lepší je průměry nepoužívat a vidět celou škálu hodnot zakreslenou v grafu.
- * Porovnávání extrémů. Máme tendenci porovnávat extrémně chudé a extrémně bohaté a nevidět nic mezi tím.
- * Pohled “shora”. Vše “shora” vypadá hůř. Když se nám v pohodě žije ve 4. kategorii, vidíme skupinu tam dole a nic mezi námi a jimi.
+  * Porovnávání průměrů. Uděláme průměr jedné a druhé skupiny a porovnáváme dvě čísla a nevidíme nic mezi tím. Lepší je průměry nepoužívat a vidět celou škálu hodnot zakreslenou v grafu.
+  * Porovnávání extrémů. Máme tendenci porovnávat extrémně chudé a extrémně bohaté a nevidět nic mezi tím.
+  * Pohled “shora”. Vše “shora” vypadá hůř. Když se nám v pohodě žije ve 4. kategorii, vidíme skupinu tam dole a nic mezi námi a jimi.
 ## The negativity instinct
 * Tendence všímat si především těch negativních věci a přehlížet ty dobré.
 * Extrémní chudobou (2 USD/den) trpělo 50% populace ještě v roce 1966. Nyní je to méně než 9%.

@@ -33,3 +33,8 @@
 * Zhruba 99% ze 3 mld příček v sekvenci DNA máme stejných a 30 mil. příček máme odlišných a těmi se navzájem odlišujeme.
 * Když se tvoří nové buňky, dvoušroubovice se rozepne a každá příčka si najde svůj protějšek. Občas dojde k chybám = mutacím. Když dojde v mutaci ve vajíčku či spermie, přejde taková mutace na potomka a ten ji pak předává dále.
 * Změna jedné ze 3 mld příček se označuje jako jednonukleotidový polymorfismus (SNP). Člověk má zhruba 4 mil. SNP. Na světe existuje až 80 mil. SNP, některé velmi vzácné.
+* Různé typy buněk (mozkové, krevní atd.) vyjadřují různé úseky DNA. DNA sekvence se transkribuje do molekuly RNA, která je určena k přenosu informací. RNA se poté přeloží na sekvence aminokyselin podle genetického kódu. Tento proces se označuje jako exprese genu. Např. když nervové procesy zapojené při čtení vyčerpají neurotransmitery, provedeme expresi genů obsahující kód pro tyto neurotranspitery, abychom je doplnili. 
+* Alely jsou varianty genů, kdy každá alela má nepatrný rozdíl v sekvenci nukleotidů DNA. Jelikož dědíme pár chromozomů, jeden od každého rodiče, máme od každého rodiče jednu alelu (pro jeden SNP). Dvojici alel označíme jako genotyp. Např. genotyp TT (od matky zdědíme alelu T a od otce také T).
+* Mutace mohou změnit význam slova DNA o třech písmenech. Třeba se z valinu (C-A-G) stane leucin (G-A-G) výměnou C za G. Taková drobná změna může mít drastické důsledky. 
+* Kódy pro bílkoviny nesou méně než 2% sekvence DNA našeho genomu. Většína mutací nastává ve zbylých 98% DNA. 
+* TBC

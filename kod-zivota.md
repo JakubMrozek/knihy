@@ -37,4 +37,3 @@
 * Alely jsou varianty genů, kdy každá alela má nepatrný rozdíl v sekvenci nukleotidů DNA. Jelikož dědíme pár chromozomů, jeden od každého rodiče, máme od každého rodiče jednu alelu (pro jeden SNP). Dvojici alel označíme jako genotyp. Např. genotyp TT (od matky zdědíme alelu T a od otce také T).
 * Mutace mohou změnit význam slova DNA o třech písmenech. Třeba se z valinu (C-A-G) stane leucin (G-A-G) výměnou C za G. Taková drobná změna může mít drastické důsledky. 
 * Kódy pro bílkoviny nesou méně než 2% sekvence DNA našeho genomu. Většína mutací nastává ve zbylých 98% DNA. 
-* TBC

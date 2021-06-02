@@ -1,4 +1,4 @@
-# Jak vyzrát na cizí jazyky: 3T: techniky, tipy a triky
+# Jak vyzrát na cizí jazyky: 3T: techniky, tipy a triky (Lucie Gramelová)
 * Učit se slovní spojení, nikoliv jen samostatná slovíčka.
 * Motivace > čas > vlastní systém.
 * Vždy se učit nahlas.

@@ -1,5 +1,7 @@
 # Akciové investice (Daniel Gladiš)
-* Dobrý investor musí: a) dobře ocenit společnost, b) správně pohlížet na pohyby trhu.
+* Dobrý investor musí:
+  * a) dobře ocenit společnost
+  * b) správně pohlížet na pohyby trhu.
 * Investovat jen do společností, kterým dobře rozumím (sleduji svůj kruh kompetencí).
 * Investiční operace je taková operace, která po důkladné analýze slibuje bezpečnost vkladu a přiměřený výnos. Operace, která tato podmínky nesplňuje, se nazývá spekulace (B. Graham).
 * ROE je rentabilita kapitálu, neboli kolik čistého zisku připadá na 1 investovanou korunu. ROE = výsledek hospodaření / vlastní kapitál. Když má společnost ROE 10%, znamená to, že když má společnost vlastní jmění 100, pak zisk bude 10.

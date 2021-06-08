@@ -71,9 +71,9 @@
   * 2) Škrtnutí dluhu. Velmi problematické.
   * 3) Řešením pomocí inflace, která dluh umazává. Tak to bude řešit většina.
 * Máme 3 druhy inflace:
-* Peněžní inflaci (množství peněz v oběhu). Peníze se tisknou a centrální banky je nakupují.
-* Inflace v cenách aktiv (třeba růst cen bytů).
-* Inflace spotřebitelských cen.
+  * Peněžní inflaci (množství peněz v oběhu). Peníze se tisknou a centrální banky je nakupují.
+  * Inflace v cenách aktiv (třeba růst cen bytů).
+  * Inflace spotřebitelských cen.
 * Kvantitativní rovnice peněz: M*V = P*Q (M = množství peněz v oběhu, V = oběžná rychlost peněz, Q = množství produkce a P = cenová hladina). Inflace je nyní nižší, protože vyšší M je kompenzováno nižším V, což se ale mění. Protože se produktivita práce nijak moc nemění, znamená to, že musí zákonitě růst ceny.
 * Co když inflace ustřelí? Jak pak rychle inflaci srazit? Pomocí zvýšení úrokových sazeb a změnou množství peněz v oběhu.
 * ETF mohou být také problematické. Co když velké množství lidí vybere své peníze z ETF? Nezkroutí se?

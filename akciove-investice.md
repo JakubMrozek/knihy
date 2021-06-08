@@ -67,9 +67,9 @@
 * Inflační kompenzační věta: Velké nárůsty hodnoty a majetku společnosti v dobách vysoké inflace pocházejí z vlastnictví businessů, které kombinují trvale hodnotná vysoká nehmotná aktiva s relativně malými požadavky na investice do hmotných aktiv.
 * Nejhodnotnější značky podle Forbesu: Apple, MS, Coca-Cola, IBM, Google, McDonald’s, BMW, Louis Vuitton, Disney, Walmart, Nike, Visa, Nestlé, Heineken ap. Zde hledat dobré investice.
 * V současnosti roste dluh závratným tempem. Co s tím státy mohou udělat?
-  * 1) Rychlý ekonomický růst. Dnes už nereálné.
-  * 2) Škrtnutí dluhu. Velmi problematické.
-  * 3) Řešením pomocí inflace, která dluh umazává. Tak to bude řešit většina.
+  1) Rychlý ekonomický růst. Dnes už nereálné.
+  2) Škrtnutí dluhu. Velmi problematické.
+  3) Řešením pomocí inflace, která dluh umazává. Tak to bude řešit většina.
 * Máme 3 druhy inflace:
   * Peněžní inflaci (množství peněz v oběhu). Peníze se tisknou a centrální banky je nakupují.
   * Inflace v cenách aktiv (třeba růst cen bytů).

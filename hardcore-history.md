@@ -30,3 +30,10 @@
 * Svatá říše římská 
   * 800/962–1806
   * oblast od Itálie po dnešní Německo
+* Prusko
+  * 1525–1947
+  * oblast dnešního Polska, Německa
+* Rakousko-Uhersko
+  * 1867–1918
+  * oblast dnešního Česka, Maďarska, Rakouska
+

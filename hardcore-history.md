@@ -27,3 +27,6 @@
 * Osmanská říše
   * 1299–1922
   * oblast Balkánu, Turecka, severní Afriky 
+* Svatá říše římská 
+  * 800/962–1806
+  * oblast od Itálie po dnešní Německo

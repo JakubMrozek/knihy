@@ -23,6 +23,7 @@
 * Východořímská říše (Byzanská říše)
   * 395 - 1453 
   * hlavní město Konstantinopol
+  * Byzanská říše skončila pádem Konstantinopole po vpádu Osmanů
 * Osmanská říše
   * 1299–1922
   * oblast Balkánu, Turecka, severní Afriky 

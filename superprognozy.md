@@ -25,4 +25,12 @@
 * Aktualizace předpovědí. Úspěšní superprognostici aktualizují velmi často a mění předpověď o pár procentních bodů. Důležité je se vyvarovat nedostatečné reakce (nepřisoudíme jí dostatečnou vážnost) a přehnaná reakce (informacím přiřadíme přílišnou váhu). 
 * Vytrvalostní přesvědčení. Naše předpovědi jsou jako domeček z kostek. Když je předpověď nedůležitá, je to jako kostka na vrchní části domku, můžeme ji dát pryč a nic se nestane. Pokud je ale uprostřed (= naše předpověď definuje něco pro nás velmi důležitého), můžeme se snažit předpověď neměnit, i když bychom očividně měli. Problém ega. Např. internace Japonců za 2. světové války v USA. Na 170 tis. Japonců bylo zavřeno v táborech po napadnutí USA u Pearl Harbour, aby nikdo z nich případně nemohl být tajný agent.
 * Ředící efekt. Máme na začátku holé informace, ze kteréch děláme první prognózu. Pak přijdou další informace, ty však mohou být zcela nerelevantní a mohou “rozředit” naši počáteční předpověď.
+* Forerův efekt. Člověk má tendenci akceptovat jakékoli obecné a vágní popisy osobnosti jako přímo ušité na jeho osobu. Toho se využívá třeba u věštění. 
+* Groupthink je sdílení názorů, co řekl druhý řeknu také. Skupiny spolu vychází, nechtějí řešit nepříjemná fakta.
+* Pídit se po důvodech, proč si člověk XYZ věc myslí.
+* Supertýmy prognostiků jsou mnohem lepší než jednotlivci. Skupinová moudrost.
+* Co musí mít skvělý leader? Sebejistotu, rozhodnost, schopnost předat vizi.
+* Wehrmacht a jejich schopnost delegovat řízení na nižší pozice. Vedoucí většinou jen řekli, ať velitel jednotky splní nějaký úkol, ale jak to udělá je už na něm. 
+* Plány jsou jen základem pro změnu (pořekadlo izraelské armády).
+* Má smysl předpovídat na delší období? Prezidentovi USA byl předložen dokument, jak se svět mění každých 10 let. Nic nešlo předpovídat.
 

@@ -29,4 +29,9 @@
 * Oligosacharidy fungují jako návnada pro patogeny jako je salmonela, cholera ap. Zabrání pak vstupu těchto virů do buňěk. Funguje to dokonce i u viru HIV. Proto se dítě nenakazí od kojící matky, která je HIV pozitivní.
 * Když onemocníme, přestaneme mít chuť na jídlo. Tělo musí věnovat energii rekonvalescenci. 
 * Střevní mikrobi dostávají stravu z cukru fukózy. Pestrost stravy je důležitá, různí mikrobi přijímají různé látky. Vytvářejí konkurenci a udržují se v rovnováze.
-* TBC
+* Lidé do atmosféry vypouští oxid uhličitý, ten zadržuje sluneční záření, následkem čehož se ohřívají oceány, což způsobuje ubývání korálů. V teplejší vodě se daří pro koráli nepříznivým mikrobům.
+* Koráli a řasy bojují o prostor. Standardně by řasy ožírali ryby, které však lovíme. Nebo by malé ryby požírali žraloci, které také lovíme. Takže následkem vyšší teploty a likvidace ryb mizí i koráli.
+* Černé útesy se objevují u míst, kde ztroskotaly lodě. Do vody se dostává více železa, které pak působí jako hnojivo pro řasy. Následkem je více a více řas, které vytlačují korály.
+* Bezmikrobní myši. Pokud se do nich vložili někteří mikrobi, začali na váze přibírat. Mikrobi však dokázali ve střevech působit na snížení váhy jen tehdy, když lidé jedli zdravě (stravu bohatou na vlákninu).
+* Crohnova choroba. Pravděpodobně i za ní mohou “zdivočelí” mikrobi.
+

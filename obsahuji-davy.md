@@ -18,7 +18,7 @@
 * Robert Koch zjistil, že bakterie mohou za tyfus, kapavku, tuberkulozu, choleru, mor a mnoho dalších nemocí.
 * Symbioza (soužití). Pokud měl jeden z mikrobů užitek z druhého mikroba, označíme ho za parazita. Pokud způsobil nemoc, označuje se jako patogen.
 * Nizozemsko (Deifu). Muzeum mikrobů Micropie.
-* Mikrobi jsou v těle potřeba. Pokud je odebereme, tělo ztratí některé vlastnosti. Ve střevech ovlivnňují chvání hostitele vč. společenských postojů a schopnosti * zvládat stres. Bakterie možná v budoucnu pomohou se zvládáním duševních nemocí.
+* Mikrobi jsou v těle potřeba. Pokud je odebereme, tělo ztratí některé vlastnosti. Ve střevech ovlivnňují chvání hostitele vč. společenských postojů a schopnosti zvládat stres. Bakterie možná v budoucnu pomohou se zvládáním duševních nemocí.
 * Mikrobi v podpaží. Každý člověk má svou vůni/zápach. Dobrovolníci umí rozpoznat konkrétní lidi podle zápachu trička (dokonce poznají i dvojčata). 
 * Sepse (reakce organismu na infekci). Patogeny vytvoří ve střevě otvory a dostanou se do krevního oběhu, kde jsou nebezpečné.
 * Mikrobi na těle. Jejich pach může přitahovat či odpuzovat komáry. Proto na některé lidi nejdou vůbec a na jiné hodně.

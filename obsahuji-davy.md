@@ -34,4 +34,7 @@
 * Černé útesy se objevují u míst, kde ztroskotaly lodě. Do vody se dostává více železa, které pak působí jako hnojivo pro řasy. Následkem je více a více řas, které vytlačují korály.
 * Bezmikrobní myši. Pokud se do nich vložili někteří mikrobi, začali na váze přibírat. Mikrobi však dokázali ve střevech působit na snížení váhy jen tehdy, když lidé jedli zdravě (stravu bohatou na vlákninu).
 * Crohnova choroba. Pravděpodobně i za ní mohou “zdivočelí” mikrobi.
+* Prvotní mikroby lidé získávají při porodu z pochvy matky. Pokud se rodí císařským řezem, o tyto mikroby přijdou a děti jsou pak náchylnější k nemocem jako je alergie či astma. Ještě horší je to v kombinaci s umělou výživou.
+* Vláknina je velmi důležitá pro mikroby. Naše strava bez vlákniny může být příčinou některých nemocí.
+* Antibiotika také ničí mikroby. První antibiotika (penicilín) objevil Alexander Fleming v roce 1928. Antibiotika ničí mikroby, často je bereme zbytečně mnoho a mikrobi začínají být vůči ním odolní. Hovoříme o post-antibiotické době. 
 

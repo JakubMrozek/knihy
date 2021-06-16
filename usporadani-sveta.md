@@ -1,4 +1,6 @@
 # Uspořádání světa: Státní zájmy, konflikty a mocenská rovnováha (Henry Kissinger)
 * Třicetiletá válka. Byla to válka mezi katolíky a protestanty a o uspořádání světa. Výsledky vestfalského míru nás ovlivňují dodnes. Výsledkem byla mocenská rovnováha, suverenné státy a nevměšování se do cizích záležitostí.
-* TBC
-
+* V roce 1517 Martin Luther uveřejnil 95 tezí o vztahu jedince a boha (kritizoval třeba odpustky). Mnoho lidí s těmito tezemi souhlasilo a vznikla evangelická církev. Vyvrcholením sporu s římskokatolickou církví o stolet později byla třicetiletá válka.
+* Kardinál Richelieu byl jeden z nejvýznamnějších politiků Francie 17. století. Byl to stoupenec raison d'État, státní suverenity, jak ji známe dnes. Konsolidoval královskou moc, rozdrtil opozici a vytvořil silný francouzský stát. Jeho cilém bylo také udržovat roztříštěnou střední Evropu, protože pak je Francie jedinou velkou mocností v kontinentální Evropě.
+* Po vestfálském míru existovaly v Evropě dvě velmoci - Velká Británie a Francie. VB byla obrovská námořní mocnost a její cíl byl usilovat o rovnováhu na kontinentu. Francie se naproti tomu snažila zabránit vzniku sjednoceného Německa. 
+* První, kdo principy vestfálského míru narušil, byl Ludvík XIV (nechal si říkat král Slunce, je podle něj pojmenován stát Luisiana). Později systém dále narušil pruský panovník Fridrich.

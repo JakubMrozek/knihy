@@ -40,4 +40,22 @@
 * Od té doby probíhal v Japonsku rychlý rozvoj a v roce 1894 proběhla válka s Čínou, kterou vyhráli. Čína musela ukončit svou dominanci v Koreji a vzdala se Tchaj-wanu.
 * V roce 1905 proběhla válka s Ruskem, kterou Japonci vyhráli. Bylo to poprvé, kdy Asijská země vyhrála nad moderní evropskou mocností.
 * V roce 1931 Japonsko oddělilo Mandžudsko od Číny a do čela vrátili čínského císaře.
-
+* Hinduistická kosmologie říká, že svět je řízen v cyklech o milionech let a je přirozené, že království vznikají a zanikají. Různí nájezníci se díky této teorii začlenili do Indie a Indové se nad ně povznesli.
+* Dharma je v buddhismu nadčasový morální řád.
+* Největší byla Indie ve 3. století p. n. l. Poté byla země pod mnoha nájezdy (Mongolů, islámských národů ap.) a rozdělena na různá malá knížectví. Až v 16. století se podařilo Mughalům sjednotit téměř celou oblast. Poté probíhalo soupeření evropských velmocí o tuto oblast, nejúspěšnější byli Britové.
+* Během studené války byla Indie neutrální a podporu měla z obou stran.
+* V roce 1962 se Indie ocitá ve válce s Čínou + vedla 4 války s Pakistánem (jedna válka skončila rozpadem Pákistánu na dnešní Pákistán a Bangladéš). 
+* Čína sebe sama vnímala jako vládce všech, vládne všemu pod nebesy. Ostatní národy jsou pod nimi. Přijaté dary občas oplácela dary s nižší hodnotou pro vyjádření nadřazenosti.
+* Často využívala boj psychologickými zbraněmi místo fyzického boje.
+* Čína byla dobyta ve 13. století Mongoly a v 17. století Mandžuty. Své dobyvatele ale dokázala včlenit do své kultury, takže než aby se Čína změnila dobyvateli, tak Čína změnila dobyvatele v Číňany. Asimilace.
+* Velká Británie se pokusila navázat s Čínou diplomatické styky, což Čína odmítala a došlo to až k opiovým válkám a čínskému století ponížení.
+* V roce 1911 se císařství zhroutilo a vznikla Čínská republika pod Sunjatsenem.
+* V roce 1931 začala okupace Mandžuska a v roce 1937 invaze do střední a východní Číny. 
+* Jak dopadá spor etablované velmoci (USA) a velmoci, která se dere na své místo hegemona (Čína)? V 10 z 15 případů to skončilo válkou.
+* USA dává lidská práva nad stát, Čína preferuje národní suverenitu s odkazem na to, jak dopadly dobyté státy.
+* Monroeova doktrína z roku 1823 říká, že evropské státy nemají právo zasahovat do záležitostí zemí na americkém kontinentu a případné útoky bude USA považovat za útok na sebe a manifestaci nepřátelského postoje vůči USA.
+* USA sebe vidí jako zemi zrozenou Bohem, aby pomohla nastavit demokratický řád světa.
+* První válka USA mimo vlastní území proběha v roce 1898.
+* Theodore Roosevelt (Nobelova cena míru) byl stoupenec názoru, že Amerika má zachovávat mír ve světě, ale také si zachovat svou dominanci. Na demonstraci síly (zejména Japonsku) vyslal 16 válečných bíle natřených lodí na cestu po světě.
+* Briandův–Kelloggův pakt z roku 1928 postavil válku jako nástroj národní politiky zcela mimo zákon. K dokumentu se přihlásily všechny země, které poté byly účastníky 2. sv. války.
+* V roce 1948 Stalin znemožnil přístup spojencům do Berlína. Spojenci na to reagovali leteckým mostem. Důvodem bylo to, že USA, VB a Francie spojila své zóny v Berlíně dohromady.

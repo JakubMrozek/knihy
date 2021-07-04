@@ -34,5 +34,5 @@
 * Kterým produktům se věštil neúspěch? Třeba iPhone nebo Harry Potterovi.
 * Tendence k sociální žádoucnosti (social desirability bias). Lidé vědcům, rodině, přátelům říkají, že jsou lepší, než ve skutečnosti jsou, protože chtějí, aby je ostatní měli rádi. Případně chtějí přesvědčit sami sebe.
 * Začínající firmy občas obracejí naruby tradiční průmysl nikoliv pomocí skvělého produktu na starém trhu, ale horším produktem na na novém trhu.
-* “Toho muže nemám rád … musím ho více poznat. (A. Lincoln). Takhle bychom měli přistupovat možná ke všemu.
+* “Toho muže nemám rád … musím ho více poznat." (A. Lincoln). Takhle bychom měli přistupovat možná ke všemu.
 

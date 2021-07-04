@@ -23,4 +23,16 @@
   * Struktura A-B-B. Např. S. Paulinová a “Vrtej, bejby, vrtej”.
   * Antiteze (opakování vět s podobnou strukturou za účelem zobrazení protikladných myšlenek). Např. Ch. Dickens a “Byly to ty nejlepší časy, byly to ty nejhorší časy.”
   * Antimetabola (rétorická inverze). Např. “Nejde o velikost psa v boji; jde o velikost boje v psovi.” nebo H. Clintonová a “Lidská práva jsou práva žen a práva žen jsou lidská práva.”
+* Studie. Na papíře byla vytištěna věta “Kolik ks zvířat od každého druhu vzal Mojžíš na archu?”. Pokud bylo písmo titěrné a lidé se museli soustředit, o 35% vzrostla úspěšnost odhalení, že archu vytvořil Noe a ne Mojžíš”.
+* Dříve se používala jména tradiční, drtivá většina mužů se jmenovala v Anglii William, John nebo Thomas. Teprve s rozvojem individuality se jména začala stávat více unikátními.
+* Sociální schválení. Žebříček skladeb, uživatelé si častěji budou přehrávat ty už úspěšné skladby. Když pak výzkumníci žebříček obrátili a nejpopulárnější skladbu dali tu nejméně populární, lidé hodnotili skladby jinak než dříve.
+* Hodnocení bestsellerů je nižší poté, co se stanou bestsellery. Pro někoho je to mainstream, který odmítá a tak automaticky ke knize přistupuje s nižším hodnocením.
+* Viralita patrně neexistuje. Myšlenky, skladby, vše se patrně šíří z jednoho či menšího počtu zdrojů dále. 
+* Cholera a zdroj šíření. Když se začala v Londýně cholera šířit, vypadalo to, že se šíří virálně ve vzduchu, v domech blízko sebe byli nemocní lidé. Uprostřed ale stál pivovar, kde nikdo nakažený nebyl. Později se zjistilo, že je to z vodního zdroje, lidé brali vodu ze stejné oblasti a pivovor nikoliv.
+* Produktem je často popularita. Lidé nemusí číst danou knihu, protože je nejzajímavější, ale proto, aby mohli o ní mluvit a být součástí interakce.
+* Jak uspěl Tinder? Manažerka procházela školy a v dívčím spolku vždy appku představila ostatním holkám. Ty si ji stáhly a pak za mužskou částí univerzity a řekla jim, že v této aplikaci najdou všechny holky z inverzity.
+* Kterým produktům se věštil neúspěch? Třeba iPhone nebo Harry Potterovi.
+* Tendence k sociální žádoucnosti (social desirability bias). Lidé vědcům, rodině, přátelům říkají, že jsou lepší, než ve skutečnosti jsou, protože chtějí, aby je ostatní měli rádi. Případně chtějí přesvědčit sami sebe.
+* Začínající firmy občas obracejí naruby tradiční průmysl nikoliv pomocí skvělého produktu na starém trhu, ale horším produktem na na novém trhu.
+* “Toho muže nemám rád … musím ho více poznat. (A. Lincoln). Takhle bychom měli přistupovat možná ke všemu.
 

@@ -1,5 +1,5 @@
 # Průmysl lží:  Propaganda, konspirace a dezinformační válka (Alexandra Alvarová)
-* Dezinformace sou propojeny se zábavou. Lidé se chtějí bavit a přitom vypínají mozek. Je jednduché v téhle chvíli vložit do textu dezinformace.
+* Dezinformace sou propojeny se zábavou. Lidé se chtějí bavit a přitom vypínají mozek. Je jednoduché v téhle chvíli vložit do textu dezinformace.
 * Metoda smradlavé bomby. Když se řeší nějaká nepříjemná záležitost, politik vytvoří skandál, aby se dále mluvilo už jen o tom a původní problém se zahladil (třeba vypuštění Kájínka).
 * Seriál Okupace o obsazení Norska Ruskem.
 * Mongolové pod Čingischánem obsadili Rusko na 200 let. Aby se to již neopakovalo, mají Rusové pocit, že musí být navždy největší velmoc.

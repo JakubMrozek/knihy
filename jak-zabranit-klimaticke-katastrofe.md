@@ -30,3 +30,13 @@
   * Vodní (přehrady)  50 - 20 wattů.
   * Větrná energie 1 - 2 watty.
   * Dřevo a biomasa méně než 1 watt.
+* Hydroelektrárny jsou levné, ale zahrnují nutnost přemístit lidi a zvěř a pokud je oblast bohatá na uhlík, uvolňuje se prvních 50 až 100 let více emisí (metanu) než v případě těžby uhlí. Navíc není mobilní.
+* Fosilní paliva se nejprve vytěží, pak se začnou pálit, teplo se využije k ohřevu vody, vodní pára roztočí turbínu a vzniká elektřina.
+* Z čeho pochází energie? 36% uhlí, 23% zemní plyn, 16% hydroenergie, 10% jaderná energie, 11% obnovitelná energie, 3% ropa a 1% ostatní.
+* Na fosilní paliva bylo dlouho množství subvencí, proto je dnes velmi levná. Nyní zajistí ⅔ veškeré energie. 
+* Pokud se přejde na bezemisní zdroje energie, třeba v USA se zvýší náklady na energii jen o 15%, v Evropě o 20%.
+* Kilowatt hodina - spotřeba kilowattů za časovou jednotku, třeba za hodinu.
+* V některých zemích je zavedení zelené energie problematické. Nemají tam silný sluneční svit, vítr, vodní zdroje. A energie z fosilních paliv je levná.
+* Přenos a distribuce tvoří až ⅓ nákladů na výrobu energie.
+* Větrná energie a sluneční energie není k dispozici pořád a skladování do baterií je velmi drahé.
+

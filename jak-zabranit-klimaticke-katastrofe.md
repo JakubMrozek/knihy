@@ -39,4 +39,11 @@
 * V některých zemích je zavedení zelené energie problematické. Nemají tam silný sluneční svit, vítr, vodní zdroje. A energie z fosilních paliv je levná.
 * Přenos a distribuce tvoří až ⅓ nákladů na výrobu energie.
 * Větrná energie a sluneční energie není k dispozici pořád a skladování do baterií je velmi drahé.
-
+* Jaderné štěpení. Bezuhlíkatou budoucnost si pravděpodobně nelze bez jaderného štěpení představit. Aktuálně velmi bezpečné a výkonné.
+* Jaderná fúze. Napodobuje reakce ve slunci, reakce budou probíhat s běžně přístupnými materiály, je mnohem bezpečnější. Zatím je to experimentální technologie, v nejbližších 10 letech se nejspíš na tomto principu nespustí elektrárna.
+* Pobřežní větry. Velmi nadějný zdroj energie, zatím se však využívá velmi málo. Teoreticky by v USA mohlo být touto cestou dostupných až 2 gigawatty energie.
+* Geotermální energie. Získává se ze země. Příliš drahé.
+* Pro skladování baterií se používají lithium-iontové baterie. Bohužel se je nedaří nějak dramaticky zlepšovat.
+* Další možnost, jak energii skladovat, představují přečerpávací vodní elektrárny. Když je energie levná, vyžene se voda na kopec a poté, když poptávka vzroste, nechá se stékat dolů, roztočí vodní turbínu a začne se tak vyrábět energie.
+* Tepelné akumulátory fungují tak, že se zahřeje nějaký materiál. Když je pak potřeba energie, využije se uložené teplo na pohon tepelného motoru.
+* Ukádání energie pomocí levného vodíku. Zatím je tento způsob dost drahý.

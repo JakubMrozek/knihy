@@ -3,4 +3,4 @@
 * Inovážoři chtějí, aby se zákazník stal úplně někým novým.
 * Pokud chce člověk znát budoucnost, nemá se zaměřit na aktuální trendy, ale na inovátory na periferiích.
 * Výkonostní marketing.
-
+* Jak se dá zneužít data uživatelů? Zjistím, že je třeba člověk majetnější a tak mu nabídnu vyšší cenu, protože je vyšší pravděpodobnost, že si danou věc koupí za vyšší cenu.

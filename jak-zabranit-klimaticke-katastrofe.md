@@ -46,4 +46,16 @@
 * Pro skladování baterií se používají lithium-iontové baterie. Bohužel se je nedaří nějak dramaticky zlepšovat.
 * Další možnost, jak energii skladovat, představují přečerpávací vodní elektrárny. Když je energie levná, vyžene se voda na kopec a poté, když poptávka vzroste, nechá se stékat dolů, roztočí vodní turbínu a začne se tak vyrábět energie.
 * Tepelné akumulátory fungují tak, že se zahřeje nějaký materiál. Když je pak potřeba energie, využije se uložené teplo na pohon tepelného motoru.
-* Ukádání energie pomocí levného vodíku. Zatím je tento způsob dost drahý.
+* Ukládání energie pomocí levného vodíku. Zatím je tento způsob dost drahý.
+* CCS je technologie zachytávání uhlíku před vstupem do atmosféry (na komínu). Zachytává však jen 90% emisí a je velmi drahá na pořízení i provoz. 
+* Podobná technologie je DAC, jde o zachytávání uhlíku přímo z atmosféry. Pravděpodobně bude hrát velkou roli v budoucnu, bude potřeba odstranit velké množství látek, které již v atmosféře jsou.
+* Ocel je železo + uhlík, železo se stane velmi pevným materiálem s přidáním uhlíku. Uhlík získáme z uhlí a železo z železné rudy (kombinace železa, kyslíku a dalších prvků). Při výrobě se malé množství uhlíku doplní k železu a zbylý uhlík se naváže na kyslík a vytvoří nežádoucí oxid uhličitý.
+* Beton je směs štěrku, písku, vody a cementu. Na výrobu cementu je potřeba vápník, který se získává z vápence, který kromě vápníku obsahuje i uhlík a kyslík. Při výrobě 1 tuny cementu musí vzniknout 1 tuna oxidu uhličitého.
+* Plastů máme více než 20 druhů, používají všude možně od obalů kelímků přes barviva, leštidla, v mýdlech, šampónech ap. Rafinované fosilní paliva, poté se zpracovávají na plast. Plasty představují environmentální riziko, ale ale klima tolik neovlivňují.
+* Emise u stavebních materiálů vzniká 1) při samotné výrobě elektřiny, 2) při výrobě tepla pro chemickou reakci (lze řešit třeba jadernou energií či zachytáváním emisí) a 3) při samotné chemické reakci (tady lze použít jen zachytávání emisí, jinak je to nyní neřešitelné).
+* Vytvoření zelených stavebních materiálů (aplikace zelených příplatků) zvýší cenu u plastu kolem 10-15%, u oceli 16-29% a u betonu 75-140%. 
+* Cement nakupují hlavně velké korporace, a tak bez státní intervence nebudou mít nikdy společnosti motivaci k nákupu zelených variant.
+* Momentálně je největší problém cement, který bezemisně vyrobit nelze. Základem je mít bezemisní elektřinu.
+* V zemědelství jsou největší problém metan vyprodukovaný krávami (spotřeba masa, zejména hovězího). Metan z kravího prdění a říhání představuje 4% všech emisí.
+* Na 1 kalorii z masa potřebujeme 6 kalorií krmiva. 
+

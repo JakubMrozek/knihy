@@ -58,4 +58,46 @@
 * Momentálně je největší problém cement, který bezemisně vyrobit nelze. Základem je mít bezemisní elektřinu.
 * V zemědelství jsou největší problém metan vyprodukovaný krávami (spotřeba masa, zejména hovězího). Metan z kravího prdění a říhání představuje 4% všech emisí.
 * Na 1 kalorii z masa potřebujeme 6 kalorií krmiva. 
-
+* Záleží také na tom, kde krávy žijí. V chudších oblastech mají horší podmínky, krmivo a produkují více metanu. Šlechtění krav je jedna z cest, jak emise alespoň snížit.
+* Rostlinné maso nebo laboratorní maso jsou další cesty, jak se vyhnout emisím. Rostlinné maso je nyní o cca 80% dražší a laboratorní maso je zatím v začátcích.
+* Problém je také velké množství jídla, které vyhodíme, v USA je to cca 40%. Metan z hnilobných procesů nespotřebovaného masa produkuje až 3,3 mld tun CO2.
+* Umělá hnojiva. Rostliny potřebují dusík, dokud ho mají, tak rostou. Dusík produkují mikroorganismy, ale jen tehdy, pokud kolem sebe ucítí nedostatek dusíku. Umělá hnojiva dusík dodávají, takže mikroorganismy pak dusík neprodukují. Při výrobě umělých hnojiv a vznikají skleníkové plyny, rostliny navíc všechen dusík nespotřebují a zbytek se vsákne do země nebo unikne do vzduchu ve formě CO2. Zatím umělá hnojiva bezuhlíkově vyřešit nelze, čekáme na inovace.
+* Další problém je odlesňování. Po vykácení se CO2 v půdě dostane do vzduchu. Odlesňování probíhá z mnoha důvodů: poptávka po jídle, olivový olej, potřeba dřeva ap.
+* Vysazování nových stromů se trochu přeceňuje, důležité je nekácet ty současné.
+* Celosvětově je doprava až na 4. místě mezi zdroji emisí, v USA je ale na 1. místě.
+* Zdroje emisí v dopravě:
+  * Auta, SUV, motocykly - 47%.
+  * Popelářské vozy, autobusy, kamiony - 30%.
+  * Nákladní a výletní lodě - 30%.
+  * Letadla - 10%.
+  * Ostatní - 3%.
+* U aut je potřeba především nahradit pohon elektřinou.
+* Alternativou jsou biopaliva, ethanol z kukuřice má však výraznou uhlíkovou stopu (třeba kvůli hnojivům). Druhá generace biopaliv je výrazně lepší.
+* Dále jsou to paliva se směsí vodíku, nyní jsou velmi drahé.
+* Pro popelářská auta a městské autobusy je nejvýhodnější používat elektřinu. Naopak kamiony potřebují jezdit daleko a zde by se elektromotor nevyplatí. Řešením jen elektropaliva a vyspělá biopaliva, ale ty jsou dost drahé.
+* Lithium-iontové baterie v přepočtu na váhu uskladní 35x méně energie.
+* Velká dopravní letadla na elektřinu létat nemohou, potřebovali by mnoho baterií a byly by tak těžké, že se ze země neodlepí.
+* Alternativou k palivům jsou elektropaliva nebo biopaliva (jsou pro letadla 2,5-4x dražší).
+* Podobné je to pro kontejnerové lodě, palivo se vyrábí ze zbytku po rafinování ropy. Je proto velmi levné a bezuhlíková varianta je drahá. Možné řešení je přes jaderný pohon jako u ponorek.
+* Klimatizace, bojlery. Především je nutné kupovat spotřebiče s nejlepší energetickou třídou. Plyny ze starých zařízení tvoří v USA až 3% všech emisí. 
+* Řešení získávání pitné vody před odsolování, aktuálně je daná technologie drahá, potřebujeme prostě nejprve vyřešit bezuhlíkovou energii.
+* Geoinženýrství. Poslední možnost, jak zachránit zemi. Jde o záchranné snížení dopadu slunečního svitu na zemi. Třeba formou obřího stínítka mezi Sluncem a Zemí či pomocí rozprašování mraků ap.). Může mít spoustu negativních důsledků.
+* Co tedy potřebujeme:
+  * Bezemisně vyrobený vodík.
+  * Skladování elektřiny v síti, které pokryje celou sezónu.
+  * Elektropaliva.
+  * Pokročilá biopaliva.
+  * Bezuhlíkový cement.
+  * Bezuhlíkovou ocel.
+  * Nemaso, buněčné maso a rostlinné mléčné výrobky.
+  * Bezuhlíková hnojiva.
+  * Jaderné štěpení příští generace.
+  * Jaderná fáze.
+  * Zachytávání uhlíku.
+  * Podzemní přenos elektřiny.
+  * Bezuhlíkové plasty.
+  * Geotermální energii.
+  * Přečerpávací vodní elektrárny.
+  * Skladování termální energie.
+  * Plodiny odolné vůči suchu i záplavám.
+  * Bezuhlíkové varianty palmového oleje.

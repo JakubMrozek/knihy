@@ -1,2 +1,13 @@
 # Dějiny 20. století (Paul Johnson)
-* TODO
+* V roce 1905 A. Einstain vydáním svých článků změnil svět fyziky. Jeho teorie byla mnohokrát potvrzena, než ji sám uznal.
+* Sigmund Freud byl pravý opak. Vydal knihu Výklad snů, je autorem psychoanalýzy a mnoha pojmů, jaké dnes používáme (id, ego, superego atd.). Byly to vědecké bláboly, nebyly potvrzeny, ale už je prezentoval jako hotovou věc. Jeho žákem byl C. G. Jang.
+* Lidé se chovají zvlášť krutě a bezohledně zpravidla nikoliv ze své zloby, ale z rozběsněné touhy po spravedlnosti.
+* Woodrow Wilson, am. prezident, zveřejňuje 14 bodů (později 23) k novému světovému řádu. Do té doby bylo vše řešeno na principu tajných smluv. Mj. omezení zbrojení, navrácení Alsaska-Lotrinska Francii, autonomii národů uvnitř Rakouska-Uherska, zřízení Polska a zřízení Společnosti národů (pro kterou původně nebyl).
+* Německo na východě válku vyhrávalo, ale na západě pomalu ustupovalo. Erich Ludendorff navrhuje, že se Němci budou snažit o příměří s WW, vina za prohranou válku by pak padla na demokratické strany. Z jednání o příměří Němci usuzovali, že nepřijdou o území a podmínky kapitulace budou mírné. Francie (zastupuje Georges Clemenceau) i Velká Británie (zastupuje Lloyd George) však ostře nesouhlasí a podmínky Versaillské smlouvy nakonec byly vůči Německu daleko tvrdší.
+* John Maynard Keynes již tehdy správně odhadl, že podmínky z Versailles Německo zničí a svět dovede k další válce. Požadoval po Američanech, aby naopak Evropě pomohli a také prominuly dluh jiným zemím, aby došlo k rychlé obnově.
+* V té době měl WW 3 mrtvice, poslední byla velmi vážná a WW ochrnul na polovinu těla. Podařilo se mu to utajit a 17 měsíců za něj pracovala manželka, která studovala jen dva roky a psala za něj dětským písmem.
+* Společnost národů vznikla ratifikací Versaillské smlouvy. Pakt Společnosti národů však nikdy nebyl ratifikován kongresem a USA se nikdy členy nestaly. Nástupnickou organizací byla Organizace spojených národů (OSN).
+* Odmítnutí hospodářské pomoci Evropě nakonec vedla k tomu, že byla v Evropě hyperinflace, zejména v Německu byla obrovská. Všechny země ji chtěli řešit tím, že si získají na Německu reparace. Německo však nebylo schopno platit a v roce 1923 došlo k obsazení Porúří Francií. Němci pak přestali prakticky úplně pracovat.
+* Mnoho nových národů se snažilo o sebeurčení. Polaci získali řadu území, napadli Ukrajinu, Litvu, chtěli získat Slezko, což se jim nepodařilo a proto pak podporovali okupaci Československa 1968. Nakonec se na Polsko v Mnichově ostatní vykašlali.
+* V roce 1919 provedl Ghandí první kampaň pasivní rezistence.
+

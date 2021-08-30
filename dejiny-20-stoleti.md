@@ -10,4 +10,8 @@
 * Odmítnutí hospodářské pomoci Evropě nakonec vedla k tomu, že byla v Evropě hyperinflace, zejména v Německu byla obrovská. Všechny země ji chtěli řešit tím, že si získají na Německu reparace. Německo však nebylo schopno platit a v roce 1923 došlo k obsazení Porúří Francií. Němci pak přestali prakticky úplně pracovat.
 * Mnoho nových národů se snažilo o sebeurčení. Polaci získali řadu území, napadli Ukrajinu, Litvu, chtěli získat Slezko, což se jim nepodařilo a proto pak podporovali okupaci Československa 1968. Nakonec se na Polsko v Mnichově ostatní vykašlali.
 * V roce 1919 provedl Ghandí první kampaň pasivní rezistence.
-
+* Lenin odjíždí z Curychu o Ruska v roce 1917. Na nádraží ho vítá řada lidí, mj. i Stalin, kterého si ani nevšiml. Jeho žena byla Naděžda Krupská. Jeho bratr byl popraven za pokus o atentát na cara. On sám byl odsouzen k pobytu na Sibiři na 3 roky za protistátní činnost.
+* Lenin byl velice odměřený, nikdy nenavštívil ani továrnu, aby pochopil lidi, o kterých mluví. Jednou prohlásil, že “hlad přispívá k pokroku tím, že přiměje mužíky, aby přemýšleli o základních nedostatcích kapitalistické společnosti”. Žil velmi asketický život. Zbavil se dokonce i hudby a dalších požitků, jen aby se mohl věnovat politické činnosti.
+* Zatímco K. Marx náboženství podceňoval, Lenin náboženství upřímně nenáviděl, protože to byla konkurence jeho ideologii.
+* Lenin vytvořil frakci sociální demokracie, bolševiky, které odtrhl od menševiků. 
+* Lenin se od marxismu hodně odlišoval, v podstatných věcech vůbec marxista nebyl. Byl to spíše diktátor a miloval násilí.

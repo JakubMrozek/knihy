@@ -15,3 +15,12 @@
 * Zatímco K. Marx náboženství podceňoval, Lenin náboženství upřímně nenáviděl, protože to byla konkurence jeho ideologii.
 * Lenin vytvořil frakci sociální demokracie, bolševiky, které odtrhl od menševiků. 
 * Lenin se od marxismu hodně odlišoval, v podstatných věcech vůbec marxista nebyl. Byl to spíše diktátor a miloval násilí.
+* Benito Mussolini. Mnohem sečtělejší než Lenin, na rozdíl od Lenina toužíl být milován a záleželo mu na tom, co si o něm ostatní myslí. Byl to také v podstatě marxista, podobně jako Lenin viděl cestu v násilí.
+* Lenin vůbec neměl podporu sedláckého lidu. Chudší sympatizovali spíše s menševiky, jeho osobnost totálně ostatní odrazovala. Byl to tyran a ve straně chtěl mít jen své ovečky. Osobností číslo 2. byl u Bolševiků Trocky.
+* Hrabivý dělník se označoval jako “kulak”. Základem selského kolektivismu byla komuna, “obščina”, řemeslné družstvo se označovalo jako “artěl”.
+* Rolníci na venkově chtěli ze všeho nejvíce vlastní půdu. Tu opravdu na carovi začali získávat v letech před válkou a Rusko v té době mohutně rostlo. Válka však způsobila odvody, které měly obrovský dopad. Bylo málo lidí na práci na poli, jídlem se museli zásobovat vojáci, vznikaly sociální bouře, růst cen, nedostatek potravin. Vyvrcholilo to v roce 1917, protože byli vojáci hlavně z venkova, vzbouřili se a carský režim padl. Rolnictvo bylo proti válce a toho poté obratně využil Lenin.
+* Prozatimní vláda v čele s Kerenským ve válce, nepodařilo se jim však získat od rolníků dostatek potravin a i tato vláda se nakonec zhroutila. 
+* Vznikaly sověty, což byla alternativa parlamentu a Lenin tudy viděl cestu k moci. Bolševici slibují rychlý konec války a přerozdělení půdy. Dosáhnou většiny v moskévském i petrohradském sovětu, které byly nejdůležitější. 
+* Lenin byl vyhnán do Finska, ze kterého se nyní vrací v přestrojení a chce podniknout ozbrojený převrat. Vzniká politické byro (= politbyro), nejvyšší orgán omunistických stran.
+* Dne 25. října uskutečnil převrat. Omezuje svobodu tisku, vydal mnoho dekretů, např. znárodnění továren, vznik politické policie. Vzniká čeka (v čele Dzeržinskij), po 3 letech má tato tajná policie okolo 250 000 členů. 
+

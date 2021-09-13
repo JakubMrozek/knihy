@@ -1,4 +1,6 @@
 # PostgreSQL
+* https://www.postgresql.org/docs/current/index.html
+
 ## 8. Datové typy
 * Nové datové typy (třeba ENUM) se vytvoří přes CREATE TYPE.
 * Pro přesná čísla používat jen NUMERIC(počet cifer, počet des. čísel), jeho nevýhoda je, že kalkulace trvá o dost déle než u nepřesných REAL a DOUBLE PRECISION.

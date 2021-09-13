@@ -6,3 +6,5 @@
 * Typ MONEY umožňuje zadávat i hodnoty jako $1,000.00, nepoužívat.
 * Pro textové hodnoty používat jen VARCHAR(X) a neomezený TEXT. Typ CHAR(X) doplní řetězec o prázdné hodnoty na požadovanou délku.
 
+## Zdroje
+* https://wiki.postgresql.org/wiki/Don%27t_Do_This#Don.27t_use_money 

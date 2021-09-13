@@ -66,4 +66,7 @@
 * Herbert Hoover další volby prohrál a na jeho místo nastupuje demokrat Franklin Delano Roosevelt. Jeho bratranec z 5. kolene byl republikán Theodore Roosevelt (americký prezident 1901-1909, po něm pak následoval republikán William Howard Taft). Hoover si vše vydobyl svou prací, naopak F.D.R hlavně dědil.
 * Od 20. let F.D.R trpěl obrnou. Snažil se o vyrovnaný rozpočet, zrušil prohibici. Signály ozdravení ekonomiky byly už za Hoovera, ale všechen úspěch byl připisován Roosveltovi. Jeho ekonomika se jmenovala Nový úděl, v podstatě navazuje na Hoovera. 
 * Amerika byla zklamaná z kapitalismu a intelektuálové se začali obracet na Sovětský svaz jako vzor. Když Sověti podali inzerát, že hledají 6000 dělníků, přihlásilo se o to místo 100 tis. Američanů.
+* V roce 1929 vydává Stalin příkaz k násilné kolekivizaci sedláků. Znamenalo to 5 mil. mrtvých. Rolníci Stalina nenáviděli a nechtěli mu dávat úrodu, poslal na venkov 30 tis. ozbrojených činovníků strany, aby úrodu zabavili.
+* Stalin měl jen 160 cm, obličej měl od neštovic, jeho nejčastější příkaz byl “zastřelit!”.
+* Mnoho čistek a zinscenovaných procesů. Hlavní osoby tehdejší doby byli: Stalin, Trocký (vedl armádu, zbaven velení armády, 1926 vypovězen z polytbyra, 1929 vypovězen z Ruska, 1940 zavražděn na povel Stalina v Mexiku), Kameněv (vedl stranu v Moskvě, zavražděn Stalinem), Zinovjev (vedl stranu v Leningradu, zavražděn Stalinem), Bucharin (přední teoretik strany, zavražděn Stalinem), Molotov.
 

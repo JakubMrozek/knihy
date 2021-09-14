@@ -69,4 +69,7 @@
 * V roce 1929 vydává Stalin příkaz k násilné kolekivizaci sedláků. Znamenalo to 5 mil. mrtvých. Rolníci Stalina nenáviděli a nechtěli mu dávat úrodu, poslal na venkov 30 tis. ozbrojených činovníků strany, aby úrodu zabavili.
 * Stalin měl jen 160 cm, obličej měl od neštovic, jeho nejčastější příkaz byl “zastřelit!”.
 * Mnoho čistek a zinscenovaných procesů. Hlavní osoby tehdejší doby byli: Stalin, Trocký (vedl armádu, zbaven velení armády, 1926 vypovězen z polytbyra, 1929 vypovězen z Ruska, 1940 zavražděn na povel Stalina v Mexiku), Kameněv (vedl stranu v Moskvě, zavražděn Stalinem), Zinovjev (vedl stranu v Leningradu, zavražděn Stalinem), Bucharin (přední teoretik strany, zavražděn Stalinem), Molotov.
-
+* Sedláků bylo tehdy ¾ všech obyvatel. Sedláci než aby úrodu dali Stalinovi, tak ji zničili. Např. porazili 18 mil. koní (45% všech). Nastal velký hladomor, mezi léty 1929 a 1936 zemřelo násilnou smrtí 10 mil. lidí. Byly zaváděny osobní průkazy, aby se lidé nestěhovali do jiných měst bez povolení.
+* V roce 1928 se Stalinův syn pokusil o sebevraždu. V roce 1932 Stalinova žena Světlana spáchala sebevraždu. Byla jediným člověkem, který se dokázal postavit Stalinovi a říct mu otevřeně, co si o současné situaci myslí. Jako jediná protestovala proti tyranii.
+* V koncentračních táborech bylo 10 mil. vězňů. Ti byli používáni jako pracovní síla zdarma pro různé stavitelské projekty, kterých bylo v SSSR hodně.
+* Mnoho zahraničních komentátorů žilo ze Sovětského svazu v iluzi. Ať už byli naivní sami, nebo za to dostávali zaplaceno. Když jel George Bernard Shaw do SSSR, než vstoupil na jejich území, tak vyhodil jídlo z vlaku, protože byl přesvědčen, že je zde jídla nadbytek.

@@ -73,3 +73,7 @@
 * V roce 1928 se Stalinův syn pokusil o sebevraždu. V roce 1932 Stalinova žena Světlana spáchala sebevraždu. Byla jediným člověkem, který se dokázal postavit Stalinovi a říct mu otevřeně, co si o současné situaci myslí. Jako jediná protestovala proti tyranii.
 * V koncentračních táborech bylo 10 mil. vězňů. Ti byli používáni jako pracovní síla zdarma pro různé stavitelské projekty, kterých bylo v SSSR hodně.
 * Mnoho zahraničních komentátorů žilo ze Sovětského svazu v iluzi. Ať už byli naivní sami, nebo za to dostávali zaplaceno. Když jel George Bernard Shaw do SSSR, než vstoupil na jejich území, tak vyhodil jídlo z vlaku, protože byl přesvědčen, že je zde jídla nadbytek.
+* Nejlepší období Výmarské republiky bylo v letech 1924 až 1929. Hlavními postavami byli Gustav Stresemann (min. zahraničí) a Konrád Adenauer (starost Kolína nad Rýnem). V té době probíhaly velké spory a krvavé bitky mezi komunisty a Rohmovými SA. Hitler se prezentuje na veřejnosti jako jediný, kdo se dokáže chránit proti rudému teroru a ochránit áríjskou rasu.
+* Volby v roce 1928 znamenaly pro Hitlera porážku, ze 14 poslanců jich měl už jen 12. Mnoho hlasů však dostali komunisté, což vytvořilo podhoubí pro agresivnější politiku vůči nich a v dalších volbách o dva roky později už Hitler dostal 107 křesel.
+* Hitlera hodně podceňovali.
+

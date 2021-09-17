@@ -75,5 +75,14 @@
 * Mnoho zahraničních komentátorů žilo ze Sovětského svazu v iluzi. Ať už byli naivní sami, nebo za to dostávali zaplaceno. Když jel George Bernard Shaw do SSSR, než vstoupil na jejich území, tak vyhodil jídlo z vlaku, protože byl přesvědčen, že je zde jídla nadbytek.
 * Nejlepší období Výmarské republiky bylo v letech 1924 až 1929. Hlavními postavami byli Gustav Stresemann (min. zahraničí) a Konrád Adenauer (starost Kolína nad Rýnem). V té době probíhaly velké spory a krvavé bitky mezi komunisty a Rohmovými SA. Hitler se prezentuje na veřejnosti jako jediný, kdo se dokáže chránit proti rudému teroru a ochránit áríjskou rasu.
 * Volby v roce 1928 znamenaly pro Hitlera porážku, ze 14 poslanců jich měl už jen 12. Mnoho hlasů však dostali komunisté, což vytvořilo podhoubí pro agresivnější politiku vůči nich a v dalších volbách o dva roky později už Hitler dostal 107 křesel.
-* Hitlera hodně podceňovali.
-
+* Hitlera hodně podceňovali. Poté následovalo několik dalších voleb. Odchodem SNDAP došlo k rozpuštění komory a konávaly se nové volby až se 30. ledna 1933 stal Hitler kancléřem a obsazuje 3 nejdůležitější ministerstva: kancléřství, ministra vnitra Pruska a ministra vnitra celostátního. Posty obsadili Hitler, Hermann Göring a Wilhelm Frick. Po zvolení kancléřem proběhla v Berlíně obrovská přehlídka Hitlerových vojáků s pochodněmi.
+* Göring rozšiřuje působnost tajné policie (gestapa) pod nacistické vedení.
+* Dne 28. února 1933 požář Říšského sněmu. To bylo pro Hitlera záminkou k tomu, aby vydal zákony o omezování svobody, omezení práva vyjadřování, cenzuru, domovní prohlídky, konfiskaci majetku ap.
+* Dne 5. března byly další volby, Hitler dostal už 43% a vydal zmocňovací zákon. Ten znamenal převedení další moci na Hitlera a v podstatě došlo k zrušení ústavy. Ostatní strany byly zakázány, mnoho lidí s opozičními názory bylo zavražděno. Byly zakládány koncentrační tábory (první byl v Dachau). Hitler potřeboval jen 5 měsíců na zničení demokracie.
+* Hitler nikdy nedůvěřoval SA od Ernsta Röhma a proto si po svém propuštění z vězení zařídil vlastní stráž SS. Od roku 1929 je řídil Heinrich Himmler. Jako Caesar často instituce zdvojoval a nechával je bojovat proti sobě (např. zřízení výzvědné služby, která kontrolovala SA, vedl ji Reinhard Heydrich). Díky jedna služba donášela na druhou a Hitler měl přehled o všem.
+* Hitler nenáviděl psané příkazy, dochoval se pouze jeden jeho rukopis. Dával příkazy ústně.
+* Noc dlouhých nožů proběhla v roce 1934 (“Röhmův puč”). Hlavním cílem bylo eliminovat mocnou SA a jejího příliš ambiciózního vůdce Ernsta Röhma. Byl později bez soudu zastřelen.
+* Norimberské zákony přijaté v 1935. Jsou to především dva ústavní zákony, na jejíž základě byla prováděna nacistická rasová diskriminace. Zaměřeny proti Židům.
+* V roce 1938 proběhla Křišťálová noc. Bylo zavražděno mnoho Židů, řada jich byla odvedena do koncentračních táborů, židovské obchody byly rabovány a synagogy vypáleny. 
+* Podnikatele Hitler obvykle nechal napokoji, protože potřeboval, aby jejich podniky fungovaly. Tady se poučil z problémů SSSR. 
+* Když Hitler začal usilovat o moc, bylo v Německu na 8 mil. nezaměstnaných, v roce 1938 už spíše pracovní síly citelně chyběli.

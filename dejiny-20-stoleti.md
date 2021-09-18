@@ -85,4 +85,18 @@
 * Norimberské zákony přijaté v 1935. Jsou to především dva ústavní zákony, na jejíž základě byla prováděna nacistická rasová diskriminace. Zaměřeny proti Židům.
 * V roce 1938 proběhla Křišťálová noc. Bylo zavražděno mnoho Židů, řada jich byla odvedena do koncentračních táborů, židovské obchody byly rabovány a synagogy vypáleny. 
 * Podnikatele Hitler obvykle nechal napokoji, protože potřeboval, aby jejich podniky fungovaly. Tady se poučil z problémů SSSR. 
-* Když Hitler začal usilovat o moc, bylo v Německu na 8 mil. nezaměstnaných, v roce 1938 už spíše pracovní síly citelně chyběli.
+* Když Hitler začal usilovat o moc, bylo v Německu na 8 mil. nezaměstnaných, v roce 1938 už spíše pracovní síly citelně chyběli. Hitler byl oblíbený. Režim byl stabilní, dostali se z krize rychle, lidem se dařilo dobře.
+* Greshamův zákon politické morálky: strach likviduje lidské hodnoty a jeden stahuje druhého do stále větších hlubin zla.
+* V roce 1934 umírá Hindenburg a Hitler přebírá i jeho funkci. Armáda přísahala Hilterovi, Hitler se stává “vůdce”. Vše si nechal stvrdit plebiscitem, na 84,6% Němců Hitlera podpořilo.
+* Stalin se velmi inspiroval čistkami Hitlera. Po soudním procesu se Zinovjevem a Kameněvem provedl tisíce poprav funkcionářů. Vyvraždil cca 30 tis. důstojníků (½ všech), 80% plukovníků a generálů. Celkem bylo zavražděno asi 1 mil. členů strany a vězením prošlo (a velmi těžkým mučením) asi 10% všech obyvatel SSSR. Sověti měli vždy mnohem více koncentračních táborů než Němci. Celkem Stalin zlikvidoval asi 10 mil. lidí.
+* Začátkem 30. let na tom byly armády demokratických zemích zle. Dokonce americká armáda byla ještě měnší než ta československá.
+* Japonci dávali asi ½ rozpočtu na armádu a zbrojení. V podstatě tam nikdo nevládl, jen militantní šintoismus. 
+* V roce 1925 proběhl v Japonsku pokus o puč. Pučisté obsadili císařský palác, ale císaři se podařilo uprchnout a za 4 dny se vzdali. Všichni byli buď zavražděni, nebo jim bylo dovoleno spáchat harakiri.
+* V roce 1934 proběhl Dlouhý pochod, kdy se komunisté pod Maem snačili dostat z dosahu Kuomintagu. Trval 2 roky a po něm Mao získal veškerou moc komunistů.
+* Stalin velmi toužil po tom, aby se komunisté spojili s kuomintagem v boji proti Japoncům, neboť jinak by Japonci téměř jistě napadli SSSR. To se Stalinovi podařilo. V roce 1937 proběhl v Pekingu na mostě Marca Pola střet s Japonci a vznikla z toho regulérní válka. Mao se však soustředil více na rozvoj komunistické strany a boji s Japonci věnoval jen 10% energie.
+* Mezi Rusy a Japonci proběhla řada menších šarvátek, v roce 1939 proběhla bitva, kterou vyhráli SSSR pod generálem Žukovem. Byla to 1. porážka Japonců ve 20. století.
+* V roce 1937 vstoupili Japonci do Nankingu. Byl z toho 4 týdny trvající masakr, při kterém zemřelo 200 tis. až 300 tis. lidí.
+* Hitler byl v počátcích inspirován Mussolinim. Ten o něj příliš nestál, díval se na něj jako na nevzdělance, barbara. V roce 1935 Hitler vypověděl smlouvu ve Versailles. Bylo to bez odezvy okolního světa, podobně jako činy Japonců. Itálie se proto rozhodla v roce 1935 napadnout Habeš (Etiopii), která měla spory se sousedním italským Somálskem a Eritreou. Po tomto aktu Společnost národů zasáhla a uvalila na Itálie sankce, což však Italům moc nevadilo a obsadili zemi, sankce jsou k ničemu. Z Mussoliniho se však stal nepřítel západního světa a vedlo to k tomu, že navázal spojenectví s Němci a spolu vytvořili “osu Berlín-Řím”. 
+* Itálie přistupuje k paktu proti Kominterně (kde byli Němci a Japonci), napadl Albánii a podepsal Ocelový pakt s Hitlerem.
+* Španělsko dlouho odolávalo fašismu i komunismu. Občanská válka probíhala v letech 1936 až 1939 a vypukla v momentě, kdy proti demokraticky zvolené republikánské vládě vojensky vystoupila armáda pod vedením generála Francisca Franca. 
+

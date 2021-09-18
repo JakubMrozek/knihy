@@ -26,8 +26,9 @@
 * Získávání dat přes dotazy typu SQL/JSON. Např. $.floor[0, 1].apt[1 to last].
 * Pro fulltext se používá typ TSVECTOR. Text se rozloží na jednotlivé tokeny a pak je možné vyhledávat i jiné tvary slova, definovat jak daleko od sebe slova v textu mohou být vzdáleny atd. Bohužel chybí podpora jazyků typu čínština, japonština ap.
 * Typ ARRAY. Definuje se jako typ[]. Je možné zadat typ i jako integer[3], ale ta trojka slouží jen pro dokumentaci, PostgreSQL počet prvků v poli nehlídá.  Možno používat vícedimenziální pole. Vybírání rozsahu pole přes dotazy typu schedule[1:2][1:1].
-
-
+* Kompozitní (složené) typy. Jsou užitečné při práci s procedurami, jinak raději nepoužívat. Vložení jako INSERT INTO on_hand VALUES (ROW('fuzzy dice', 42, 1.99).
+* RANGE typ pro rozsah třeba čísel nebo dat. Ideální třeba pro uložení informace, že mistnost bude nedostupná OD - DO.
+* DOMAIN se používá pro kontrolu hodnot. Třeba zda je řetězec typu email, číslo je kladné ap.
 
 ## Zdroje
 * https://wiki.postgresql.org/wiki/Don%27t_Do_This#Don.27t_use_money 

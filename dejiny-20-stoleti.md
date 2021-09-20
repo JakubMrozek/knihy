@@ -99,4 +99,19 @@
 * Hitler byl v počátcích inspirován Mussolinim. Ten o něj příliš nestál, díval se na něj jako na nevzdělance, barbara. V roce 1935 Hitler vypověděl smlouvu ve Versailles. Bylo to bez odezvy okolního světa, podobně jako činy Japonců. Itálie se proto rozhodla v roce 1935 napadnout Habeš (Etiopii), která měla spory se sousedním italským Somálskem a Eritreou. Po tomto aktu Společnost národů zasáhla a uvalila na Itálie sankce, což však Italům moc nevadilo a obsadili zemi, sankce jsou k ničemu. Z Mussoliniho se však stal nepřítel západního světa a vedlo to k tomu, že navázal spojenectví s Němci a spolu vytvořili “osu Berlín-Řím”. 
 * Itálie přistupuje k paktu proti Kominterně (kde byli Němci a Japonci), napadl Albánii a podepsal Ocelový pakt s Hitlerem.
 * Španělsko dlouho odolávalo fašismu i komunismu. Občanská válka probíhala v letech 1936 až 1939 a vypukla v momentě, kdy proti demokraticky zvolené republikánské vládě vojensky vystoupila armáda pod vedením generála Francisca Franca. 
-
+* Během španělské občanské války probíhalo četné vraždění a zvěrstva. Například bylo shozeno 512 lidí do rokle. Kolem 13% všech kněží bylo zavražděno. Obě strany konfliktu zavraždily přibližně stejné množství lidí, kolem 50 tis.
+* Proti sobě stáli republikáni (podpora Rusů a Francouzů), proti nim byli nacionalisté (podpora Italů či Němců). V konfliktu se zapojilo také mnoho zahraničních vojáků.
+* Francisco Franco (nacionalisté) byl mimořádně schopný, byl to nejmladší generál v Evropě, nenáviděl politiku, velmi dobře dokázal spravovat finance (na rozdíl od druhé strany).
+* Konečným cílem Hitlera bylo stát se největší světovou velmocí. Francie ani Velká Británie nereagovali na obsazení Porýní Hitlerem, což ho nesmírně posílilo v přesvědčení, že velmoci nezasáhnou, když vyvolá válku.
+* Kolem roku 1937 měl Hitler 800 bombardérů, Velká Británie jen 48. 
+* Hitler chtěl obsadit Rakousko a pak i Československo. Armáda mu radí počkat, což vedlo Hitlera k tomu, že převzal moc i nad armádou.
+* V roce 1938 proběhl Anšluš, tedy připojení Rakouska k Německu.
+* Ve Velké Británii byl u moci Chamberlain a ve Francii Daladier. Proti Hitlerovi nezasahovali, protože ho považovali za menší zlo než komunismus. A Hitler sám prohlašoval, že kdyby tady nebyl on, byly by tady navíc miliony komunistů.
+* Dne 29. až 30. září 1938 probíhá Mnichovská konference, kde se dohodlo, že Sudety připadnou Němcům.
+* Dne 15. března 1939 Hitler obsadil Československo. Získal tím velké množství divizí armád, československá armáda byla jedna z nejlépe vyzbrojených. Poláci si pak urvali Těšínsko.
+* Připojení Rakouska k Německu podporovalo 99%+ Němců i Rakušanů. Válku však Němci nechtěli. A napadení Polska, obsazení Československa nebo Francie lidé nijak nevítali ani neoslavovali.
+* Pakt Ribbentrop–Molotov o neútočení mezi Němci a Rusy. Bylo to pragramtické, ani jedna země nechtěla vést válku na dvou frontách (Rusové proti Japoncům).
+* Dne 1.9.1939 začala válka, 17.9. pak napadl Polsko i SSSR. Dne 10.5. napadl Hitler Francii, válka trvala jen 6 týdnů. Do války vstoupily i další země jako Itálie či Rusko.
+* Charles de Gaulle odmítl příměří (kapitulaci) s Hitlerem a dohodl se s Velkou Británii o odporu.
+* V roce 1940 vyhrává volby Winston Churchill a stává se jak ministrem obrany, tak předsedou vlády. V té době už ve Velké Británii probíhal technický rozmach a vyráběli více letadel než Němci.
+* V roce 1941 zákon o půjčce a pronájmu s USA.

@@ -1,6 +1,17 @@
 # PostgreSQL
 * https://www.postgresql.org/docs/current/index.html
 
+## 4. SQL syntax
+* Identifkátory dvojíté uvozovky, stringy jednoduché. 
+* Uvozovky se zdvojují, pokud jsou obsahem řetězce ( 'Dianne''s horse'). Dále je možné použít zápis pomocí znaků dolaru: $$Dianne's horse$$.
+* U identifikátorů se neřeší velikost písmen, pokud nejsou v uvozovkách. V uvozovkách je možné použít takřka jakýkoliv název identifikátoru (včetně mězer). Např. UPDATE table SET X = 1 WHERE x = 10 AND “my sloupec” = 5.
+* Přetypování provést nejlépe přes standardní funkci CAST(). Ostatní způsoby (::) jsou buď jen pro PostgreSQL nebo mají jiné problémy.
+* COLLATE se používá pro definici způsobu řazení, např. můžeme říct, že chceme řadit podle německých jazykových pravidel ap.
+* Jako náhrada IFů je možné použít zápis s CASE, ale měli bychom se mu vyhýbat, problém je s optimalizací.
+* U funkcí je možné parametr pojmenovat, např. SELECT concat_lower_or_upper(a => 'Hello', b => 'World').
+* Funkce ROW() se hodí, když chceme zacházet s řádkem jako celkem, např. SELECT ROW('a', 'b') = (SELECT 'a', 'b') .
+* Window funkce. Umožňují pracovat se setem hodnot, které se vzdahují k danému řádku.
+
 ## 8. Datové typy
 * Nové datové typy (třeba ENUM) se vytvoří přes CREATE TYPE.
 * Pro přesná čísla používat jen NUMERIC(počet cifer, počet des. čísel), jeho nevýhoda je, že kalkulace trvá o dost déle než u nepřesných REAL a DOUBLE PRECISION.

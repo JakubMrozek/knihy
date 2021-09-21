@@ -12,6 +12,11 @@
 * Funkce ROW() se hodí, když chceme zacházet s řádkem jako celkem, např. SELECT ROW('a', 'b') = (SELECT 'a', 'b') .
 * Window funkce. Umožňují pracovat se setem hodnot, které se vzdahují k danému řádku.
 
+## 5. Data definition
+* Generated columns fungují podobně jako views, sloupec je vytvořen z hodnot jiných sloupců. Nelze editovat přímo. Má dva druhy: stored (hodnota sloupce je fyzicky ukládaná) a virtual (hodnota je vypočítaná při výběru). Např. height_in numeric GENERATED ALWAYS AS (height_cm / 2.54) STORED. 
+* K typům sloupců je možné přidat specifičtější kontrolu pomocí CHECK. Např. price numeric CHECK (price > 0).
+* K sloupcům, které odkazují na jiné sloupce (cizí klíče), je dobré přidat index. Pro SELECTy to obvykle nevadí, protože v odkazované tabulce už index na primárním klíči je, ale pokud provádíme operace typu WHERE order_id = XXX, tak by měl být index na order_id.
+
 ## 8. Datové typy
 * Nové datové typy (třeba ENUM) se vytvoří přes CREATE TYPE.
 * Pro přesná čísla používat jen NUMERIC(počet cifer, počet des. čísel), jeho nevýhoda je, že kalkulace trvá o dost déle než u nepřesných REAL a DOUBLE PRECISION.

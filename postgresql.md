@@ -16,6 +16,14 @@
 * Generated columns fungují podobně jako views, sloupec je vytvořen z hodnot jiných sloupců. Nelze editovat přímo. Má dva druhy: stored (hodnota sloupce je fyzicky ukládaná) a virtual (hodnota je vypočítaná při výběru). Např. height_in numeric GENERATED ALWAYS AS (height_cm / 2.54) STORED. 
 * K typům sloupců je možné přidat specifičtější kontrolu pomocí CHECK. Např. price numeric CHECK (price > 0).
 * K sloupcům, které odkazují na jiné sloupce (cizí klíče), je dobré přidat index. Pro SELECTy to obvykle nevadí, protože v odkazované tabulce už index na primárním klíči je, ale pokud provádíme operace typu WHERE order_id = XXX, tak by měl být index na order_id.
+* Systém práv typu ALTER TABLE table_name OWNER TO new_owner a GRANT UPDATE ON accounts TO joe.
+* SRow-Level Security. Umožňuje nařídit přístup jen k některým řádkům (a sloupcům). Uživatel třeba může editovat své heslo, ale už nikoliv hesla jiných uživatelů. Pozor na export dat, mohly by se vyexportovat tabulky bez některých dat (row_security=off).
+* SNejvýše je databázový cluster, který obsahuje několik schémat, které pak obsahují různé tabulky.
+* SDefaultní je public schéma. Rezerované schéma je pg_.
+* SK čemu se hodí schéma? Nedokází ke kolizím. Můžeme tabulky rozdělit do tématických celků, dobré je to tehdy, když instalujeme třeba rozšíření od třetí strany, tehdy by ke konfliktu názvů mohlo dojít.
+* SNastavení cesty, ve které se vyhledává schéma podle příkazu SET search_path TO myschema,public.
+* SDědičnost tabulek. Při dotazu SELECT … se použije klauzule ONLY, pokud chceme vybrat data jen ze jmenované tabulky, jinak se vyberou data i pod potomků.
+* SZjistit tabulku (její ID) lze přes tableoid.
 
 ## 8. Datové typy
 * Nové datové typy (třeba ENUM) se vytvoří přes CREATE TYPE.

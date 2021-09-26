@@ -115,3 +115,15 @@
 * Charles de Gaulle odmítl příměří (kapitulaci) s Hitlerem a dohodl se s Velkou Británii o odporu.
 * V roce 1940 vyhrává volby Winston Churchill a stává se jak ministrem obrany, tak předsedou vlády. V té době už ve Velké Británii probíhal technický rozmach a vyráběli více letadel než Němci.
 * V roce 1941 zákon o půjčce a pronájmu s USA.
+* V roce 1940 dal Stalin povraždit 15 tis. polských důstojníků u Katyně na Smolensku.
+* Dne 22. července 1941 začala operace Barbarossa, napadení SSSR Třetí Říší. Stalin Hitlera velmi obdivoval a věřil mu až do dne, než ho napadl, přestože měl už zprávy, že se k tomu schyluje.
+* Diplomatické úsloví: Rusko není nikdy tak silné, jak vypadá. A rusko není nikdy tak slabé, jak se zdá.
+* Hitler ostatní národy pravidelně podceňoval. Velmi podcenil sílu Sovětu, a z toho důvodu byly vojenské jednotky při napadení silně poddimenzované. Nejhůře na tom bylo Luftwafe, Goring byl líný a neschopný.
+* Američané a Britové po napadení začali Sověty mocně podporovat. Dne 6.12.1941 začíná silná ruská ofenzíva a válka se začala Hitlerovi vymykat z rukou. Fatálně selhával v koordinaci s Japonci a krátce po útoku Japonců na Pearl Harbor vyhlásil Hitler i válku USA (11. prosince 1941). Tím definitivně své šance na vítězství pohřbil.
+* Japonci snad s výjimkou armády válku nechtěli. Ale stejně se do ní pustili. Tušili katastrofu, válka byla od začátku odsouzena k neúspěchu.
+* Dne 7.12.1941 provedli Japonci útok na Pearl Harbor. Útok způsobil škody, se kterými se Američané velmi rychle poradili, potopené lodě v mělčině rychle opravili.
+* Na počátku Japonci zaznamenávali vítězství. Získali Singapore, Holandskou východní Indii, Filipíny či Mandalay. V době největšího rozsahu říše Japonci ovládali až 10% zemského povrchu.
+* Spojenci dokázali rozšifrovat komunikaci a věděli o každém kroku protivníka. Díky tomu dokázali třeba sestřelit letadlo s Isoroku Jamamotem, admirálem a vrchním velitelem spojeného loďstva. Dokázali rozluštit Enigmu, kterou od roku 1926 používali Němci, i Triton. Výsledkem toho VB ovládla třeba Atlantik a dokázali Němcům posílat falešné zprávy, což se projevilo v roce 1944 při vylodění v Normandii. Poslali Němcům chybné zprávy a ti jejich vylodění nečekali.
+* Bitva u Midway byla významná bitva v Tichomoří půl roku po útoku na Pearl Harbor. Japonci utrpěli četné ztráty i v důsledku toho, že spojenci uměli dešifrovat jejich komunikaci.
+* Američané vyhráli válku vlastně díky kapitalismu. Podnikatelé měli pobídky a neomezené možnosti a dokázali stavět  a vyrábět obrovskou rychlostí.
+* V polovině roku proběhlo spojenecké bombardování Hamburku. Při jediném dni zemřelo na 400 tis. Němců (37% obyvatel města). Při bombardování vznikla nad městem teplota 800-1000 stupňů Celsia. Další masakr proběhl v únoru 1945 v Drážďanech, těsně před koncem války. Zemřelo tehdy 135 tis. mrtvých.

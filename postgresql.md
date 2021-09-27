@@ -24,6 +24,12 @@
 * Nastavení cesty, ve které se vyhledává schéma podle příkazu SET search_path TO myschema,public.
 * Dědičnost tabulek. Při dotazu SELECT … se použije klauzule ONLY, pokud chceme vybrat data jen ze jmenované tabulky, jinak se vyberou data i pod potomků.
 * Zjistit tabulku (její ID) lze přes tableoid.
+* Smazat i všechny závislé objekty přes DROP xxx CASCADE. 
+* Partitioning rozdělí tabulku na několik menších celků. Benefit je v tom, že pak prohledávám menší množství dat, což může přinést dramatické zvýšení výkonu. Kdy tabulku rozdělit? Záleží to na aplikaci, ale zvážit by se to mělo, když velikost tabulky překročí fyzickou paměť databáze (RAM).
+* Partitions mohou být dále definované jako partitions.
+* Foreign data. Možnost připojit nějaký externí systém k PostgreSQL a přes něj získávat data pomocí klasických SQL dotazů.
+* Příklad: aplikace pro správu počasí, k nejnovějším datům přistupuji častěji než k těm historickým.
+
 
 ## 8. Datové typy
 * Nové datové typy (třeba ENUM) se vytvoří přes CREATE TYPE.

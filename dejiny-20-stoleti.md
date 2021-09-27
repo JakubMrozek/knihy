@@ -127,3 +127,24 @@
 * Bitva u Midway byla významná bitva v Tichomoří půl roku po útoku na Pearl Harbor. Japonci utrpěli četné ztráty i v důsledku toho, že spojenci uměli dešifrovat jejich komunikaci.
 * Američané vyhráli válku vlastně díky kapitalismu. Podnikatelé měli pobídky a neomezené možnosti a dokázali stavět  a vyrábět obrovskou rychlostí.
 * V polovině roku proběhlo spojenecké bombardování Hamburku. Při jediném dni zemřelo na 400 tis. Němců (37% obyvatel města). Při bombardování vznikla nad městem teplota 800-1000 stupňů Celsia. Další masakr proběhl v únoru 1945 v Drážďanech, těsně před koncem války. Zemřelo tehdy 135 tis. mrtvých.
+* Dne 6. června 1944 vylodění v Normandii.
+* Dne 20. července 1944 pokus o atentát na Hitlera. Neúspěšný, utvrdilo ho to, že byl vybrán vyšší mocí pro svůj úkol.
+* Od ledna 1945 se s Goebbelesem přesunul do bunkru pod Berlínem. Dne 30.4.1945 spáchal sebevraždu.
+* Klíčovým dokumentem usvědčujícím nacisty z genocidy byl dokument z 31.7.1941 o tzv. konečném řešení židovské otázky. Cílem bylo popravit všech 30 mil. Židů, kteří se na světě pohybovali. Příkaz k realizaci dal vůdcovým jménem Hermann Göring Himmlerovu zástupci R. Heydrichovi (jeho zástupce byl A. Eichman). 
+* Dne 20.1.1942 proběhla konference ve Wannsee. Jediným bodem bylo řešení židovské otázky.
+* Velitelem koncentračního táboru Osvětim byl Rudolf Höss. 
+* K vraždění sep oužíval plyn cyclon B.
+* Konečné řešení probíhalo od jara 1942 a z 8 700 000 Židů na dobytých územích povraždil Hitler celkem min. 5 800 000 Židů. Jen v Osvětimi bylo zavražděno 2 mil. Židů.
+* Bitva o Guadalcanal byla společně s bitvou o Midway jednou z důležitých bitev v Tichomoří. Prohráli je Japonci a od té chvíle začala mizet jejich dominance v této oblasti.
+* Několik konferencí: Teheránská konference (listopad až prosinec 1943, první setkání Stalina, Roosevelta, Churchila, tématem společná koordinace bojů proti Hitlerovi). Jaltská konference (únor 1945, Stalin, Roosevelt, Churchill, o rozdělení poválečné Evropy, vznik OSN). Postupimská konference (Stalin, Truman, Churchill - později nahrazen Atleem, týkala se poválečné správy Německa, bylo to pár týdnů po kapitulaci v červenci až srpnu 1945).
+* Shození bomby na Hirošimu. Z 245 tis. lidí zahynulo 100 tis. hned a dalších 100 tis. později. Před bombardováním bylo svrženo 720 tis. letáků upozorňující na výbuch, lidé to však nebrali vážně. Japonci reagovali po prvním výbuchu tak, že předvolali hlavního atomového výzkumu a nařídili mu vytvořit do 6 měsíců stejnou bombu.
+* Po Nagasaki měli Američané připraveny ještě 2 další bomby. Japonci si mysleli, že jich je výrazně více, proto kapitulovali. Císař se pro kapitulaci rozhodl navzdory velké nevoli ostatních (pokoušeli se ho i zabít). Bez atomové bomby by patrně ke kapitulaci nedošlo.
+* Tribunál v Tokiu. Podobný jako Norimberské procesy, byl zde dokonce probírán i masakr u Nankingu.
+* Tzv. darebný dokument o rozdělení vlivu v Evropě. Stalin měl dostat Maďarsko a Jugoslívii v poměru 50:50, 90% v Rumunsku, 75% v Bulharsku a USA měli mít 90% moci v Řecku. Stalin však příliš dohody dodržovat nechtěl. Británi byla válkou nesmírně vyčerpaná a tak Řecko a Turecko převzali USA.
+* Ministr zahraničí USA byl George Marshall, jeho náměstek Dean Atcheson. Z jejich pohledu hrozil postup sovětů dále a USA se proto rozhoduje reagovat. Vzniká Trumanova doktrína o zadržování komunismu a později byl vyhlášen Marschallův plán pro hospodářskou obnovu Evropy.
+* Byla to nutnost, Američané by jinak neměli s kým obchodovat. Pozahájení plánů se dramatický rozdíl v hospodářské úrovni mezi USA a zbytkem světa začíná snižovat.
+* Dne 20. února 1948 nekomunističtí poslanci rezignují a Československo se stává satelitem SSSR. Beneš byl slabý prezident. Ministr zahraničí Jan Masaryk spáchal sebevraždu.
+* V roce 1948 tři západní spojenci vyhlašují na svých územích v Německu svou měnu. Stalin reaguje zabráněním průjezdu do západního Berlína. Američané zvažují použití síly, nakonec se rozhodují pro letecký most, aby to neskončilo dalším velkým konfliktem.
+* V roce 1949 vzniká NATO. Národy rozhoupala situace v Berlíně.
+* V USA vzniká Rada národní bezpečnosti 68 s hlavními směry politiky. V zahraničí bylo rozmístěn až 1 mil. vojáků.
+* Dotaz na Číňany, zda si chtějí po válce přisvojit Indočínu. Odmítají, k ničemu by jim nebyla, navíc tam nejsou Číňané.

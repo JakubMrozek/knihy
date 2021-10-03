@@ -30,8 +30,23 @@
 * Foreign data. Možnost připojit nějaký externí systém k PostgreSQL a přes něj získávat data pomocí klasických SQL dotazů.
 * Příklad: aplikace pro správu počasí, k nejnovějším datům přistupuji častěji než k těm historickým.
 
+## 6. Data Manipulation
+* RETURNING * je možné použít i pro klauzule UPDATE či DELETE.
 
-## 8. Datové typy
+## 7. Queries
+* CROSS JOIN se použije pro spojení řádek z jedné tabulky se spojí s každým řádkem z druhé tabulky.
+* INNER JOIN je default.
+* T1 JOIN T2 USING (a,b) znamená ON T1.a = T2.a AND T1.b = T2.b.
+* FULL JOIN je jako LEFT a RIGHT dohromady.
+* Možno použít VALUES pro vytvoření tabulky v dotazu: FROM (VALUES ('anne', 'smith'), ('bob', 'jones'), ('joe', 'blow')).
+* GROUPING SETS (CUBE a ROLLUP) nahrazuje propojení několika GROUP BY (jako kdybychom několik dotazů spojili přes UNION).
+* Klauzule DISTINCT ON pro vyfiltrování výsledků, které mají nějaký sloupec duplicitní.
+* UNION (spojení dotazů), INTERSECT (průnik), EXCEPT (rozdíl). Klauzule odstraní duplicitní výsledky, pokud je chci nechat, dodá se ALL.
+* Řadit výsledky jako ORDER BY a + b, c. Specifikace, kde budou nulové hodnoty pomocí NULLS FIRST and NULLS LAST.
+* Common Table Expressions (CTE) jsou velmi silným nástrojem, mohou se hodit třeba pro efektivní přesun dat z jedné tabulky do druhé.
+* CTE s rekurzí (WITH RECURSIVE).
+
+## 8. Data types
 * Nové datové typy (třeba ENUM) se vytvoří přes CREATE TYPE.
 * Pro přesná čísla používat jen NUMERIC(počet cifer, počet des. čísel), jeho nevýhoda je, že kalkulace trvá o dost déle než u nepřesných REAL a DOUBLE PRECISION.
 * Typ SERIAL je zastaralý, lepší je definovat primární klíč pomocí standardizovaného INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY.
@@ -59,6 +74,11 @@
 * Kompozitní (složené) typy. Jsou užitečné při práci s procedurami, jinak raději nepoužívat. Vložení jako INSERT INTO on_hand VALUES (ROW('fuzzy dice', 42, 1.99).
 * RANGE typ pro rozsah třeba čísel nebo dat. Ideální třeba pro uložení informace, že mistnost bude nedostupná OD - DO.
 * DOMAIN se používá pro kontrolu hodnot. Třeba zda je řetězec typu email, číslo je kladné ap.
+
+## 9. Functions and Operators
+* Operátor <> je standardní SQL notace pro !=.
+* NULL::boolean není FALSE, ale UNKNOWN.
+* Celočíselné dělení: 5 / 2 → 2, mocniny: 2 ^ 3 → 8.
 
 ## Zdroje
 * https://wiki.postgresql.org/wiki/Don%27t_Do_This#Don.27t_use_money 

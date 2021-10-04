@@ -79,6 +79,9 @@
 * Operátor <> je standardní SQL notace pro !=.
 * NULL::boolean není FALSE, ale UNKNOWN.
 * Celočíselné dělení: 5 / 2 → 2, mocniny: 2 ^ 3 → 8.
+* Funkce LEFT('abcde', 2) → ab, RIGHT('abcde', 2) → de, PARSE_IDENT(), QUOTE_IDENT(), QUOTE_LITERAL(), STRING_TO_ARRAY(), REGEXP_STRING_TO_ARRAY()
+* Klauzule LIKE je case sensitive, ILIKE je case insensitive.
+* Klauzule SIMILAR TO je podobná LIKE, obsahuje ale o trochu více možností směrem k POSIX.
 
 ## Zdroje
 * https://wiki.postgresql.org/wiki/Don%27t_Do_This#Don.27t_use_money 

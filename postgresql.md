@@ -82,6 +82,19 @@
 * Funkce LEFT('abcde', 2) → ab, RIGHT('abcde', 2) → de, PARSE_IDENT(), QUOTE_IDENT(), QUOTE_LITERAL(), STRING_TO_ARRAY(), REGEXP_STRING_TO_ARRAY()
 * Klauzule LIKE je case sensitive, ILIKE je case insensitive.
 * Klauzule SIMILAR TO je podobná LIKE, obsahuje ale o trochu více možností směrem k POSIX.
+* Operátory pro práci s regulárními výrazy: ~, ~*, !~, !~*.
+* Funkce to_char() a to_date() slouží pro převod na textovou verzi data nebo pro parsování data.
+* Výpočet dnů, které jsou mezi daty: date - date → integer.
+* Výpočet věku mezi dvěma daty: age(timestamp, timestamp), výsledek je pak např. 43 years 9 mons 27 days.
+* Konstanty current_time, current_date, now().
+* Pro extrahování nějaké části z data se použije date_part().
+* Funkce date_trunc() odstraní nějakou část data (třeba zaokrouhlí hodiny ap.).
+* Funkce make_date() vytvoří datum, zadává se číslo měsíce, dne ap.
+* Operátor OVERLAPS zjistí, zda se dva data překrývají.
+* Funkce EXTRACT(field FROM source) získá z data různí informace (i číslo týdne ap.).
+* Vrácení času v dané časové zóně pomocí timestamp AT TIME ZONE zone.
+* Funkce gen_random_uuid() vygeneruje unikátní UUID.
+
 
 ## Zdroje
 * https://wiki.postgresql.org/wiki/Don%27t_Do_This#Don.27t_use_money 

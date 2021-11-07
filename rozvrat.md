@@ -16,3 +16,12 @@
 * Finové byli bráni jako součást prohrané strany války a byli podrobeni tvrdým reparacím, museli také spolupracovat se Sověty (kupovat od nich výrobky ap.).
 * Finové jednali velice racionálně. Uvědomovali si svou situaci a možnost, že je Sověti násilím k SSSR připojí. Jednali proto maximálně pragramticky. Přestože jsou demokatická země, dobrovolně se autocenzurují a Sověty nekritizovali. Pokud nějaký deník vydal něco protisovětského, tak se omlouval i prezident. Díky tomu SSSR nikdy už Finy nenapadl a ani nedošlo ke komunistickému převratu. Sověti Finům důvěřovali a Finové vždy dohody dodrželi.
 * Finové mají špičkové školství, učitelé jsou velice respektováni. Lidé mají ohromnou důvěru v policii, na 96% Finů policii důvěřuje. Dnes je to hich-tech země, 3,5% HDP dávají do výzkumu, to je 2x více než jakákoliv jiná země EU.
+
+## Japonsko
+* Japonsko. Skutečným vládcem Japonska byl až do éry Meidži šógun. Císař plnil pouze roli panovníka bez reálné moci.
+* První kontakt Japonců s Evropou proběhl po roce 1500. Evropané začali Japonsko ovlivňovat, přivezli zde křesťanství. Kolem roku 1600 bylo v Japonsku už na 300 tis. křesťanů. Japonští představitelé byli z evropského vlivu zděšeni, báli se i o své postavení (nekompatibilita římských katolíků se zbytkem světa), a tak se rozhodli pro přerušení kontaktu s Evropou. Křesťanství bylo v Japonsku zakázáno.
+* Japonsko se ponořilo do izolace. Obchodování probíhalo jen s Číňany, kteří mohli do vyhrazeného prostoru v přístavu v Nagasaki a s Nizozemci, kteří byli protestanti a kteří směli vstoupit na malý ostrůvek poblíž Nagasaki.
+* Vše se změnilo až v roce 1853, kdy USA přes zákaz vjeli svými loděmi do Tokijského zálivu s tím, že chtějí s Japonci obchodovat a také vydávat zajaté americké rybáře (pokud Japonci někoho na moři objevili, rovnou ho popravili). Demonstrovali tím svojí sílu jako nastupující velmoc. Když Japonci viděli vojenskou převahu, rozhodli se izolacionismus ukončit. Také věděli o opiových válkách v Číně a nechtěli dopadnout stejně. Pod Perryho smlouvu tedy končí japonská izolace.
+* Japonci naoko se Západem spolupracují. Cílem je však získat západní technologie a vědomosti a poté Západ vyhnat.
+* Šiši byli skupiny samurajů, kteří chtěli situaci vzát do svých rukou a vyhnat cizince už nyní. 
+* Proběhl boj s Brity, kdy Japonci viděli, že jsou výrazně slabší. Byl svržen šogan a moc byla vrácena císaři. Začíná meidžiovská restaurace a od roku 1868 nastupuje éra Meidži. 

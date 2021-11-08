@@ -25,3 +25,10 @@
 * Japonci naoko se Západem spolupracují. Cílem je však získat západní technologie a vědomosti a poté Západ vyhnat.
 * Šiši byli skupiny samurajů, kteří chtěli situaci vzát do svých rukou a vyhnat cizince už nyní. 
 * Proběhl boj s Brity, kdy Japonci viděli, že jsou výrazně slabší. Byl svržen šogan a moc byla vrácena císaři. Začíná meidžiovská restaurace a od roku 1868 nastupuje éra Meidži. 
+* Pro své reformy se Japonci masivně inspirovali v zahraničí. Přivzali poznatky téměř ve všech oblastech a snažili se je sloučit s japonskou tradicí.
+* Byly zrušeny výsady samurajů, byl odstraněn feudalismus, hlavním městem se stalo Tokio, proběhly reformy školství, byly ustanoveny první japonské univerzity, povinná školní docházka, celostátní poštovní systém, národní banka, celostátní daně ap.
+* Postupně vojensky posiluje, obsazuje nejprve Hokkaido, poté Rjúkjú, v roce 1894 až 1895 vedlo vítěznou válku s Čínou, anexe Tchaj-wanu. V roce 1904 až 1905 vedlo vítěznou válku s Ruskem. Bylo to poprvé, co asijská mocnost zvítězila nad evropskou. Získali díky tomu Sachalin. Poté ustanovili v roce 1905 protektorát v Koreji a v roce 1910 celou Koreu anektovali.
+* Ve 2. světové válce zahynulo na 3 mil. Japonců.
+* Ochota páchat sebevraždu za vlast nebyla nikde a nikdy v historii taková jako v Japonsku.
+* V období Meidži byla jejich vojenská tažení velmi úspěšná. Měli zkušenosti z cest do zahraničí a dokázali racionálně vyhodnotit svoji situaci a pouštěli se jen do válek, kde si byli jistí vítězstvím. V 2. světové válce už válčili mladí důstojníci bez schopnosti analyzovat situaci.
+

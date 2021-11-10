@@ -32,3 +32,13 @@
 * Ochota páchat sebevraždu za vlast nebyla nikde a nikdy v historii taková jako v Japonsku.
 * V období Meidži byla jejich vojenská tažení velmi úspěšná. Měli zkušenosti z cest do zahraničí a dokázali racionálně vyhodnotit svoji situaci a pouštěli se jen do válek, kde si byli jistí vítězstvím. V 2. světové válce už válčili mladí důstojníci bez schopnosti analyzovat situaci.
 
+## Chile
+* Chile. Dnes nejbohatší země J. Ameriky. Vyhýbala se konfliktům díky své poloze. Z jedné strany je uzavřena Andami, na severu velká poušť. Je etnicky homogenní, největší menšina má méně než 1% obyvatel.
+* Před rokem 1973 všeobecná frustrace z politické situace, neustále dochází k patům mezi levicí a pravicí. Stávky, velká inflace, nedostatek zboží.
+* V roce 1970 vítězí v prezidentských volbách marxista Salvador Allende a obrací Chile výrazně k levicovému směřování. Znárodňuje měďařské doly, tiskne peníze, nastává silná hyperinflace, násilí, stávky a nespokojenost obyvatel a armády vede až k vojenskému puči 1973. Allende spáchal sebevraždu samopalem, který dostal od F. Castra.
+* V USA funguje doktrína zasahování proti komunismu. Každý americký prezident musí proti vzrůstající hrozbě zasahovat. Vše se vyhrotilo zejména po karibské krizi. Kennedy by byl žalován, kdyby nezasahoval. USA tedy převrat podporuje.
+* Ač se zdálo, že půjde o krátkodobé řešení, vojenská junta převzala moc na 17 let. Vůdcem se stal Augusto Pinochet. Všichni ho špatně odhadli, očekávalo se, že bude velmi mírný. Místo toho se z něj stal diktátor. Mnoho stoupenců levice bylo zavražděno, rozpustil kongres, junta převzala kontrolu nad univerzitami. Zřídil tajnou policii, vězni byli brutálně mučeni.
+* Od roku 1975 se ekonomika dala na cestu volného trhu. Bylo to nečekané. Podpořila to nejspíš návštěva M. Friedmana.
+* Zpočátku USA Pinocheta podporuje, později již nemůže ignorovat vraždění a obrací se proti němu. 
+* Při prvním hlasování o prezidentském úřadu Pinochet vyhrál, o 8 let později v roce 1988 ho podpořilo už jen něco přes 42% obyvatel, zbytek se seskupil za masivní kampaní NE. Chile se poté vrátila ke klasické demokracii.
+

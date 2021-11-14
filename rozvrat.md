@@ -42,3 +42,25 @@
 * Zpočátku USA Pinocheta podporuje, později již nemůže ignorovat vraždění a obrací se proti němu. 
 * Při prvním hlasování o prezidentském úřadu Pinochet vyhrál, o 8 let později v roce 1988 ho podpořilo už jen něco přes 42% obyvatel, zbytek se seskupil za masivní kampaní NE. Chile se poté vrátila ke klasické demokracii.
 
+## Indonésie
+* Je to velmi mladý stát, nezávislost získali až 1945. Nejpočetnější náboženskou skupinou jsou muslimové, ale jsou zde i početné skupiny křesťanů a hinduistů. V zemi existuje okolo 700 jazyků.
+* Zemi nejprve kolonizovali Portugalci, od roku 1595 Nizozemci a pak i Britové. Britové obsadili jen část Bornea, Portugalcům zůstal Východní Timor a Nizozemci obsadili Javu, kde se koncentrovala nejpočetnější skupina obyvatel. Indonésané dnes vidí vliv Nizozemců jako velmi negativní.
+* Od roku 1910 dochází k sjednodocování ostrovů a vzniká indonézská identita. Do té doby vystupoval každý ostrov sám. Organizuje se silný odpor vůči kolonizátorům, ti posílají vůdce do koncentračních táborů a vězení.
+* Národním jazykem se stal jazyk bahasa indonesia, indonézská verze malajštiny. Národním jazykem se nestala jávština, zbylé indonézské národy by měly pocit dominance této oblasti, bahasa indonesia byla lepší volbou.
+* Za 2. světové války Japonci nutně potřebují ropu. Nejblíže bylo Borneo. Pomáhají tedy Indonézanům vyhnat Nizozemce a slibují Indonésii nezávislost. Místo toho zde zavádí ještě krutější vládu.
+* V prosinci 1949 je Indonézie konečně sjednocena. Nizozemci si nechali jen Východní Novou Guineu a ropná pole pro Shell.
+* Prvním prezidentem nové země je Sukarno. Provedl znárodnění nizozemských firem, centralizoval moc, země se dostala do úpadku a byla zasažena vysokou inflací. USA i VB se snaží o destabilizaci režimu. Indonésie odchází z OSN, světové banky a dalších institucí.
+* V zemi probíhají neustále politické paty, strany se nemohou na ničem dohodnout. Sukarno proto zavádí “řízenou demokracii” a více než ½ poslanců má jmenovat sám Sukarno. 
+* Sukarno provádí také expanzivní politiku, převzal část Nové Guineje. Dodnes je na tomto území partyzánská válka Papua Nová Guinea vs. Indonésie.
+* V době jeho prezidentování byly v Indonésii 3 silné entity: Sukarno, armáda a PKI (komunistická strana).
+* Narůstá moc komunistů, snaží se vyzbrojit rolníky. Armáda ztrácí moc a tak se 1. října 1965 vzbouřily dvě jednotky armády (Hnutí 30. září) a začal puč. Byl neuvěřitelně zpackaný, nezorganizovaný. Měli unést 7 generálů, místo toho jich 6 zabili a 1 utekl. Za vzpourou stáli hlavně dva důstojníci naklonění PKI. Oficiální verze je, že byl puč kompletně v režii komunistů.
+* Armádu přebírá Suharto a slibuje rozdrcení revoluce. Začíná masové čístky proti komunismu. Při čistkách bylo zavražděno až 500 tis. lidí pro podezdření z podpory komunismu.
+* Sukarto postupně vytlačuje Sukarna a v roce 1968 se stává prezidentem na dalších 30 let.
+* Země se začíná orientovat výrazně prozápadně. Končí expanzivní politika a nastupuje “berkleyská mafie”, tj. ekonomické reformy od lidí, kteří vystudovali Berkley. Zavádí se vyrovnaný rozpočet, inflace je v normě, snižují se dluhy země.
+* Země je však zasažena velkou korupcí. Manželce Suharty se říkalo “madam 10%”, protože prý 10% ze státních zakázek šlo jí.
+* V roce 1999 skončila vláda Suharta. Ke konci ho dohnal vysoký věk, přetrvávající korupce, asijská finanční krize nebo snížení hodnoty měny o 80%.
+* Portugalsko se v roce 1974 zbavovalo posledních kolonií ve Východním Timoru. Indonézská armáda na územi vpadla, zmasakrovala obyvatele a zemi připojili k Indonésii.
+* Nový indonézský prezident pod mezinárodním tlakem v roce 1999 vypisuje referendum a občané Východního Timoru chtějí jednoznačně svobodu. Indonézská armáda odchází a přitom vypaluje většinu domů. Zahynula ¼ obyvatel.
+
+
+

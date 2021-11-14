@@ -62,5 +62,10 @@
 * Portugalsko se v roce 1974 zbavovalo posledních kolonií ve Východním Timoru. Indonézská armáda na územi vpadla, zmasakrovala obyvatele a zemi připojili k Indonésii.
 * Nový indonézský prezident pod mezinárodním tlakem v roce 1999 vypisuje referendum a občané Východního Timoru chtějí jednoznačně svobodu. Indonézská armáda odchází a přitom vypaluje většinu domů. Zahynula ¼ obyvatel.
 
+# Německo
+* V roce 1949 je rozděleno na dvě území - Spolková republika Německo (SRN), sloučení 3 oblastí západních spojenců, a Německá demokratická republika (NDR) pod Sovětským svazem.
+* Východní Berlín byl také rozdělen, lidé však mohli cestovat mezi oběma Berlíny volně metrem. V roce 1961 to Sověti zatrhli, ekonomická situace západu se zlepšovala a lidé prchali na západ.
+* V roce 1948 byl Marshallův plán rozšířen i na Německo. Spojenci potřebuji silné Německo jako obranu proti SSSR. Pod K. Adenaurem probíhá hospodářský zázrak. V roce 1955 získává SRN politickou suverenitu.
+* V roce 1968 probíhaly protesty všude ve světě. V Americe proti válce, hnutí hippies. Nálada proti válkám, imperialismu, kapitalismu. V Německu obviňování svých rodiů z podpory nacismu.
 
 

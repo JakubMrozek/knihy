@@ -68,4 +68,16 @@
 * V roce 1948 byl Marshallův plán rozšířen i na Německo. Spojenci potřebuji silné Německo jako obranu proti SSSR. Pod K. Adenaurem probíhá hospodářský zázrak. V roce 1955 získává SRN politickou suverenitu.
 * V roce 1968 probíhaly protesty všude ve světě. V Americe proti válce, hnutí hippies. Nálada proti válkám, imperialismu, kapitalismu. V Německu obviňování svých rodiů z podpory nacismu.
 
+# Austrálie
+* V roce 1788 začali připlouvat do Austrálie flotily s trestanci. Mělo to být místo, kam bude Velká Británie posílat zločince. Konec převozů nastal až v roce 1868.
+* V roce 1820 bylo 84% bílých obyvatel trestanci.
+* Původní obyvatelé jsou Aboriginci. Byi to nomádi, lovci. Kolnizátoři jim jednoduše půdu zabrali bez vyjednávání. Bílí proti nim postupovali velmi tvrdě, odebírali jim děti ap.
+* V té době každý část země (Jižní Austrálie, Nový Jižní Wales, Queensland, Tasmánie, Victoria, Západní Austrálie) funguje samostatně. K sjednodcení pod jednu Astrálii došlo až v roce 1901.
+* Austrálie byla v té době silně rasistická. Platila politika bílé austrálie, Asiati, černoši a další zde nebyli vítání.
+* Austrálie byla vždy velmi loajální vůči Velké Británii a bojovali s ní bok po boku ve válkách. Velká Británie si Austrálie až tolik nevšímala.
+* Za 2. světové války Austrálie výrazně podcenila svou situaci, k dispozici byly jen dvě letadlové lodě, kterými Britové Austrálii bránili. Japonci je rychle potopili a dobyli Singapur. Bylo zde 100 tis. zajatců a byla to vůbec největší porážka Velké Británie v historii. Japonci pak prováděli nálety na Austrálii, přes 60 náletů na Darwin.
+* Austrálii v té době hlavně chránili USA a nikoliv VB.
+* Po válce se Austrálie otevírá migrantům, potřebuje být větší, aby se mohla lépe bránit.
+* Po válce obchod s Brity klesá a naopak s Asií narůstá. VB navíc vstupuje do EU, tzn., že má společnou politiku s ostatními evropskými zeměmi a Austrálie se nyní stává “cizí země”. Mateřská země se zřekla dítětě.
+* V roce 1972 proběhlo 19 dní, během kterých Austrálie provedla velké množství změn, mj. oficiálně opouští politiku bílé Austrálie.
 

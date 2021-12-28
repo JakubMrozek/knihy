@@ -81,3 +81,13 @@
 * Po válce obchod s Brity klesá a naopak s Asií narůstá. VB navíc vstupuje do EU, tzn., že má společnou politiku s ostatními evropskými zeměmi a Austrálie se nyní stává “cizí země”. Mateřská země se zřekla dítětě.
 * V roce 1972 proběhlo 19 dní, během kterých Austrálie provedla velké množství změn, mj. oficiálně opouští politiku bílé Austrálie.
 
+# Další poznámky
+* Globální změny klimatu:
+  1) CO2 v oceánech -> kyselost oceánů -> odumírání korálů -> méně potravin z mořských živočichů
+  2) účinky na rostliny -> méně srážek -> konflikty o vodu, pokles produkce potravin -> konflikty, hladomory
+  3) vyšší povrchová teplota -> klimatické extrémy, povodně, tání ledovců, zaplavení oblastí, šíření tropických nemocí
+* Hlavní problém světa je omezení zdrojů. Máme omezené množství fosilních paliv, chemických prvků a minerálů (železo, hliník, měď, nikl, olovo, …), omezené množství úrodné půdy pro zemědělství a lesnictví (lze obnovovat), sladké vody (lze obnovovat).
+* Minerály a fosilní paliva jsou anorganické látky. Neobnovují se, jejich zásoba je omezená.
+* Železa a hliníku je zatím dost, bude je potřeba ale získávat ze stále hůře dostupnějších oblastí. Kovy vzácných zemin jsou omezeny hodně, známé zásoby jsou zejména v Číně.
+* Průměrný Američan spotřebuje zhruba 32x více benzínu a vyprodukuje 32x více plastového odpadu a oxidu uhličitého než průměrný občan chudé země. Kdyby se tak chovali všichni, byl by to ekvivalent stavu, kdy na planetě žije 80 mld lidí.
+* Itálie má 60 mil. lidí, má však 2x vyšší spotřebu než 1 mld lidí, kteří obývají celou Afriku.

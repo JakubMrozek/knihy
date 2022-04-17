@@ -27,3 +27,10 @@
 * V Číně je 56 etnických skupin a ty mají i zastoupení v parlamentu (přestože v některých skupinách žije jen málo lidí).
 * Čínská diaspora je cca 40 až 60 mil. lidí.
 * Na začátku 20. století je v USA hodně protičínská nálada. Jsou levnou pracovní silou a vytlačují tak dělníky. Číňané se proto snaží najít místo, kde by nebyli Američanům konkurenty. A tak vznikají čínské čtvrti, chinatowns a čínské restaurace.
+* Čínská kultura je nejdéle souvisle trvající kulturou na planetě.
+* Počátky čínského písma se objevují v 7 tis. př. n. l., zapisovaly se na krunýře želv.
+* Moderní čínské písmo vzniklo v 2. tisíciletí před našim letopočtem a je to nejdíle používané písmo. Znaky se zapisovaly na věštecké kostky.
+* Pekingská mandarínština se stala normou po vzniku ČLR.
+* Průměrný Číňan může znát cca 3000 až 3500 znaků.
+* Koncept yin a yang znamená spojení dvou protikladů, hledání harmonie, rovnováhy.
+
